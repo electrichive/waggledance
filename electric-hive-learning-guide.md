@@ -1,6 +1,6 @@
-#Intro
+# Intro
 
-##What is this?
+## What is this?
 This is a highly-opinionated, curated guide to becoming a software engineer. I originally wrote this to give some guidance to my friends. Now, I'm offering it up to the public in the hopes that it might help others. Feel free to share or offer suggestions for improvement.
 
 ## Who is this for?
