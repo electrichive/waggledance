@@ -1,4 +1,5 @@
 #Intro
+
 ##What is this?
 This is a highly-opinionated, curated guide to becoming a software engineer. I originally wrote this to give some guidance to my friends. Now, I'm offering it up to the public in the hopes that it might help others. Feel free to share or offer suggestions for improvement.
 
@@ -19,7 +20,7 @@ Pretty much everything in this guide is my own opinion. For conciseness, I will 
 3. Use your skills to get a full-time tech job that can build your skills, career, and earn enough for you to pursue more education.
 4. Give back. Mentor new programmers. Create technology for social good. Help people and make the world a better place.
 
-##Step-by-step overview
+## Step-by-step overview
 1. Pick a single programming language to mess around with (1 day)
 2. Work through a short intro programming course in your chosen language (14 - 45 days)
 3. Decide if you actually want to become a programmer (1 - 7 days)
@@ -29,7 +30,7 @@ Pretty much everything in this guide is my own opinion. For conciseness, I will 
 7. Get a better job doing the kind of work you want to do (2-5 years)
 8. Do good in the world; hack the planet (1 lifetime)
 
-#Step 1: Pick a First Language (1 day)
+# Step 1: Pick a First Language (1 day)
 Much ado is made about picking a first language. There are many good choices but I’m going to narrow them down for you.
 
 Here is a list of languages, along with generally what kind of job(s) you would likely be able to get with competency in that language:
@@ -43,20 +44,20 @@ You have until the end of today to pick a language.
 
 If you have hit the end of the day without choosing a language, I’m going to pick for you: Congratulations, you’re going to learn Javascript!
 
-##More Info
+## More Info
 Below is more information about the languages, to help you make up your mind.
-###Javascript
-####Pros
+### Javascript
+#### Pros
 - Extremely popular
 - Easiest to get a well-paying job
 
-####Cons
+#### Cons
 - Kind of a quirky language, even with a lot of modern improvements, so:
 	- It’s a little harder to pick up as a first language
 	- It can be a little difficult to pick up other languages
 - Constant, rapid change in the ecosystem can be tiring to keep up with
 
-####Job prospects
+#### Job prospects
 - Web development
 	- Is basically the only language used for front-end web development
 	- Can be used for back-end web development
@@ -64,27 +65,27 @@ Below is more information about the languages, to help you make up your mind.
 - Native (non-browser-based) apps - a small but rapidly growing area
 
 
-###Python
-####Pros
+### Python
+#### Pros
 - Very popular
 - Easy to learn
 - Translates pretty well to learning other dynamic languages, and to a lesser degree compiled languages
 - Really useful in interview tests
 
-####Cons
+#### Cons
 - Fewer jobs than Javascript (but still a lot!)
 - Slower development in the ecosystem
 
-####Job prospects
+#### Job prospects
 - Back-end web app dev
 - Data science
 	- Moderately difficult to get a well-paying job in data science without a college degree due the need to have other specialized skills (good knowledge of algorithms & data structures, statistics, theoretical math, etc.)
 
-#Step 2: Work through a short intro course on programming using the language you chose (14 - 45 days)
-##Instructions
+# Step 2: Work through a short intro course on programming using the language you chose (14 - 45 days)
+## Instructions
 Decide whether you want to learn primarily through a video lecture series or a book/text-based course. (If you're not sure, try the video lectures first.) Start the course for your language and start working through the program as fast as possible.
 
-##Rules
+## Rules
 - Until further notice, you are now banned from copy-pasting any code. Every bit of code you use must be hand-typed. This will help you ingrain programming syntax into your brain.
 - Your goal every day is to work at least 5 minutes per day EVERY DAY. Use a timer to make sure you do at least 5 minutes.
 - Use a paper calendar to make sure you hit your goal every day and remind yourself.
@@ -92,38 +93,38 @@ Decide whether you want to learn primarily through a video lecture series or a b
 - Set up a time when you are supposed to start working on the course every day. Stick to that time.
 
 
-##Courses
-###Javascript
-####Video lecture series
+## Courses
+### Javascript
+#### Video lecture series
 Check out this course: https://www.udemy.com/the-web-developer-bootcamp/
 
 - It should be “on sale” for ~$12 USD. If it’s not “on sale”, don’t buy it.
 - Continue to check the Udemy course, then buy as soon as it goes on sale for $12 USD and switch over to that course.
 
-####Book/Text-based course
+#### Book/Text-based course
 Use this: https://www.freecodecamp.org/
 
-###Python
-####Video lecture series
+### Python
+#### Video lecture series
 Check out this course: https://www.udemy.com/course/the-modern-python3-bootcamp/
 
 - It should be “on sale” for ~$12 USD. If it’s not “on sale”, don’t buy it.
 - Continue to check the Udemy course, then buy as soon as it goes on sale for $12 USD and switch over to that course.
 
-####Book/Text-based course
+#### Book/Text-based course
 Use this: https://automatetheboringstuff.com/
 It's free online. It has an accompanying video lecture series on Udemy if you want to pay.
 
 
-###On completion
+### On completion
 Congrats, you should now have an idea if you can handle learning to be a software developer and want to dig deeper.
 
-#Step 3: Decide if you want to pursue a tech career (1 - 7 days)
+# Step 3: Decide if you want to pursue a tech career (1 - 7 days)
 Somewhere along the road of you working on the intro course, you should have figured out if you want to seriously pursue programming as a skill and tech as a career.
 
 If you do, keep using this guide. If not, bail and figure out what else you want to do with your life.
 
-#Step 4: Choose a primary method for developing employable skills (7 days - 14 days)
+# Step 4: Choose a primary method for developing employable skills (7 days - 14 days)
 So you’re going for it, and committing yourself to learning programming and building a career in tech. This is a serious commitment of time, energy and money. Spend time researching and considering carefully.
 
 The options to consider are:
@@ -141,8 +142,8 @@ The options to consider are:
 	- In-person
 	- Online
 
-##Coding bootcamp
-##Things to Consider
+## Coding bootcamp
+## Things to Consider
 - Cost
 	- How much is it?
 	- Do they have scholarships, grants, or fellowships you could apply for?
@@ -179,20 +180,20 @@ The options to consider are:
 	- What kind of jobs will you be prepared for?
 - How much help will they give you in getting a job afterwards?
 
-#Step 5: Learn hardcore / Intermediate Learning (90 days - 365 days)
+# Step 5: Learn hardcore / Intermediate Learning (90 days - 365 days)
 Now is the time to start digging in deeper into the world of tech and building serious, job-worthy skills.
 
-##Mindset
+## Mindset
 Congrats! You’re off and away. Now is the time to put on the big-kid pants, step out into the world, and build, build, build.
 
 Understand that, as a software engineer, you are a craftsperson first and foremost. Now that you have all the basics down, you need to work on making small and medium-sized projects in order to develop your craft.
 
-##Tooling
+## Tooling
 Time to upgrade your tools! Check out the tools section below.
 
 
-##Self-Direct Learning
-###Roadmaps
+## Self-Direct Learning
+### Roadmaps
 Start looking for and reading about courses, roadmaps and curriculums oriented towards teaching you about your chosen probable career path.
 
 - A roadmap of web development: https://github.com/kamranahmedse/developer-roadmap
@@ -200,7 +201,7 @@ Start looking for and reading about courses, roadmaps and curriculums oriented t
 - http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
 - App Academy online: https://open.appacademy.io/
 
-###Learning Resources
+### Learning Resources
 * Free Code Camp: https://www.freecodecamp.org/
 * Rithm School: https://www.rithmschool.com/courses
 * Teach Yourself CS by Bradfield CS: http://teachyourselfcs.com/
@@ -213,7 +214,7 @@ Start looking for and reading about courses, roadmaps and curriculums oriented t
 * Lynda
 * Pluralsight
 
-###Data Structures & Algorithms
+### Data Structures & Algorithms
 You may have noticed by now that the madness of technical interviews focuses on algorithms and data structures. On your own time, begin studying this course:
 
 - https://www.udemy.com/js-algorithms-and-data-structures-masterclass/
@@ -222,7 +223,7 @@ and/or read this:
 
 - Grokking Algorithms: https://www.manning.com/books/grokking-algorithms
 
-###Surveys
+### Surveys
 Reading surveys related to your field helps you understand it better.
 * Stack Overflow Survey: https://insights.stackoverflow.com/survey/2018/
 * State of Javascript Survey: https://stateofjs.com/
@@ -231,7 +232,7 @@ Reading surveys related to your field helps you understand it better.
 # Prep for the Job Search
 * https://github.com/cassidoo/getting-a-gig
 
-##News and Culture
+## News and Culture
 Immerse yourself in aspects of technology culture like programming, software engineering, hacking, and tech startups through subreddits, Hacker News, Medium groups. This will generally help you understand more about what you’re getting yourself into, help you orient your priorities, and start to accumulate a general knowledge of useful resources. In addition, it will help you “talk the talk” when you get to the job application stage, so you can be in-the-know about the tech scene.
 
 Be careful not to spend too much time on this - no more than 30 minutes / day. This is not as important as studying and programming.
@@ -241,13 +242,13 @@ Be careful not to spend too much time on this - no more than 30 minutes / day. T
 
 At some point along this way, you should be able to get a job. Congratulations!
 
-#Get a better job doing the kind of work you want to do (2-5 years)
+# Get a better job doing the kind of work you want to do (2-5 years)
 Keep pushing yourself to improve.
 
 Read: http://designingyour.life/
 
 
-#Do good in the world; hack the planet (1 lifetime)
+# Do good in the world; hack the planet (1 lifetime)
 Now that you're a successful software engineer, give back! Please consider contributing to the Electric Hive's cause by:
 
 * Mentoring a new programmer
@@ -255,14 +256,14 @@ Now that you're a successful software engineer, give back! Please consider contr
 
 ***
 
-#General Research
-##Reddit
+# General Research
+## Reddit
 * https://www.reddit.com/r/learnprogramming
 * https://www.reddit.com/r/programming/
 * https://www.reddit.com/r/cscareerquestions/
 * https://news.ycombinator.com/
 
-##Specific language sub-reddits
+## Specific language sub-reddits
 * Javascript: https://www.reddit.com/r/javascript
 * Python: https://www.reddit.com/r/python
 * Java: https://www.reddit.com/r/java/
@@ -276,17 +277,17 @@ Now that you're a successful software engineer, give back! Please consider contr
 * Stack Overflow / Stack Exchange
 * https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md
 
-##Other websites
+## Other websites
 * https://alternativeto.net/
 * Privacytools.io
 
 
-#Computer Science
+# Computer Science
 - https://www.reddit.com/r/learnprogramming/comments/akbeqk/the_open_source_computer_science_degree/
 - https://teachyourselfcs.com/
 
 
-#Tools
+# Tools
 - https://hacker-tools.github.io/
 	- https://news.ycombinator.com/item?id=19078281
 - Sublime Text
