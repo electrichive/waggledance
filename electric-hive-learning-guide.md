@@ -288,7 +288,7 @@ Now that you're a successful software engineer, give back! Please consider contr
 ## Roadmaps
 * Roadmap.sh: https://roadmap.sh/
 
-## Programming Languages 
+## Programming Languages, Coding Languages & Domain-Specific Languages
 ### Javascript
 * Free Code Camp: https://www.freecodecamp.org
 
@@ -297,6 +297,10 @@ Now that you're a successful software engineer, give back! Please consider contr
 
 ### Rust
 * The Rust Programming Language Book: https://doc.rust-lang.org/stable/book/
+
+### SQL
+* https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/
+* https://www.udemy.com/course/the-complete-sql-bootcamp/
 
 ## Computer Science
 * Open Source Society University: https://github.com/ossu/computer-science
