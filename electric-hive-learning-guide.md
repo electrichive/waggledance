@@ -223,6 +223,9 @@ and/or read this:
 
 - Grokking Algorithms: https://www.manning.com/books/grokking-algorithms
 
+and browsing this:
+- Coding Interview University: https://github.com/jwasham/coding-interview-university/
+
 ### Surveys
 Reading surveys related to your field helps you understand it better.
 * Stack Overflow Survey: https://insights.stackoverflow.com/survey/2018/
@@ -255,56 +258,75 @@ Now that you're a successful software engineer, give back! Please consider contr
 * Building technology for social good
 
 ***
+# Resources
+## Assorted
+* https://learnxinyminutes.com/
 
-# General Research
 ## Reddit
 * https://www.reddit.com/r/learnprogramming
 * https://www.reddit.com/r/programming/
 * https://www.reddit.com/r/cscareerquestions/
 * https://news.ycombinator.com/
 
-## Specific language sub-reddits
+### Specific language sub-reddits
 * Javascript: https://www.reddit.com/r/javascript
 * Python: https://www.reddit.com/r/python
 * Java: https://www.reddit.com/r/java/
 * Swift: https://www.reddit.com/r/swift/
 * C#: https://www.reddit.com/r/csharp/
 
-# General Resources
 ## Technical
 * Github.com
 * Gitlab.com
 * Stack Overflow / Stack Exchange
 * https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md
 
-## Other websites
-* https://alternativeto.net/
-* Privacytools.io
+## Web Development
+* Traversy Media: https://www.youtube.com/user/TechGuyWeb
 
+## Roadmaps
+* Roadmap.sh: https://roadmap.sh/
 
-# Computer Science
+## Programming Languages 
+### Javascript
+
+### Python
+* Full Stack Python: https://www.fullstackpython.com
+
+### Rust
+* The Rust Programming Language Book: https://doc.rust-lang.org/stable/book/
+
+## Computer Science
 - https://www.reddit.com/r/learnprogramming/comments/akbeqk/the_open_source_computer_science_degree/
 - https://teachyourselfcs.com/
+- Khan Academy CS: https://www.khanacademy.org/computing/computer-science
+- Big O Cheat Sheet: https://www.bigocheatsheet.com/
 
+## Machine Learning
+* Fast.ai: https://www.fast.ai/
 
-# Tools
+## Tools
 - https://hacker-tools.github.io/
 	- https://news.ycombinator.com/item?id=19078281
-- Sublime Text
-	- Check out: 
+- Text Editors & IDEs
+    - Sublime Text
 		- This Real Python post: https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/
 		- This blog post: https://schneid.io/blog/my-sublime-text-setup-revisited/
 		- Package Control: https://packagecontrol.io/
 			- Package Control shows all the packages you can install, go for the most popular ones you are interested in. Don’t go overboard!
-- Other Text Editors & IDEs
-	- Check out:
-		- Visual Studio Code - really popular open-source Integrated Development Environment
-		- Vim
-		- Emacs
-		- Atom
+    - Atom
+	- Vim
+	- Emacs
+    - Visual Studio Code - really popular open-source Integrated Development Environment
 - Git: Learn it. You need to know it.
 	- Basics: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
 	- Resources: https://try.github.io/
 	- Branching: https://learngitbranching.js.org/
 
+## Free Resources for Students/Devs
+- Github Student Developer Pack: https://education.github.com/pack
+- Free-for.dev: https://free-for.dev/#/
 
+## Other websites
+* https://alternativeto.net/
+* Privacytools.io
