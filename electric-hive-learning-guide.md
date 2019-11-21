@@ -62,7 +62,7 @@ Below is more information about the languages, to help you make up your mind.
 	- Is basically the only language used for front-end web development
 	- Can be used for back-end web development
 	- Lots of startups use JS primarily, as do a fair amount of mid-size and large companies
-- Native (non-browser-based) apps - a small but rapidly growing area
+- Mobile & desktop apps - a small but rapidly growing area
 
 
 ### Python
@@ -70,7 +70,7 @@ Below is more information about the languages, to help you make up your mind.
 - Very popular
 - Easy to learn
 - Translates pretty well to learning other dynamic languages, and to a lesser degree compiled languages
-- Really useful in interview tests
+- Really useful in technical assessments.
 
 #### Cons
 - Fewer jobs than Javascript (but still a lot!)
@@ -91,7 +91,6 @@ Decide whether you want to learn primarily through a video lecture series or a b
 - Use a paper calendar to make sure you hit your goal every day and remind yourself.
 - If you screw up and skip a day or days, forgive yourself and then, that day, return to doing 5 minutes of work every day.
 - Set up a time when you are supposed to start working on the course every day. Stick to that time.
-
 
 ## Courses
 ### Javascript
@@ -239,10 +238,11 @@ Reading surveys related to your field helps you understand it better.
 ## News and Culture
 Immerse yourself in aspects of technology culture like programming, software engineering, hacking, and tech startups through subreddits, Hacker News, Medium groups. This will generally help you understand more about what you’re getting yourself into, help you orient your priorities, and start to accumulate a general knowledge of useful resources. In addition, it will help you “talk the talk” when you get to the job application stage, so you can be in-the-know about the tech scene.
 
-Be careful not to spend too much time on this - no more than 30 minutes / day. This is not as important as studying and programming.
+Be careful not to spend too much time on this - no more than 30 minutes per day. This is not as important as studying and programming.
 
 - https://news.ycombinator.com/
 - Medium.com
+- Programming-related subreddits
 
 At some point along this way, you should be able to get a job. Congratulations!
 
