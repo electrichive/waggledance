@@ -234,6 +234,7 @@ Reading surveys related to your field helps you understand it better.
 
 # Prep for the Job Search
 * https://github.com/cassidoo/getting-a-gig
+* https://github.com/jwasham/coding-interview-university#book-list
 
 ## News and Culture
 Immerse yourself in aspects of technology culture like programming, software engineering, hacking, and tech startups through subreddits, Hacker News, Medium groups. This will generally help you understand more about what you’re getting yourself into, help you orient your priorities, and start to accumulate a general knowledge of useful resources. In addition, it will help you “talk the talk” when you get to the job application stage, so you can be in-the-know about the tech scene.
@@ -297,10 +298,14 @@ Now that you're a successful software engineer, give back! Please consider contr
 * The Rust Programming Language Book: https://doc.rust-lang.org/stable/book/
 
 ## Computer Science
+* Open Source Society University: https://github.com/ossu/computer-science
 - https://www.reddit.com/r/learnprogramming/comments/akbeqk/the_open_source_computer_science_degree/
 - https://teachyourselfcs.com/
 - Khan Academy CS: https://www.khanacademy.org/computing/computer-science
 - Big O Cheat Sheet: https://www.bigocheatsheet.com/
+- CS Video Courses: https://github.com/Developer-Y/cs-video-courses
+- What CS Majors Should Know: http://matt.might.net/articles/what-cs-majors-should-know/
+- Awesome CS Courses: https://github.com/prakhar1989/awesome-courses
 
 ## Machine Learning
 * Fast.ai: https://www.fast.ai/
