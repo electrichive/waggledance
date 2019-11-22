@@ -190,15 +190,12 @@ Understand that, as a software engineer, you are a craftsperson first and foremo
 ## Tooling
 Time to upgrade your tools! Check out the tools section below.
 
-
-## Self-Direct Learning
+## Self-Directed Learning
 ### Roadmaps
-Start looking for and reading about courses, roadmaps and curriculums oriented towards teaching you about your chosen probable career path.
+Start looking for and reading about courses, roadmaps and curriculae oriented towards teaching you about your chosen probable career path.
 
 - A roadmap of web development: https://github.com/kamranahmedse/developer-roadmap
 - The Odin Project: https://www.theodinproject.com/
-- http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
-- App Academy online: https://open.appacademy.io/
 
 ### Learning Resources
 * Free Code Camp: https://www.freecodecamp.org/
@@ -285,8 +282,11 @@ Now that you're a successful software engineer, give back! Please consider contr
 ## Web Development
 * Traversy Media: https://www.youtube.com/user/TechGuyWeb
 
-## Roadmaps
+## Curriculae/Roadmaps
 * Roadmap.sh: https://roadmap.sh/
+* Programmer Competency Matrix: http://sijinjoseph.com/programmer-competency-matrix/
+* http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
+* App Academy online: https://open.appacademy.io/
 
 ## Programming Languages, Coding Languages & Domain-Specific Languages
 ### Javascript
@@ -319,15 +319,16 @@ Now that you're a successful software engineer, give back! Please consider contr
 - https://hacker-tools.github.io/
 	- https://news.ycombinator.com/item?id=19078281
 - Text Editors & IDEs
-    - Sublime Text
+    - Sublime Text: https://www.sublimetext.com/
 		- This Real Python post: https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/
 		- This blog post: https://schneid.io/blog/my-sublime-text-setup-revisited/
 		- Package Control: https://packagecontrol.io/
 			- Package Control shows all the packages you can install, go for the most popular ones you are interested in. Don’t go overboard!
-    - Atom
-	- Vim
-	- Emacs
-    - Visual Studio Code - really popular open-source Integrated Development Environment
+    - Atom: https://atom.io/
+	- Vim: https://www.vim.org/
+	- Emacs: https://www.gnu.org/software/emacs/
+    - Visual Studio Code: https://code.visualstudio.com/
+        - popular open-source Integrated Development Environment
 - Git: Learn it. You need to know it.
 	- Basics: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
 	- Resources: https://try.github.io/
@@ -338,5 +339,5 @@ Now that you're a successful software engineer, give back! Please consider contr
 - Free-for.dev: https://free-for.dev/#/
 
 ## Other websites
-* https://alternativeto.net/
-* Privacytools.io
+* AlternativeTo: https://alternativeto.net/
+* Privacytools.io: https://privacytools.io
