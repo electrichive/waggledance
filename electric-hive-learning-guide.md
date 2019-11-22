@@ -316,7 +316,10 @@ Now that you're a successful software engineer, give back! Please consider contr
 * Roadmap.sh: https://roadmap.sh/
 * Programmer Competency Matrix: http://sijinjoseph.com/programmer-competency-matrix/
 * http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
+* A Self-Learning, Modern Computer Science Curriculum: https://functionalcs.github.io/curriculum/
+* p1xt guides: https://github.com/P1xt/p1xt-guides
 * App Academy online: https://open.appacademy.io/
+
 
 ## Programming Languages, Coding Languages & Domain-Specific Languages
 ### Javascript
