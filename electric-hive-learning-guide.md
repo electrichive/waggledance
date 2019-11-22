@@ -143,8 +143,7 @@ The options to consider are:
 	- In-person
 	- Online
 
-## Coding bootcamp
-## Things to Consider
+## Coding Bootcamps: Things to Consider
 - Cost
 	- How much is it?
 	- Do they have scholarships, grants, or fellowships you could apply for?
@@ -170,7 +169,7 @@ The options to consider are:
 	- What do people who’ve gone through the bootcamp or worked at it say about it? How recent are their comments?
 	- What is the general recent reputation for the bootcamp online, on Reddit, on Hacker News, and on SwitchUp, and Course Report?
 	- How difficult is it to get in?
-		- The best programs are fairly selective, with a somewhat difficult interview process. You need to study for these. The ones you can get into without studying are pretty much crap and useless.
+		- The best programs are fairly selective, with a somewhat difficult interview process. You need to study for these. The ones you can get into without studying are usually not worth your time and energy.
 - Duration of the program
 	- Programs usually run anywhere from 3 months - 1 year.
 - Full-time vs. part-time
@@ -200,7 +199,7 @@ Read here about possible developer roadmaps: https://roadmap.sh/roadmaps
 Pick one roadmap and dive right in.
 
 #### Learning Programs
-Check out either of the two learning programs, and follow them. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. (Sorry, there isn't a strong alternative I'm aware of that focuses on Python.)
+Check out one of these three learning programs, and follow them. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. (Sorry, there isn't a strong alternative I'm aware of that focuses on Python.)
 - Free Code Camp: https://www.freecodecamp.org/
     * FCC covers HTML, CSS and Javascript, and covers a wide range of topics.
     * FCC works primarily through interactive browser exercises.
@@ -208,7 +207,7 @@ Check out either of the two learning programs, and follow them. I would recommen
     * The Odin Project covers Ruby/Rails, Javascript, and HTML/CSS.
     * The Odin Project does a slightly better job of covering the developer tooling ecosystem, and has you work in parallel on your own PC rather than in the browser.
 - Aalto University's Full Stack course: https://fullstackopen.com/en/
-    * Note: This is one of the few resources I haven't personally tested, but it looks quite good on first impression.
+    * Note: This is a resource I haven't personally tested, but it looks quite good on first impression.
 
 ### Topics
 The roadmaps recommended above should give you a lot to work on, but in case you get lost, here are some things to study:
@@ -218,12 +217,12 @@ The roadmaps recommended above should give you a lot to work on, but in case you
 * Data Structures & Algorithms
 * Testing, Test-Driven Development and Testing Frameworks
 * REST APIs
-* Compiled languages: Mess around with C, C++, C#, Java, Go, Rust, 
 * Database usage
     * SQL and relational databases: Try PostgreSQL
     * NoSQL databases: Try MongoDB
 * Javacript Web Frameworks:
     * Try React
+* Compiled languages: Mess around with C, C++, C#, Java, Go, Rust, etc.
 
 ### Data Structures & Algorithms
 You may have noticed by now that the madness of technical interviews focuses on algorithms and data structures. On your own time, begin studying this course:
