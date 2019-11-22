@@ -238,6 +238,10 @@ and browse this:
 
 - Coding Interview University: https://github.com/jwasham/coding-interview-university/
 
+- Python programmers might want to check out the book "Problem Solving with Algorithms and Data Structures using Python" by Miller and Ranum. The authors provide a free interactive version of the book online, along with video instructions on some in-chapter exercises:
+
+- Problem Solving with Algorithms and Data Structures using Python: https://runestone.academy/runestone/books/published/pythonds/index.html
+
 ### Surveys
 Reading surveys related to your field helps you understand it better. Check out these surveys:
 * Stack Overflow Survey: https://insights.stackoverflow.com/survey/2018/
