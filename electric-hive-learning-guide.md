@@ -207,6 +207,8 @@ Check out either of the two learning programs, and follow them. I would recommen
 - The Odin Project: https://www.theodinproject.com/
     * The Odin Project covers Ruby/Rails, Javascript, and HTML/CSS.
     * The Odin Project does a slightly better job of covering the developer tooling ecosystem, and has you work in parallel on your own PC rather than in the browser.
+- Aalto University's Full Stack course: https://fullstackopen.com/en/
+    * Note: This is one of the few resources I haven't personally tested, but it looks quite good on first impression.
 
 ### Topics
 The roadmaps recommended above should give you a lot to work on, but in case you get lost, here are some things to study:
@@ -218,10 +220,10 @@ The roadmaps recommended above should give you a lot to work on, but in case you
 * REST APIs
 * Compiled languages: Mess around with C, C++, C#, Java, Go, Rust, 
 * Database usage
-    * SQL and relational databases like PostgreSQL, MySQL/MariaDB
-    * NoSQL databases like MongoDB
-* Web Frameworks:
-    * React
+    * SQL and relational databases: Try PostgreSQL
+    * NoSQL databases: Try MongoDB
+* Javacript Web Frameworks:
+    * Try React
 
 ### Data Structures & Algorithms
 You may have noticed by now that the madness of technical interviews focuses on algorithms and data structures. On your own time, begin studying this course:
