@@ -1,10 +1,12 @@
+# The Electric Hive Programmer's Learning Guide
+
 # Intro
 
 ## What is this?
-This is a highly-opinionated, curated guide to becoming a software engineer. I originally wrote this to give some guidance to my friends. Now, I'm offering it up to the public in the hopes that it might help others. Feel free to share or offer suggestions for improvement.
+This is a highly-opinionated, curated guide to becoming a programmer. I originally wrote this to give some guidance to my friends. Now, I'm offering it up to the public in the hopes that it might help others. Feel free to share or offer suggestions for improvement.
 
 ## Who is this for?
-This is written for people who don’t have a strong background in programming and computer science, and are trying to figure out if they want to pursue a career in software engineering or something else.
+This is written for people who don’t have a strong background in programming and computer science, and are trying to figure out if they want to pursue a career using programming.
 
 ## Why is it opinionated and curated?
 I think exploring the world of programming-related careers can be really confusing to newbies, and it can become really easy to get lost, stalled by decision paralysis, or simply procrastinate.
@@ -124,7 +126,7 @@ Somewhere along the road of you working on the intro course, you should have fig
 If you do, keep using this guide. If not, bail and figure out what else you want to do with your life.
 
 # Step 4: Choose a primary method for developing employable skills (7 days - 14 days)
-So you’re going for it, and committing yourself to learning programming and building a career in tech. This is a serious commitment of time, energy and money. Spend time researching and considering carefully.
+So you’re going for it, and committing yourself to learning programming and building a career in tech. This is a serious commitment of time, energy and money. Spend time researching and considering carefully. Set up some coffee interviews to find out more about the industry and how to develop your skills. Read on r/cscareerquestions and r/learnprogramming.
 
 The options to consider are:
 
@@ -191,24 +193,35 @@ Understand that, as a software engineer, you are a craftsperson first and foremo
 Time to upgrade your tools! Check out the tools section below.
 
 ## Self-Directed Learning
+Ok, here we're going to assume you're going with entirely self-directed learning.
+
 ### Roadmaps
-Start looking for and reading about courses, roadmaps and curriculae oriented towards teaching you about your chosen probable career path.
+Read here about possible developer roadmaps: https://roadmap.sh/roadmaps
+Pick one roadmap and dive right in.
 
-- A roadmap of web development: https://github.com/kamranahmedse/developer-roadmap
+#### Learning Programs
+Check out either of the two learning programs, and follow them. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. (Sorry, there isn't a strong alternative I'm aware of that focuses on Python.)
+- Free Code Camp: https://www.freecodecamp.org/
+    * FCC covers HTML, CSS and Javascript, and covers a wide range of topics.
+    * FCC works primarily through interactive browser exercises.
 - The Odin Project: https://www.theodinproject.com/
+    * The Odin Project covers Ruby/Rails, Javascript, and HTML/CSS.
+    * The Odin Project does a slightly better job of covering the developer tooling ecosystem, and has you work in parallel on your own PC rather than in the browser.
 
-### Learning Resources
-* Free Code Camp: https://www.freecodecamp.org/
-* Rithm School: https://www.rithmschool.com/courses
-* Teach Yourself CS by Bradfield CS: http://teachyourselfcs.com/
-* CS50 Intro to CS: https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x
-* Udemy
-* Udacity
-* Coursera
-* EdX
-* Khan Academy
-* Lynda
-* Pluralsight
+### Topics
+The roadmaps recommended above should give you a lot to work on, but in case you get lost, here are some things to study:
+* git and the basics of how to use Github/Gitlab/Git*
+* Terminal/Command Line basics
+* HTML & CSS
+* Data Structures & Algorithms
+* Testing, Test-Driven Development and Testing Frameworks
+* REST APIs
+* Compiled languages: Mess around with C, C++, C#, Java, Go, Rust, 
+* Database usage
+    * SQL and relational databases like PostgreSQL, MySQL/MariaDB
+    * NoSQL databases like MongoDB
+* Web Frameworks:
+    * React
 
 ### Data Structures & Algorithms
 You may have noticed by now that the madness of technical interviews focuses on algorithms and data structures. On your own time, begin studying this course:
@@ -219,18 +232,22 @@ and/or read this:
 
 - Grokking Algorithms: https://www.manning.com/books/grokking-algorithms
 
-and browsing this:
+and browse this:
+
 - Coding Interview University: https://github.com/jwasham/coding-interview-university/
 
 ### Surveys
-Reading surveys related to your field helps you understand it better.
+Reading surveys related to your field helps you understand it better. Check out these surveys:
 * Stack Overflow Survey: https://insights.stackoverflow.com/survey/2018/
 * State of Javascript Survey: https://stateofjs.com/
 * Jetbrain’s Python Developer Survey 2018: https://www.jetbrains.com/research/python-developers-survey-2018/
 
-# Prep for the Job Search
+# Step 6: Prep for the Job Search (1 month - 12 months)
 * https://github.com/cassidoo/getting-a-gig
 * https://github.com/jwasham/coding-interview-university#book-list
+
+## Build a personal site/portfolio
+WIP
 
 ## News and Culture
 Immerse yourself in aspects of technology culture like programming, software engineering, hacking, and tech startups through subreddits, Hacker News, Medium groups. This will generally help you understand more about what you’re getting yourself into, help you orient your priorities, and start to accumulate a general knowledge of useful resources. In addition, it will help you “talk the talk” when you get to the job application stage, so you can be in-the-know about the tech scene.
@@ -243,13 +260,13 @@ Be careful not to spend too much time on this - no more than 30 minutes per day.
 
 At some point along this way, you should be able to get a job. Congratulations!
 
-# Get a better job doing the kind of work you want to do (2-5 years)
+# Step 7: Get a better job doing the kind of work you want to do (2 - 5 years)
 Keep pushing yourself to improve.
 
 Read: http://designingyour.life/
 
 
-# Do good in the world; hack the planet (1 lifetime)
+# Step 8: Do good in the world; hack the planet (1 lifetime)
 Now that you're a successful software engineer, give back! Please consider contributing to the Electric Hive's cause by:
 
 * Mentoring a new programmer
@@ -257,8 +274,19 @@ Now that you're a successful software engineer, give back! Please consider contr
 
 ***
 # Resources
-## Assorted
-* https://learnxinyminutes.com/
+### General Resources
+* Free Code Camp: https://www.freecodecamp.org/
+* Rithm School: https://www.rithmschool.com/courses
+* Teach Yourself CS by Bradfield CS: http://teachyourselfcs.com/
+* CS50 Intro to CS: https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x
+* Udemy
+* Udacity
+* Coursera
+* EdX
+* Khan Academy
+* Lynda
+* Pluralsight
+* Learn X in Y Minutes: https://learnxinyminutes.com/
 
 ## Reddit
 * https://www.reddit.com/r/learnprogramming
@@ -316,8 +344,8 @@ Now that you're a successful software engineer, give back! Please consider contr
 * Fast.ai: https://www.fast.ai/
 
 ## Tools
-- https://hacker-tools.github.io/
-	- https://news.ycombinator.com/item?id=19078281
+- Hacker Tools: https://hacker-tools.github.io/
+	- See also: https://news.ycombinator.com/item?id=19078281
 - Text Editors & IDEs
     - Sublime Text: https://www.sublimetext.com/
 		- This Real Python post: https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/
