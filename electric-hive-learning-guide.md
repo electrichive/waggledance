@@ -211,17 +211,24 @@ Check out one of these three learning programs, and follow them. I would recomme
 
 ### Topics
 The roadmaps recommended above should give you a lot to work on, but in case you get lost, here are some things to study:
-* git and the basics of how to use Github/Gitlab
-* Terminal/Command Line basics
+* Git and Github/Gitlab
+* Terminal/Command Line
 * HTML & CSS
 * Data Structures & Algorithms
 * Testing, Test-Driven Development and Testing Frameworks
-* REST APIs
+	- Python: Pytest
+	- Javascript: Mocha
+* RESTful API design and use
 * Database usage
-    * SQL and relational databases: Try PostgreSQL
-    * NoSQL databases: Try MongoDB
+    * SQL and relational databases: PostgreSQL
+    * NoSQL databases: MongoDB
+* Python Backend Frameworks:
+	* Django (Batteries-included)
+	* Flask (Lightweight)
 * Javacript Web Frameworks:
-    * Try React
+    * React
+* Javascript Backend Framework:
+	* Express (Lightweight)
 * Compiled languages: Mess around with C, C++, C#, Java, Go, Rust, etc.
 
 ### Data Structures & Algorithms
@@ -328,6 +335,7 @@ Coding Coach: https://mentors.codingcoach.io/
 ## Programming Languages, Coding Languages & Domain-Specific Languages
 ### Javascript
 * Free Code Camp: https://www.freecodecamp.org
+* JS tl;dr: https://js-tldr.info/about
 
 ### Python
 * Full Stack Python: https://www.fullstackpython.com
@@ -377,6 +385,11 @@ Contributing to open source projects is a good way to gain experience and also g
 	- Basics: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
 	- Resources: https://try.github.io/
 	- Branching: https://learngitbranching.js.org/
+- File Transfer
+	+ Cyberduck (sftp)
+	+ Forklift (sftp)
+	+ Truck (rsync)
+	+ Transmission (Bittorrent)
 
 ## Free Resources for Students/Devs
 - Github Student Developer Pack: https://education.github.com/pack
