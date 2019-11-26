@@ -37,7 +37,7 @@ Much ado is made about picking a first language. There are many good choices but
 
 Here is a list of languages, along with generally what kind of job(s) you would likely be able to get with competency in that language:
 
-- Javascript: Front-end web dev, Full-stack web dev
+- Javascript: Front-end web dev, full-stack web dev
 - Python: Back-end web dev, data scientist, data engineer
 
 You will be sticking with this language until you finish a short programming course (14 - 30 days). Once you’ve picked, don’t switch languages until you finish the intro course. In fact, don’t switch languages unless you hate the language you’ve been learning and can pick out a language that you’re really excited to learn. When you're first starting out, gaining consistency and fluency in a single language is important.
@@ -186,7 +186,7 @@ Now is the time to start digging in deeper into the world of tech and building s
 ## Mindset
 Congrats! You’re off and away. Now is the time to put on the big-kid pants, step out into the world, and build, build, build.
 
-Understand that, as a software engineer, you are a craftsperson first and foremost. Now that you have all the basics down, you need to work on making small and medium-sized projects in order to develop your craft.
+Understand that, as a programmer, you are a craftsperson first and foremost. Now that you have all the basics down, you need to work on making small and medium-sized projects in order to develop your craft.
 
 ## Tooling
 Time to upgrade your tools! Check out the tools section below.
@@ -211,7 +211,7 @@ Check out one of these three learning programs, and follow them. I would recomme
 
 ### Topics
 The roadmaps recommended above should give you a lot to work on, but in case you get lost, here are some things to study:
-* git and the basics of how to use Github/Gitlab/Git*
+* git and the basics of how to use Github/Gitlab
 * Terminal/Command Line basics
 * HTML & CSS
 * Data Structures & Algorithms
@@ -268,7 +268,7 @@ Read: http://designingyour.life/
 
 
 # Step 8: Do good in the world; hack the planet (1 lifetime)
-Now that you're a successful software engineer, give back! Please consider contributing to the Electric Hive's cause by:
+Now that you're a successful programmer, give back! Please consider contributing to the Electric Hive's cause by:
 
 * Mentoring a new programmer
 * Building technology for social good
@@ -302,6 +302,9 @@ Now that you're a successful software engineer, give back! Please consider contr
 * Swift: https://www.reddit.com/r/swift/
 * C#: https://www.reddit.com/r/csharp/
 
+## Mentors & Communities
+Coding Coach: https://mentors.codingcoach.io/
+
 ## Technical
 * Github.com
 * Gitlab.com
@@ -318,7 +321,6 @@ Now that you're a successful software engineer, give back! Please consider contr
 * A Self-Learning, Modern Computer Science Curriculum: https://functionalcs.github.io/curriculum/
 * p1xt guides: https://github.com/P1xt/p1xt-guides
 * App Academy online: https://open.appacademy.io/
-
 
 ## Programming Languages, Coding Languages & Domain-Specific Languages
 ### Javascript
@@ -346,6 +348,13 @@ Now that you're a successful software engineer, give back! Please consider contr
 
 ## Machine Learning
 * Fast.ai: https://www.fast.ai/
+
+## Open Source Contribution Opportunities
+Contributing to open source projects is a good way to gain experience and also give back to the community.
+* First Contributions: https://github.com/firstcontributions/first-contributions
+* First Timers Only: https://www.firsttimersonly.com/
+* https://gauger.io/contrib/#/language/javascript
+* Awesome First PR Opportunities: https://github.com/MunGell/awesome-for-beginners
 
 ## Tools
 - Hacker Tools: https://hacker-tools.github.io/
