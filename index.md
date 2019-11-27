@@ -232,16 +232,17 @@ The roadmaps recommended above should give you a lot to work on, but in case you
 * Compiled languages: Mess around with C, C++, C#, Java, Go, Rust, etc.
 
 ### Data Structures & Algorithms
-You may have noticed by now that the madness of technical interviews focuses on algorithms and data structures. On your own time, begin studying this course:
+You may have noticed by now that the madness of technical interviews focuses on algorithms and data structures. On your own time, begin studying.
 
+If you prefer video lectures:
 - https://www.udemy.com/js-algorithms-and-data-structures-masterclass/
+This course is in JS.
 
-and/or read this:
-
+If you prefer reading a book:
 - Grokking Algorithms: https://www.manning.com/books/grokking-algorithms
+This book is in Python, but does not focus on language-specific stuff.
 
-and browse this:
-
+Alongside either, browse this:
 - Coding Interview University: https://github.com/jwasham/coding-interview-university/
 
 - Python programmers might want to check out the book "Problem Solving with Algorithms and Data Structures using Python" by Miller and Ranum. The authors provide a free interactive version of the book online, along with video instructions on some in-chapter exercises:
