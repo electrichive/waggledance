@@ -97,7 +97,7 @@ Decide whether you want to learn primarily through a video lecture series or a b
 ## Courses
 ### Javascript
 #### Video lecture series
-Check out this course: https://www.udemy.com/the-web-developer-bootcamp/
+Check out this course [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
 - It should be “on sale” for ~$12 USD. If it’s not “on sale”, don’t buy it.
 - Continue to check the Udemy course, then buy as soon as it goes on sale for $12 USD and switch over to that course.
@@ -107,14 +107,15 @@ Use this: https://www.freecodecamp.org/
 
 ### Python
 #### Video lecture series
-Check out this course: https://www.udemy.com/course/the-modern-python3-bootcamp/
+Check out this course: [The Modern Python Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp)
 
 - It should be “on sale” for ~$12 USD. If it’s not “on sale”, don’t buy it.
 - Continue to check the Udemy course, then buy as soon as it goes on sale for $12 USD and switch over to that course.
 
 #### Book/Text-based course
-Use this: https://automatetheboringstuff.com/
-It's free online. It has an accompanying video lecture series on Udemy if you want to pay.
+Use this: [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+
+* It's free online. It has an accompanying video lecture series on Udemy if you want to pay.
 
 
 ### On completion
@@ -200,13 +201,13 @@ Pick one roadmap and dive right in.
 
 #### Learning Programs
 Check out one of these three learning programs, and follow them. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. (Sorry, there isn't a strong alternative I'm aware of that focuses on Python.)
-- Free Code Camp: https://www.freecodecamp.org/
+- [Free Code Camp](https://www.freecodecamp.org/)
     * FCC covers HTML, CSS and Javascript, and covers a wide range of topics.
     * FCC works primarily through interactive browser exercises.
-- The Odin Project: https://www.theodinproject.com/
+- [The Odin Project](https://www.theodinproject.com/)
     * The Odin Project covers Ruby/Rails, Javascript, and HTML/CSS.
     * The Odin Project does a slightly better job of covering the developer tooling ecosystem, and has you work in parallel on your own PC rather than in the browser.
-- Aalto University's Full Stack course: https://fullstackopen.com/en/
+- Aalto University's [Full Stack course](https://fullstackopen.com/en/)
     * Note: This is a resource I haven't personally tested, but it looks quite good on first impression.
 
 ### Topics
@@ -235,28 +236,27 @@ The roadmaps recommended above should give you a lot to work on, but in case you
 You may have noticed by now that the madness of technical interviews focuses on algorithms and data structures. On your own time, begin studying.
 
 If you prefer video lectures:
-- https://www.udemy.com/js-algorithms-and-data-structures-masterclass/
+* [Javascript Algorithms and Data Structures](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
 This course is in JS.
 
 If you prefer reading a book:
-- Grokking Algorithms: https://www.manning.com/books/grokking-algorithms
+* [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 This book is in Python, but does not focus on language-specific stuff.
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+The authors provide a free interactive version of the book online, along with video instructions on some in-chapter exercises:
 
 Alongside either, browse this:
-- Coding Interview University: https://github.com/jwasham/coding-interview-university/
-
-- Python programmers might want to check out the book "Problem Solving with Algorithms and Data Structures using Python" by Miller and Ranum. The authors provide a free interactive version of the book online, along with video instructions on some in-chapter exercises:
-https://runestone.academy/runestone/books/published/pythonds/index.html
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university/)
 
 ### Surveys
 Reading surveys related to your field helps you understand it better. Check out these surveys:
-* Stack Overflow Survey: https://insights.stackoverflow.com/survey/2018/
-* State of Javascript Survey: https://stateofjs.com/
-* Jetbrain’s Python Developer Survey 2018: https://www.jetbrains.com/research/python-developers-survey-2018/
+* [Stack Overflow Survey](https://insights.stackoverflow.com/survey/2018/)
+* [State of Javascript Survey](https://stateofjs.com/)
+* [Jetbrain’s Python Developer Survey 2018](https://www.jetbrains.com/research/python-developers-survey-2018/)
 
 # Step 6: Prep for the Job Search (1 month - 12 months)
-* https://github.com/cassidoo/getting-a-gig
-* https://github.com/jwasham/coding-interview-university#book-list
+* [Getting a Gig](https://github.com/cassidoo/getting-a-gig)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university#book-list)
 
 ## Build a personal site/portfolio
 WIP
@@ -266,16 +266,12 @@ Immerse yourself in aspects of technology culture like programming, software eng
 
 Be careful not to spend too much time on this - no more than 30 minutes per day. This is not as important as studying and programming.
 
-- https://news.ycombinator.com/
-- Medium.com
-- Programming-related subreddits
-
 At some point along this way, you should be able to get a job. Congratulations!
 
 # Step 7: Get a better job doing the kind of work you want to do (2 - 5 years)
 Keep pushing yourself to improve.
 
-Read: http://designingyour.life/
+Read [Designing Your Life](http://designingyour.life/)
 
 
 # Step 8: Do good in the world; hack the planet (1 lifetime)
@@ -287,105 +283,108 @@ Now that you're a successful programmer, give back! Please consider contributing
 ***
 # Resources
 ### General Resources
-* Free Code Camp: https://www.freecodecamp.org/
-* Rithm School: https://www.rithmschool.com/courses
-* Teach Yourself CS by Bradfield CS: http://teachyourselfcs.com/
-* CS50 Intro to CS: https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x
-* Udemy
-* Udacity
-* Coursera
-* EdX
-* Khan Academy
-* Lynda
-* Pluralsight
-* Learn X in Y Minutes: https://learnxinyminutes.com/
+* [Free Code Camp](https://www.freecodecamp.org/)
+* [Rithm School](https://www.rithmschool.com/courses)
+* [Teach Yourself CS by Bradfield CS](http://teachyourselfcs.com/)
+* [CS50 Intro to CS](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+* [Udemy](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+* [Udacity](https://www.udacity.com/)
+* [Coursera](https://www.coursera.org/)
+* [EdX](https://www.edx.org/)
+* [Khan Academy](https://www.khanacademy.org/)
+* [Lynda](https://www.lynda.com/)
+* [Pluralsight](https://www.pluralsight.com/)
+* [Learn X in Y Minutes](https://learnxinyminutes.com/)
 
-## Reddit
-* https://www.reddit.com/r/learnprogramming
-* https://www.reddit.com/r/programming/
-* https://www.reddit.com/r/cscareerquestions/
-* https://news.ycombinator.com/
+## News & Culture
+* [Hacker News](https://news.ycombinator.com/)
+* [Medium](Medium.com)
+* Programming-related subreddits
+
+## Subreddits
+* [r/learnprogramming](https://www.reddit.com/r/learnprogramming)
+* [r/programming](https://www.reddit.com/r/programming/)
+* [r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/)
 
 ### Specific language sub-reddits
-* Javascript: https://www.reddit.com/r/javascript
-* Python: https://www.reddit.com/r/python
-* Java: https://www.reddit.com/r/java/
-* Swift: https://www.reddit.com/r/swift/
-* C#: https://www.reddit.com/r/csharp/
+* [Javascript](https://www.reddit.com/r/javascript)
+* [Python](https://www.reddit.com/r/python)
+* [Java](https://www.reddit.com/r/java/)
+* [Swift](https://www.reddit.com/r/swift/)
+* [C#](https://www.reddit.com/r/csharp/)
 
 ## Mentors & Communities
-Coding Coach: https://mentors.codingcoach.io/
+[Coding Coach](https://mentors.codingcoach.io/)
 
 ## Technical
-* Github.com
-* Gitlab.com
-* Stack Overflow / Stack Exchange
-* https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md
+* [Github](Github.com)
+* [Gitlab](Gitlab.com)
+* [Stack Overflow](https://stackoverflow.com/) / [Stack Exchange](https://stackexchange.com/)
+* [Michael0x2a's Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 
 ## Web Development
-* Traversy Media: https://www.youtube.com/user/TechGuyWeb
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 
 ## Curriculae/Roadmaps
-* Roadmap.sh: https://roadmap.sh/
-* Programmer Competency Matrix: http://sijinjoseph.com/programmer-competency-matrix/
-* http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html
-* A Self-Learning, Modern Computer Science Curriculum: https://functionalcs.github.io/curriculum/
-* p1xt guides: https://github.com/P1xt/p1xt-guides
-* App Academy online: https://open.appacademy.io/
+* [Roadmap.sh](https://roadmap.sh/)
+* [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
+* [Online Learning Bachelor's Level](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
+* [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+* [p1xt guides](https://github.com/P1xt/p1xt-guides)
+* [App Academy online](https://open.appacademy.io/)
 
 ## Programming Languages, Coding Languages & Domain-Specific Languages
 ### Javascript
-* Free Code Camp: https://www.freecodecamp.org
-* JS tl;dr: https://js-tldr.info/about
+* [Free Code Camp](https://www.freecodecamp.org)
+* [JS tl;dr](https://js-tldr.info/about)
 
 ### Python
-* Full Stack Python: https://www.fullstackpython.com
+* [Full Stack Python](https://www.fullstackpython.com)
 
 ### Rust
-* The Rust Programming Language Book: https://doc.rust-lang.org/stable/book/
+* [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/)
 
 ### SQL
-* https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/
-* https://www.udemy.com/course/the-complete-sql-bootcamp/
+* [The Ultimate MySQL Bootcamp](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
+* [The Complete SQL Bootcamp](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 
 ## Computer Science
-* Open Source Society University: https://github.com/ossu/computer-science
-- https://www.reddit.com/r/learnprogramming/comments/akbeqk/the_open_source_computer_science_degree/
-- https://teachyourselfcs.com/
-- Khan Academy CS: https://www.khanacademy.org/computing/computer-science
-- Big O Cheat Sheet: https://www.bigocheatsheet.com/
-- CS Video Courses: https://github.com/Developer-Y/cs-video-courses
-- What CS Majors Should Know: http://matt.might.net/articles/what-cs-majors-should-know/
-- Awesome CS Courses: https://github.com/prakhar1989/awesome-courses
+* [Open Source Society University](https://github.com/ossu/computer-science)
+- [Open Source Computer Science Degree](https://www.reddit.com/r/learnprogramming/comments/akbeqk/the_open_source_computer_science_degree/)
+- [Teach Yourself CS](https://teachyourselfcs.com/)
+- [Khan Academy CS](https://www.khanacademy.org/computing/computer-science)
+- [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
+- [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+- [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
+- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 
 ## Machine Learning
 * Fast.ai: https://www.fast.ai/
 
 ## Open Source Contribution Opportunities
 Contributing to open source projects is a good way to gain experience and also give back to the community.
-* First Contributions: https://github.com/firstcontributions/first-contributions
-* First Timers Only: https://www.firsttimersonly.com/
-* https://gauger.io/contrib/#/language/javascript
-* Awesome First PR Opportunities: https://github.com/MunGell/awesome-for-beginners
+
+* [First Contributions](https://github.com/firstcontributions/first-contributions)
+* [First Timers Only](https://www.firsttimersonly.com/)
+* [Contrib](https://gauger.io/contrib/#/language/javascript)
+* [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 
 ## Tools
-- Hacker Tools: https://hacker-tools.github.io/
-	- See also: https://news.ycombinator.com/item?id=19078281
+- [Hacker Tools](https://hacker-tools.github.io/)
+	- See also this [Hacker News post](https://news.ycombinator.com/item?id=19078281)
 - Text Editors & IDEs
-    - Sublime Text: https://www.sublimetext.com/
-		- This Real Python post: https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/
-		- This blog post: https://schneid.io/blog/my-sublime-text-setup-revisited/
-		- Package Control: https://packagecontrol.io/
-			- Package Control shows all the packages you can install, go for the most popular ones you are interested in. Don’t go overboard!
-    - Atom: https://atom.io/
-	- Vim: https://www.vim.org/
-	- Emacs: https://www.gnu.org/software/emacs/
-    - Visual Studio Code: https://code.visualstudio.com/
-        - popular open-source Integrated Development Environment
+    - [Sublime Text](https://www.sublimetext.com/)
+		- This [Real Python post](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
+		- This [blog post](https://schneid.io/blog/my-sublime-text-setup-revisited/)
+		- [Package Control](https://packagecontrol.io/): Package Control shows all the packages you can install, go for the most popular ones you are interested in. Don’t go overboard!
+		- [Atom](https://atom.io/)
+	- [Vim](https://www.vim.org/)
+	- [Emacs](https://www.gnu.org/software/emacs/)
+    - [Visual Studio Code](https://code.visualstudio.com/): popular open-source Integrated Development Environment
 - Git: Learn it. You need to know it.
-	- Basics: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
-	- Resources: https://try.github.io/
-	- Branching: https://learngitbranching.js.org/
+	- [Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+	- [Resources](https://try.github.io/)
+	- [Branching](https://learngitbranching.js.org/)
 - File Transfer
 	+ Cyberduck (sftp)
 	+ Forklift (sftp)
@@ -393,9 +392,9 @@ Contributing to open source projects is a good way to gain experience and also g
 	+ Transmission (Bittorrent)
 
 ## Free Resources for Students/Devs
-- Github Student Developer Pack: https://education.github.com/pack
-- Free-for.dev: https://free-for.dev/#/
+- [Github Student Developer Pack](https://education.github.com/pack)
+- [Free-for.dev](https://free-for.dev/#/)
 
 ## Other websites
-* AlternativeTo: https://alternativeto.net/
-* Privacytools.io: https://privacytools.io
+* [AlternativeTo](https://alternativeto.net/)
+* [Privacytools.io](https://privacytools.io)
