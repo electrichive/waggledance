@@ -332,6 +332,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 * [p1xt guides](https://github.com/P1xt/p1xt-guides)
 * [App Academy online](https://open.appacademy.io/)
+* [codeSTACKr's Web Dev Roadmap 2020](https://www.youtube.com/watch?v=iogabydg2y0)
 
 ## Programming Languages, Coding Languages & Domain-Specific Languages
 ### Javascript
@@ -372,6 +373,9 @@ Contributing to open source projects is a good way to gain experience and also g
 ## Tools
 - [Hacker Tools](https://hacker-tools.github.io/)
 	- See also this [Hacker News post](https://news.ycombinator.com/item?id=19078281)
+* Browsers
+	- [Firefox](https://www.mozilla.org/firefox/new/)
+	- [Chrome](https://www.google.com/chrome/)
 - Text Editors & IDEs
     - [Sublime Text](https://www.sublimetext.com/)
 		- This [Real Python post](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
@@ -381,6 +385,8 @@ Contributing to open source projects is a good way to gain experience and also g
 	- [Vim](https://www.vim.org/)
 	- [Emacs](https://www.gnu.org/software/emacs/)
     - [Visual Studio Code](https://code.visualstudio.com/): popular open-source Integrated Development Environment
+- Terminal
+	+ iTerm
 - Git: Learn it. You need to know it.
 	- [Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 	- [Resources](https://try.github.io/)
@@ -390,6 +396,10 @@ Contributing to open source projects is a good way to gain experience and also g
 	+ Forklift (sftp)
 	+ Truck (rsync)
 	+ Transmission (Bittorrent)
+- Design
+	* Figma
+	* Adobe Suite
+	* Gimp
 
 ## Free Resources for Students/Devs
 - [Github Student Developer Pack](https://education.github.com/pack)
