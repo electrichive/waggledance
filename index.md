@@ -295,6 +295,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Lynda](https://www.lynda.com/)
 * [Pluralsight](https://www.pluralsight.com/)
 * [Learn X in Y Minutes](https://learnxinyminutes.com/)
+* [Awesome Resources](https://github.com/georgegognadze/awesome-resources)
 
 ## News & Culture
 * [Hacker News](https://news.ycombinator.com/)
@@ -358,6 +359,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 - [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
 - [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 - [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
+- Base CS [Website](https://medium.com/basecs) and [Podcast](https://www.codenewbie.org/basecs)
 
 ## Machine Learning
 * Fast.ai: https://www.fast.ai/
