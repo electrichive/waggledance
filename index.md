@@ -181,8 +181,8 @@ The options to consider are:
 	- What kind of jobs will you be prepared for?
 - How much help will they give you in getting a job afterwards?
 
-# Step 5: Learn hardcore / Intermediate Learning (90 days - 365 days)
-Now is the time to start digging in deeper into the world of tech and building serious, job-worthy skills.
+# Step 5: Learn hardcore (90 days - 365 days)
+Now is the time to start digging in deeper into the world of tech and building serious, job-worthy skills. This is when you should be advancing from the beginner stage into an intermediate stage.
 
 ## Mindset
 Congrats! You’re off and away. Now is the time to put on the big-kid pants, step out into the world, and build, build, build.
@@ -200,7 +200,7 @@ Read here about possible developer roadmaps: https://roadmap.sh/roadmaps
 Pick one roadmap and dive right in.
 
 #### Learning Programs
-Check out one of these three learning programs, and follow them. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. (Sorry, there isn't a strong alternative I'm aware of that focuses on Python.)
+Check out one of these three learning programs, and choose one to work on. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. (There isn't currently a strong alternative that uses Python, but Free Code Camp should be coming out with some modules for Python in 2020.)
 - [Free Code Camp](https://www.freecodecamp.org/)
     * FCC covers HTML, CSS and Javascript, and covers a wide range of topics.
     * FCC works primarily through interactive browser exercises.
@@ -225,6 +225,8 @@ The roadmaps recommended above should give you a lot to work on, but in case you
     * NoSQL databases: MongoDB
 * Python Backend Frameworks:
 	* Django (Batteries-included)
+		* [Official site](https://www.djangoproject.com/)
+		* [Awesome Django](https://github.com/wsvincent/awesome-django)
 	* Flask (Lightweight)
 * Javacript Web Frameworks:
     * React
@@ -300,14 +302,13 @@ Now that you're a successful programmer, give back! Please consider contributing
 ## News & Culture
 * [Hacker News](https://news.ycombinator.com/)
 * [Medium](Medium.com)
-* Programming-related subreddits
 
-## Subreddits
+## General Programming Subreddits
 * [r/learnprogramming](https://www.reddit.com/r/learnprogramming)
 * [r/programming](https://www.reddit.com/r/programming/)
 * [r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/)
 
-### Specific language sub-reddits
+### Programming language sub-reddits
 * [Javascript](https://www.reddit.com/r/javascript)
 * [Python](https://www.reddit.com/r/python)
 * [Java](https://www.reddit.com/r/java/)
@@ -343,6 +344,11 @@ Now that you're a successful programmer, give back! Please consider contributing
 ### Python
 * [Full Stack Python](https://www.fullstackpython.com)
 
+#### Django
+Django is a batteries-included web framework written in Python.
+* [Official site](https://www.djangoproject.com/)
+* [Awesome Django](https://github.com/wsvincent/awesome-django)
+
 ### Rust
 * [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/)
 
@@ -352,6 +358,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 
 ## Computer Science
 * [Open Source Society University](https://github.com/ossu/computer-science)
+* [Open Source CS](https://github.com/ForrestKnight/open-source-cs)
 - [Open Source Computer Science Degree](https://www.reddit.com/r/learnprogramming/comments/akbeqk/the_open_source_computer_science_degree/)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [Khan Academy CS](https://www.khanacademy.org/computing/computer-science)
@@ -361,8 +368,11 @@ Now that you're a successful programmer, give back! Please consider contributing
 - [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 - Base CS [Website](https://medium.com/basecs) and [Podcast](https://www.codenewbie.org/basecs)
 
+## Data Science
+* [DataCamp](https://www.datacamp.com/)
+
 ## Machine Learning
-* Fast.ai: https://www.fast.ai/
+* [Fast.ai](https://www.fast.ai/)
 
 ## Open Source Contribution Opportunities
 Contributing to open source projects is a good way to gain experience and also give back to the community.
@@ -410,3 +420,6 @@ Contributing to open source projects is a good way to gain experience and also g
 ## Other websites
 * [AlternativeTo](https://alternativeto.net/)
 * [Privacytools.io](https://privacytools.io)
+
+## Non-Programming Topics
+* [Personal Finance for Engineers](https://cs007.blog/)
