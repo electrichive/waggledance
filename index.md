@@ -375,6 +375,9 @@ Django is a batteries-included web framework written in Python.
 ## Machine Learning
 * [Fast.ai](https://www.fast.ai/)
 
+## Practice, Coding Challenges, and Competitive Programming
+[Exercism](https://exercism.io/)
+
 ## Open Source Contribution Opportunities
 Contributing to open source projects is a good way to gain experience and also give back to the community.
 
