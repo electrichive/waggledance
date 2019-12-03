@@ -1,4 +1,4 @@
-# The Electric Hive Programmer's Learning Guide
+# The Waggle Dance - A Guide to Programming
 
 # Intro
 
@@ -15,6 +15,9 @@ This guide is aimed at helping out people with a specific goal of becoming a pro
 
 ## Some caveats
 Pretty much everything in this guide is my own opinion. For conciseness, I will not be providing caveats about how certain things are my opinion elsewhere. I may omit some things. I may also be inaccurate or flat-out wrong about some things. I’m not perfect, and neither is this guide. Caveat emptor.
+
+## Why the Waggle Dance?
+The [waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) is performed by the honey bee to show other bees information to other foraging sites and colony nest locations. Similarly, this guide is meant to lead you on the journey to becoming a programmer.
 
 # The Plan
 1. Figure out if you want to pursue a tech career using programming.
