@@ -252,6 +252,8 @@ The authors provide a free interactive version of the book online, along with vi
 
 Alongside either, browse this:
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university/)
+- [Coding Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+- [Competitive Programming Syllabus](https://gist.github.com/sharmaeklavya2/8aa2830f3a46a3f46ff249b4e1f07767)
 
 ### Surveys
 Reading surveys related to your field helps you understand it better. Check out these surveys:
