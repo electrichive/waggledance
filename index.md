@@ -357,6 +357,12 @@ Django is a batteries-included web framework written in Python.
 ### Rust
 * [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/)
 
+### Golang / Go
+* [A Tour of Go](https://tour.golang.org/welcome/1)
+* [Effective Go](https://golang.org/doc/effective_go.html)
+* [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/)
+* [Derek Banas' Go Programming Youtube series](https://www.youtube.com/watch?v=CF9S4QZuV30)
+
 ### SQL
 * [The Ultimate MySQL Bootcamp](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 * [The Complete SQL Bootcamp](https://www.udemy.com/course/the-complete-sql-bootcamp/)
