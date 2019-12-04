@@ -321,7 +321,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [C#](https://www.reddit.com/r/csharp/)
 
 ## Mentors & Communities
-[Coding Coach](https://mentors.codingcoach.io/)
+* [Coding Coach](https://mentors.codingcoach.io/)
 
 ## Technical
 * [Github](Github.com)
@@ -388,11 +388,11 @@ Django is a batteries-included web framework written in Python.
 * [Fast.ai](https://www.fast.ai/)
 
 ## Competitive Programming and Coding Challenges
-[Exercism](https://exercism.io/)
+* [Exercism](https://exercism.io/)
 
 ## Practice App / Projects
-[App Ideas](https://github.com/florinpop17/app-ideas)
-[r/dailyprogrammer subreddit](https://www.reddit.com/r/dailyprogrammer/)
+* [App Ideas](https://github.com/florinpop17/app-ideas)
+* [r/dailyprogrammer subreddit](https://www.reddit.com/r/dailyprogrammer/)
 
 ## Open Source Contribution Opportunities
 Contributing to open source projects is a good way to gain experience and also give back to the community.
