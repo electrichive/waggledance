@@ -362,6 +362,7 @@ Django is a batteries-included web framework written in Python.
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/)
 * [Derek Banas' Go Programming Youtube series](https://www.youtube.com/watch?v=CF9S4QZuV30)
+* [Gophercises](https://gophercises.com/) - Coding exercises with Go
 
 ### SQL
 * [The Ultimate MySQL Bootcamp](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
