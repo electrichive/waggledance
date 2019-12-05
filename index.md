@@ -393,6 +393,7 @@ Django is a batteries-included web framework written in Python.
 ## Practice App / Projects
 * [App Ideas](https://github.com/florinpop17/app-ideas)
 * [r/dailyprogrammer subreddit](https://www.reddit.com/r/dailyprogrammer/)
+* [r/beginnerprojects subreddit](https://www.reddit.com/r/beginnerprojects/)
 
 ## Open Source Contribution Opportunities
 Contributing to open source projects is a good way to gain experience and also give back to the community.
