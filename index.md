@@ -291,8 +291,6 @@ Now that you're a successful programmer, give back! Please consider contributing
 ### General Resources
 * [Free Code Camp](https://www.freecodecamp.org/)
 * [Rithm School](https://www.rithmschool.com/courses)
-* [Teach Yourself CS by Bradfield CS](http://teachyourselfcs.com/)
-* [CS50 Intro to CS](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 * [Udemy](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 * [Udacity](https://www.udacity.com/)
 * [Coursera](https://www.coursera.org/)
@@ -331,6 +329,9 @@ Now that you're a successful programmer, give back! Please consider contributing
 ## Web Development
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 
+### Front-End Web Development
+* [Frontend Masters](https://frontendmasters.com/)
+
 ## Curriculae/Roadmaps
 * [Roadmap.sh](https://roadmap.sh/)
 * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
@@ -368,6 +369,8 @@ Django is a batteries-included web framework written in Python.
 * [The Complete SQL Bootcamp](https://www.udemy.com/course/the-complete-sql-bootcamp/)
 
 ## Computer Science
+* [Teach Yourself CS by Bradfield CS](http://teachyourselfcs.com/)
+* [CS50 Intro to CS](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 * [Open Source Society University](https://github.com/ossu/computer-science)
 * [Open Source CS](https://github.com/ForrestKnight/open-source-cs)
 * [Open Source Computer Science Degree](https://www.reddit.com/r/learnprogramming/comments/akbeqk/the_open_source_computer_science_degree/)
