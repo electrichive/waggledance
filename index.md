@@ -115,11 +115,10 @@ Check out this course: [The Modern Python Bootcamp](https://www.udemy.com/course
 - It should be “on sale” for ~$12 USD. If it’s not “on sale”, don’t buy it.
 - Continue to check the Udemy course, then buy as soon as it goes on sale for $12 USD and switch over to that course.
 
+If you can't/don't want to pay for the course, here is a free alternative: [Introduction to Computer Science and Programming](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+
 #### Book/Text-based course
-Use this: [Automate the Boring Stuff](https://automatetheboringstuff.com/)
-
-* It's free online. It has an accompanying video lecture series on Udemy if you want to pay.
-
+Use this: [Dive Into Python](https://diveintopython3.net/)
 
 ### On completion
 Congrats, you should now have an idea if you can handle learning to be a software developer and want to dig deeper.
