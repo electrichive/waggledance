@@ -201,7 +201,7 @@ Check out one of these three web dev learning programs, and choose one to work o
 - [The Odin Project](https://www.theodinproject.com/)
     * The Odin Project covers Ruby/Rails, Javascript, and HTML/CSS.
     * The Odin Project does a slightly better job of covering the developer tooling ecosystem, and has you work in parallel on your own PC rather than in the browser.
-- Aalto University's [Full Stack course](https://fullstackopen.com/en/)
+- Aalto University's [Full Stack Open] course (https://fullstackopen.com/en/)
     * Note: This is a resource I haven't personally tested, but it looks quite good on first impression.
 
 # Level 2 - Step 5
