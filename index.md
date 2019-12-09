@@ -210,7 +210,7 @@ Whether coding bootcamps are worth it is a hot-button issue. Here are some consi
 Ok, from here on in we're going to assume you're going with entirely self-directed learning.
 
 #### Learning Programs
-Check out these three web dev learning programs, and choose one to work on. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. (There isn't currently a strong alternative that uses Python, but Free Code Camp should be coming out with some modules for Python in 2020.)
+Check out these three web dev learning programs, and choose one to work on. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. CS50's Web Programming is suitable for Python learners.
 - [Free Code Camp](https://www.freecodecamp.org/)
     * FCC covers HTML, CSS and Javascript, and covers a wide range of topics.
     * FCC works primarily through interactive browser exercises.
@@ -219,6 +219,7 @@ Check out these three web dev learning programs, and choose one to work on. I wo
     * The Odin Project does a slightly better job of covering the developer tooling ecosystem, and has you work in parallel on your own PC rather than in the browser.
 - Aalto University's [Full Stack Open](https://fullstackopen.com/en/) course
     * Note: This is a resource I haven't personally tested, but it looks quite good on first impression.
+- [CS50's Web Programming with Python and JavaScript](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript)
 
 # Level 2 (Beginner) - Step 5
 ## Work through the learning program (3 months - 2 years)
