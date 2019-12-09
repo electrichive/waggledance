@@ -318,7 +318,6 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Khan Academy](https://www.khanacademy.org/)
 * [Lynda](https://www.lynda.com/)
 * [Pluralsight](https://www.pluralsight.com/)
-* [Learn X in Y Minutes](https://learnxinyminutes.com/)
 * [Awesome Resources](https://github.com/georgegognadze/awesome-resources)
 
 ## News & Culture
@@ -362,6 +361,9 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [codeSTACKr's Web Dev Roadmap 2020](https://www.youtube.com/watch?v=iogabydg2y0)
 
 ## Programming Languages, Coding Languages & Domain-Specific Languages
+### General
+* [Learn X in Y Minutes](https://learnxinyminutes.com/): quick overview of various languages
+
 ### Javascript
 * [Free Code Camp](https://www.freecodecamp.org)
 * [JS tl;dr](https://js-tldr.info/about)
