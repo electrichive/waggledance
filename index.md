@@ -305,8 +305,17 @@ Great, you've finished the program you've chosen and should now have developed e
 * [Getting a Gig](https://github.com/cassidoo/getting-a-gig)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university#book-list)
 
+### Job Sites
+[LinkedIn](linkedin.com)
+[Glassdoor](https://www.glassdoor.com/)
+[Dice](https://www.dice.com/)
+[Indeed](https://www.indeed.com/)
+
 ### Build a personal site/portfolio
 Build yourself a personal site or portfolio page. Add personal projects you're proud of, with clean code and documentation.
+
+### Improve your résumé
+Take a look at what [Career Cup's sample résumé](https://careercup.com/resume) looks like.
 
 ### Data Structures & Algorithms
 You may have noticed by now that the madness of technical interviews focuses on algorithms and data structures. On your own time, begin studying.
@@ -491,6 +500,9 @@ Django is a batteries-included web framework written in Python.
 ## Machine Learning
 * [Fast.ai](https://www.fast.ai/)
 
+## Cloud Computing
+[ACloudGuru](https://acloud.guru/)
+
 ## Competitive Programming and Coding Challenges
 * [HackerRank](https://www.hackerrank.com/)
 * [Exercism](https://exercism.io/)
@@ -514,6 +526,7 @@ Contributing to open source projects is a good way to gain experience and also g
 [Linux command line for you and me!](https://lym.readthedocs.io/en/latest/)
 [Linux Journey](https://linuxjourney.com/)
 [Linux Tutorial Introduction](https://linuxsurvival.com/linux-tutorial-introduction/)
+[Linux Academy](https://linuxacademy.com/)
 
 ## Tools
 - [Hacker Tools](https://hacker-tools.github.io/)
