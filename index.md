@@ -9,7 +9,7 @@ This is a highly-opinionated, curated guide to becoming a professional programme
 This is written for people who don’t have a strong background in programming and computer science, and are trying to figure out if they want to pursue a career using programming.
 
 ## Why is it opinionated and curated?
-I think exploring the world of programming-related careers can be really confusing to newbies, and it can become really easy to get lost, stalled by decision paralysis, or simply procrastinate.
+I think exploring the world of programming-related careers can be really confusing to newbies, and it can be very easy to get lost, become overwhelmed by decision paralysis, or simply procrastinate.
 
 This guide is aimed at helping out people with a specific goal of becoming a professional programmer by giving them a simple plan to follow, reducing choices to a handful of options selected for quality and effectiveness, and providing advice on how to actually go about the whole process.
 
@@ -28,7 +28,7 @@ Try programming to figure out if a programming career is right for you.
 
 ### Level 2: Beginner
 Follow a program to learn and develop useful skills in programming.
-4. Research & pick a way to dive into hardcore learning (1 - 2 weeks)
+4. Research and pick an in-depth learning program (1 - 2 weeks)
 5. Work through the learning program. (3 months - 2 years)
 
 ### Level 3: Intermediate
@@ -225,7 +225,7 @@ By this point you should be able to self-direct your learning. For more guidance
 Pick one roadmap and dive right in.
 
 ### Topics
-The roadmaps recommended above should give you a lot to work on, but in case you get lost, check the Resources section below. Additionally, check out this list:
+The roadmaps recommended above should give you a lot to work on, but in case you get lost, check out this list of topics (see the Resources section for related learning resources):
 
 * Git and Github/Gitlab
 * Terminal/Command Line
