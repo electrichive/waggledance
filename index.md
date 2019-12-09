@@ -109,7 +109,7 @@ Check out this course [The Web Developer Bootcamp](https://www.udemy.com/the-web
 - Continue to check the Udemy course, then buy as soon as it goes on sale for $12 USD and switch over to that course.
 
 #### Book/Text-based course
-Use this: https://www.freecodecamp.org/
+Use [Free Code Camp](https://www.freecodecamp.org/)
 
 ### Python
 #### Video lecture series
