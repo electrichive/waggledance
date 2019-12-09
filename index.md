@@ -22,23 +22,22 @@ The [waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) is performed by t
 ## The Plan
 ### Level 1: Intro (2 - 6 weeks)
 Try programming to figure out if a programming career is right for you.
-1. Pick a first programming language (1 day)
-2. Work through a short intro programming course (14 - 45 days)
-3. Decide if you actually want to become a professional programmer (1 - 7 days)
+Step 1: Pick a first programming language (1 day)
+Step 2: Work through a short intro programming course (14 - 45 days)
+Step 3: Decide if you actually want to become a professional programmer (1 - 7 days)
 
 ### Level 2: Beginner (3 months - 2 years)
 Follow a program to learn and develop useful skills in programming.
-4. Research and pick an in-depth learning program (1 - 2 weeks)
-5. Work through the learning program. (3 months - 2 years)
+Step 4: Research and pick an in-depth learning program (1 - 2 weeks)
+Step 5: Work through the learning program. (3 months - 2 years)
 
 ### Level 3: Intermediate (3 - 5 years)
 Get a programming job, and continue to improve your skills.
-6. Self-teach while you prep and apply for jobs (1 month - 12 months)
-7. Work and get good at your job. (1 - 3 years)
-8. Get a better job doing the kind of work you want to do (2-5 years)
+Step 6: Self-teach while you prep and apply for jobs (1 month - 12 months)
+Step 7: Use your work to improve your skills (1+ years).
 
 ### Level 4: Advanced (1 lifetime)
-9. Do good in the world; hack the planet (1 lifetime)
+Step 8. Do good in the world; hack the planet (1 lifetime)
 
 # Level 1 - Step 1
 ## Pick a First Programming Language (1 day)
@@ -128,10 +127,10 @@ Use this: [Dive Into Python](https://diveintopython3.net/)
 
 ### Beginner Topics
 Here is an incomplete list of topics that you should feel comfortable with upon completion of the intro course:
-* Variables
 * Data types
 	- Numbers
 	- Characters/Strings
+* Variables 
 * Operators
 * Decisions, control flow & loops
 * Arithmetic
@@ -303,9 +302,8 @@ The roadmaps recommended above should give you a lot to work on, but here is a b
 * Cloud Development: Amazon Web Services
 * Free & Open Source Software
 
-# Level 3 (Intermediate) - Step 6
-## Prep for the Job Search (1 month - 12 months)
-Great, you've finished the program you've chosen and should now have developed employable skills. Now it's time to prep for the job search and interview process. Browse the following:
+## Search for Jobs & Prep for the Job Interview Process
+Great, you've finished the program you've chosen and should now have developed employable skills. Now it's time to prep for the job interview process. Browse the following:
 * [Getting a Gig](https://github.com/cassidoo/getting-a-gig)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university#book-list)
 
@@ -321,7 +319,7 @@ Build yourself a personal site or portfolio page. Add personal projects you're p
 ### Improve your résumé
 Take a look at what [Career Cup's sample résumé](https://careercup.com/resume) looks like.
 
-### Data Structures & Algorithms
+### Learn data structures & algorithms
 You may have noticed by now that the madness of technical interviews focuses on algorithms and data structures. On your own time, begin studying.
 
 If you prefer video lectures:
@@ -337,13 +335,13 @@ Alongside either, browse this:
 - [Coding Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 - [Competitive Programming Syllabus](https://gist.github.com/sharmaeklavya2/8aa2830f3a46a3f46ff249b4e1f07767)
 
-### Surveys
+### Read surveys
 Reading surveys related to your field helps you understand it better. Check out these surveys:
 * [Stack Overflow Survey](https://insights.stackoverflow.com/survey/2018/)
 * [State of Javascript Survey](https://stateofjs.com/)
 * [Jetbrain’s Python Developer Survey 2018](https://www.jetbrains.com/research/python-developers-survey-2018/)
 
-### News and Culture
+### Read news and culture
 Immerse yourself in aspects of technology culture like programming, software engineering, hacking, and tech startups through subreddits, Hacker News, Medium groups. This will generally help you understand more about what you’re getting yourself into, help you orient your priorities, and start to accumulate a general knowledge of useful resources. In addition, it will help you “talk the talk” when you get to the job application stage, so you can be in-the-know about the tech scene.
 
 Be careful not to spend too much time on this - no more than 30 minutes per day. This is not as important as studying and programming.
@@ -351,18 +349,14 @@ Be careful not to spend too much time on this - no more than 30 minutes per day.
 At some point along this way, you should be able to get a job. Congratulations!
 
 # Level 3 (Intermediate) - Step 7
-## Work and get good at your job. Invest in your education (1 - 3 years)
+## Use your work to improve your skills (1+ years).
 Keep pushing yourself to improve. Figure out what you want to specialize in and how you can continue to educate yourself.
 
 Set aside some money in your monthly budget to put towards your programming education.
 
-# Level 3 (Intermediate) - Step 8
-## Get a better job doing the kind of work you want to do (2 - 5 years)
-Continue to improve.
-
 Read [Designing Your Life](http://designingyour.life/)
 
-# Level 4 (Advanced) - Step 9
+# Level 4 (Advanced) - Step 8
 ## Do good in the world; hack the planet (1 lifetime)
 Now that you're a successful programmer, give back! Please consider contributing to the Electric Hive's cause by:
 
@@ -372,7 +366,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 ***
 # Resources
 
-### General Resources
+## General Resources
 * [Free Code Camp](https://www.freecodecamp.org/)
 * [Rithm School](https://www.rithmschool.com/courses)
 * [Udemy](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
