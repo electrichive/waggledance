@@ -416,6 +416,10 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [p1xt guides](https://github.com/P1xt/p1xt-guides)
 * [App Academy online](https://open.appacademy.io/)
 * [codeSTACKr's Web Dev Roadmap 2020](https://www.youtube.com/watch?v=iogabydg2y0)
+* [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap)
+* [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
+* [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
+* [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 
 ## Programming Languages, Coding Languages & Domain-Specific Languages
 ### General
