@@ -91,7 +91,7 @@ Below is more information about the languages, to help you make up your mind.
 - Data science
 	- Moderately difficult to get a well-paying job in data science without a college degree due the need to have other specialized skills (good knowledge of algorithms & data structures, statistics, theoretical math, etc.)
 
-# Level 1 - Step 2
+# Level 1 (Intro) - Step 2
 ## Work through a short intro course on programming using your programming language (14 - 45 days)
 ## Instructions
 Decide whether you want to learn primarily through a video lecture series or a book/text-based course. (If you're not sure, try the video lectures first.) Start the course for your language and start working through the program as fast as possible.
@@ -143,13 +143,13 @@ Here is an incomplete list of topics that you should feel comfortable with upon 
 ### On completion
 Congrats, you should now have an idea if you can handle learning to be a software developer and want to dig deeper.
 
-# Level 1 - Step 3
+# Level 1 (Intro) - Step 3
 ## Decide if you want to pursue a tech career (1 - 7 days)
 Now that you've finished the intro course, it's time to sit down and figure out if you want to seriously pursue programming as a skill and tech as a career. Spend time researching and considering carefully.
 
 If you do, keep using this guide. If not, bail and figure out what else you want to do with your life.
 
-# Level 2 - Step 4
+# Level 2 (Beginner) - Step 4
 ## Choose a primary method for developing employable skills (7 days - 14 days)
 So you’re going for it, and committing yourself to learning programming and building a career in tech. This is a serious commitment of time, energy and money, and you should put effort into figuring out a primary way to develop employable skills. Set up some coffee interviews to find out more about the industry and how to develop your skills. Read on r/cscareerquestions and r/learnprogramming.
 
@@ -220,7 +220,7 @@ Check out one of these three web dev learning programs, and choose one to work o
 - Aalto University's [Full Stack Open] course (https://fullstackopen.com/en/)
     * Note: This is a resource I haven't personally tested, but it looks quite good on first impression.
 
-# Level 2 - Step 5
+# Level 2 (Beginner) - Step 5
 ## Work through the learning program (3 months - 2 years)
 Now is the time to start digging in deeper into the world of tech and building serious, job-worthy skills. This is when you should be advancing from the beginner stage into an intermediate stage.
 
@@ -253,7 +253,7 @@ Time to upgrade your tools! Check out the tools section below.
 	* Breadth First Search
 	* Dijkstra's Algorithm
 
-# Level 3 - Step 6
+# Level 3 (Intermediate) - Step 6
 ## Self-teach while you prep and apply for jobs (1 month - 12 months)
 Congrats! You've finished the learning program from Level 2, and now you should be at an intermediate capability as a programmer.
 
@@ -298,7 +298,7 @@ The roadmaps recommended above should give you a lot to work on, but here is a b
 * Cloud Development
 * Free & Open Source Software
 
-# Level 3 - Step 6
+# Level 3 (Intermediate) - Step 6
 ## Prep for the Job Search (1 month - 12 months)
 Great, you've finished the program you've chosen and should now have developed employable skills. Now it's time to prep for the job search and interview process. Browse the following:
 * [Getting a Gig](https://github.com/cassidoo/getting-a-gig)
@@ -339,19 +339,19 @@ Be careful not to spend too much time on this - no more than 30 minutes per day.
 
 At some point along this way, you should be able to get a job. Congratulations!
 
-# Level 3 - Step 7
+# Level 3 (Intermediate) - Step 7
 ## Work and get good at your job. Invest in your education (1 - 3 years)
 Keep pushing yourself to improve. Figure out what you want to specialize in and how you can continue to educate yourself.
 
 Set aside some money in your monthly budget to put towards your programming education.
 
-# Level 3 - Step 8
+# Level 3 (Intermediate) - Step 8
 ## Get a better job doing the kind of work you want to do (2 - 5 years)
 Continue to improve.
 
 Read [Designing Your Life](http://designingyour.life/)
 
-# Step 8
+# Level 4 (Advanced) - Step 9
 ## Do good in the world; hack the planet (1 lifetime)
 Now that you're a successful programmer, give back! Please consider contributing to the Electric Hive's cause by:
 
