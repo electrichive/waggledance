@@ -126,6 +126,20 @@ If you can't/don't want to pay for the course, here is a free alternative: [Intr
 #### Book/Text-based course
 Use this: [Dive Into Python](https://diveintopython3.net/)
 
+### Beginner Topics
+Here is an incomplete list of topics that you should feel comfortable with upon completion of the intro course:
+* Variables
+* Data types
+	- Numbers
+	- Characters/Strings
+* Operators
+* Decisions, control flow & loops
+* Arithmetic
+* File I/O
+* Functions
+* Exceptions and error handling
+* Object oriented programming basics
+
 ### On completion
 Congrats, you should now have an idea if you can handle learning to be a software developer and want to dig deeper.
 
@@ -213,6 +227,32 @@ Now is the time to start digging in deeper into the world of tech and building s
 ## Tooling
 Time to upgrade your tools! Check out the tools section below.
 
+## Intermediate Topics
+* Git and Github/Gitlab
+* Terminal/Command Line
+* HTML & CSS
+* Testing basics
+* Recursion
+* Object oriented programming: Inheritance, polymorphism, encapsulation
+* Data Structures basics
+	* Linked list
+	* Stack
+	* Queue
+	* Binary search tree
+	* AVL tree
+	* Graph
+	* Hash map
+* Algorithms basics
+	* Linear search
+	* Binary search
+	* Quicksort
+	* Insertion/Selection Sort
+	* Merge Sort
+	* Radix Sort
+	* Depth First Search
+	* Breadth First Search
+	* Dijkstra's Algorithm
+
 # Level 3 - Step 6
 ## Self-teach while you prep and apply for jobs (1 month - 12 months)
 Congrats! You've finished the learning program from Level 2, and now you should be at an intermediate capability as a programmer.
@@ -226,28 +266,37 @@ Congrats! You’re off and away. Now is the time to put on the big-kid pants, st
 By this point you should be able to self-direct your learning. For more guidance on what to learn, check out these roadmaps: [Roadmap.sh](https://roadmap.sh/roadmaps)
 Pick one roadmap and dive right in.
 
-### Topics
-The roadmaps recommended above should give you a lot to work on, but in case you get lost, check out this list of topics (see the Resources section for related learning resources):
-
-* Git and Github/Gitlab
-* Terminal/Command Line
-* HTML & CSS
-* Data Structures & Algorithms
-* Testing, Test-Driven Development and Testing Frameworks
-	- Python: Pytest
-	- Javascript: Mocha
+### Advanced Topics
+The roadmaps recommended above should give you a lot to work on, but here is a brief and incomplete list of topics you may want to look into:
+* Test-Driven Development and Testing Frameworks
+	* Python: Pytest
+	* Javascript: Mocha
 * RESTful API design and use
+* GraphQL
 * Database usage
     * SQL and relational databases: PostgreSQL
     * NoSQL databases: MongoDB
 * Python Backend Frameworks:
 	* Django (Batteries-included)
 	* Flask (Lightweight)
+	* Pyramid
 * Javacript Web Frameworks:
+    * Angular
     * React
+    * Vue
 * Javascript Backend Framework:
 	* Express (Lightweight)
 * Compiled languages: Mess around with C, C++, C#, Java, Go, Rust, etc.
+* Functional languages: Haskell, Common Lisp, Scheme, Clojure
+* Operating Systems: Linux/Unix
+* Computer Architecture: Nand2Tetris
+* Discrete Math
+* Visual Design, UI & UX
+* Security & Privacy
+* Parallel Programming & Concurrency
+* Mobile Development
+* Cloud Development
+* Free & Open Source Software
 
 # Level 3 - Step 6
 ## Prep for the Job Search (1 month - 12 months)
