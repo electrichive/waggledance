@@ -20,22 +20,24 @@ Pretty much everything in this guide is my own opinion. For conciseness, I will 
 The [waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) is performed by the honey bee to show other bees information to other foraging sites and colony nest locations. Similarly, this guide is meant to lead you on the journey to becoming a programmer.
 
 ## The Plan
-### Level 1: Introductory (2 - 6 weeks)
+### Level 1: Intro (2 - 6 weeks)
 Try programming to figure out if a programming career is right for you.
 1. Pick a first programming language (1 day)
 2. Work through a short intro programming course (14 - 45 days)
 3. Decide if you actually want to become a professional programmer (1 - 7 days)
 
-### Level 2: Beginner
+### Level 2: Beginner (3 months - 2 years)
 Follow a program to learn and develop useful skills in programming.
 4. Research and pick an in-depth learning program (1 - 2 weeks)
 5. Work through the learning program. (3 months - 2 years)
 
-### Level 3: Intermediate
-Use your work as a programmer to improve yourself.
+### Level 3: Intermediate (3 - 5 years)
+Get a programming job, and continue to improve your skills.
 6. Self-teach while you prep and apply for jobs (1 month - 12 months)
 7. Work and get good at your job. (1 - 3 years)
 8. Get a better job doing the kind of work you want to do (2-5 years)
+
+### Level 4: Advanced (1 lifetime)
 9. Do good in the world; hack the planet (1 lifetime)
 
 # Level 1 - Step 1
@@ -289,15 +291,16 @@ Be careful not to spend too much time on this - no more than 30 minutes per day.
 At some point along this way, you should be able to get a job. Congratulations!
 
 # Level 3 - Step 7
-## Work and get good at your job. (1 - 3 years)
+## Work and get good at your job. Invest in your education (1 - 3 years)
 Keep pushing yourself to improve. Figure out what you want to specialize in and how you can continue to educate yourself.
+
+Set aside some money in your monthly budget to put towards your programming education.
 
 # Level 3 - Step 8
 ## Get a better job doing the kind of work you want to do (2 - 5 years)
 Continue to improve.
 
 Read [Designing Your Life](http://designingyour.life/)
-
 
 # Step 8
 ## Do good in the world; hack the planet (1 lifetime)
