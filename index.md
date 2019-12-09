@@ -32,6 +32,7 @@ Follow a program to learn and develop useful skills in programming.
 5. Work through the learning program. (3 months - 2 years)
 
 ### Level 3: Intermediate
+Use your work as a programmer to improve yourself.
 6. Self-teach while you prep and apply for jobs (1 month - 12 months)
 7. Work and get good at your job. (1 - 3 years)
 8. Get a better job doing the kind of work you want to do (2-5 years)
