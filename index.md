@@ -295,7 +295,7 @@ The roadmaps recommended above should give you a lot to work on, but here is a b
 * Security & Privacy
 * Parallel Programming & Concurrency
 * Mobile Development
-* Cloud Development
+* Cloud Development: Amazon Web Services
 * Free & Open Source Software
 
 # Level 3 (Intermediate) - Step 6
@@ -371,6 +371,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Khan Academy](https://www.khanacademy.org/)
 * [Lynda](https://www.lynda.com/)
 * [Pluralsight](https://www.pluralsight.com/)
+* [Laracasts](https://laracasts.com/)
 * [Awesome Resources](https://github.com/georgegognadze/awesome-resources)
 
 ## News & Culture
@@ -429,15 +430,29 @@ Now that you're a successful programmer, give back! Please consider contributing
 
 ### Javascript
 * [Free Code Camp](https://www.freecodecamp.org)
+* [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+* [Eloquent Javascript](https://eloquentjavascript.net/)
+* [The Modern Javascript Tutorial](https://javascript.info/)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [JS tl;dr](https://js-tldr.info/about)
 
 ### Python
 * [Full Stack Python](https://www.fullstackpython.com)
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/): online book (free/gratis) and Udemy course (paid. although offered free/gratis from time to time)
+* [Python Cheat Sheets](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)
+* [Socratica Youtube Channel](https://www.youtube.com/user/SocraticaStudios/)
 
 #### Django
 Django is a batteries-included web framework written in Python.
 * [Official site](https://www.djangoproject.com/)
 * [Awesome Django](https://github.com/wsvincent/awesome-django)
+
+### HTML
+[MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
+
+### CSS
+[MDN CSS Docs](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
 
 ### Rust
 * [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/)
@@ -542,6 +557,9 @@ Contributing to open source projects is a good way to gain experience and also g
 ## Other websites
 * [AlternativeTo](https://alternativeto.net/)
 * [Privacytools.io](https://privacytools.io)
+
+## Career Development
+[Career Progression Reference](https://www.progression.fyi)
 
 ## Non-Programming Topics
 * [Personal Finance for Engineers](https://cs007.blog/)
