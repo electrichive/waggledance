@@ -20,18 +20,18 @@ Pretty much everything in this guide is my own opinion. For conciseness, I will 
 The [waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) is performed by the honey bee to show other bees information to other foraging sites and colony nest locations. Similarly, this guide is meant to lead you on the journey to becoming a programmer.
 
 ## The Plan
-####Level 1: Introductory (2 - 6 weeks)
+### Level 1: Introductory (2 - 6 weeks)
 Try programming to figure out if a programming career is right for you.
 1. Pick a first programming language (1 day)
 2. Work through a short intro programming course (14 - 45 days)
 3. Decide if you actually want to become a professional programmer (1 - 7 days)
 
-####Level 2: Beginner
+### Level 2: Beginner
 Follow a program to learn and develop useful skills in programming.
 4. Research & pick a way to dive into hardcore learning (1 - 2 weeks)
 5. Work through the learning program. (3 months - 2 years)
 
-####Level 3: Intermediate
+### Level 3: Intermediate
 6. Self-teach while you prep and apply for jobs (1 month - 12 months)
 7. Work and get good at your job. (1 - 3 years)
 8. Get a better job doing the kind of work you want to do (2-5 years)
