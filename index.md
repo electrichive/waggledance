@@ -524,6 +524,7 @@ Contributing to open source projects is a good way to gain experience and also g
 ## Free Resources for Students/Devs
 - [Github Student Developer Pack](https://education.github.com/pack)
 - [Free-for.dev](https://free-for.dev/#/)
+- [Basecamp](https://basecamp.com/discounts)
 
 ## Other websites
 * [AlternativeTo](https://alternativeto.net/)
