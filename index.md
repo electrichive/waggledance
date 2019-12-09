@@ -108,8 +108,9 @@ Decide whether you want to learn primarily through a video lecture series or a b
 #### Video lecture series
 Check out this course [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
-- It should be “on sale” for ~$12 USD. If it’s not “on sale”, don’t buy it.
-- Continue to check the Udemy course, then buy as soon as it goes on sale for $12 USD and switch over to that course.
+- It should be “on sale” for ~$12 USD. If it’s not “on sale”, don’t buy it and wait for the sale.
+
+If you can't/don't want to pay for the course, here is a free alternative: [Introduction to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
 
 #### Book/Text-based course
 Use [Free Code Camp](https://www.freecodecamp.org/)
@@ -119,7 +120,6 @@ Use [Free Code Camp](https://www.freecodecamp.org/)
 Check out this course: [The Modern Python Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp)
 
 - It should be “on sale” for ~$12 USD. If it’s not “on sale”, don’t buy it.
-- Continue to check the Udemy course, then buy as soon as it goes on sale for $12 USD and switch over to that course.
 
 If you can't/don't want to pay for the course, here is a free alternative: [Introduction to Computer Science and Programming](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 
@@ -404,6 +404,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [LearnCode.Academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 * [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 * [Sentdex](https://www.youtube.com/user/sentdex)
+* [Become a Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/#learn-javascript)
 
 ### Front-End Web Development
 * [Frontend Masters](https://frontendmasters.com/)
