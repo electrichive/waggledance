@@ -477,7 +477,9 @@ Django is a batteries-included web framework written in Python.
 * [Fast.ai](https://www.fast.ai/)
 
 ## Competitive Programming and Coding Challenges
+* [HackerRank](https://www.hackerrank.com/)
 * [Exercism](https://exercism.io/)
+* [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) in Python
 
 ## Practice App / Projects
 * [App Ideas](https://github.com/florinpop17/app-ideas)
@@ -528,6 +530,7 @@ Contributing to open source projects is a good way to gain experience and also g
 ## Free Resources for Students/Devs
 - [Github Student Developer Pack](https://education.github.com/pack)
 - [Free-for.dev](https://free-for.dev/#/)
+- [Student Free Stuff](https://github.com/andykamath/student-free-stuff)
 - [Basecamp](https://basecamp.com/discounts)
 
 ## Other websites
