@@ -37,7 +37,8 @@ Follow a program to learn and develop useful skills in programming.
 8. Get a better job doing the kind of work you want to do (2-5 years)
 9. Do good in the world; hack the planet (1 lifetime)
 
-# Level 1 - Step 1: Pick a First Programming Language (1 day)
+# Level 1 - Step 1
+## Pick a First Programming Language (1 day)
 Much ado is made about picking a first language. There are many good choices but I’m going to narrow them down for you.
 
 Here is a list of languages, along with generally what kind of job(s) you would likely be able to get with competency in that language:
@@ -87,7 +88,8 @@ Below is more information about the languages, to help you make up your mind.
 - Data science
 	- Moderately difficult to get a well-paying job in data science without a college degree due the need to have other specialized skills (good knowledge of algorithms & data structures, statistics, theoretical math, etc.)
 
-# Level 1 - Step 2: Work through a short intro course on programming using your programming language (14 - 45 days)
+# Level 1 - Step 2
+## Work through a short intro course on programming using your programming language (14 - 45 days)
 ## Instructions
 Decide whether you want to learn primarily through a video lecture series or a book/text-based course. (If you're not sure, try the video lectures first.) Start the course for your language and start working through the program as fast as possible.
 
@@ -124,12 +126,14 @@ Use this: [Dive Into Python](https://diveintopython3.net/)
 ### On completion
 Congrats, you should now have an idea if you can handle learning to be a software developer and want to dig deeper.
 
-# Level 1 - Step 3: Decide if you want to pursue a tech career (1 - 7 days)
+# Level 1 - Step 3
+## Decide if you want to pursue a tech career (1 - 7 days)
 Now that you've finished the intro course, it's time to sit down and figure out if you want to seriously pursue programming as a skill and tech as a career. Spend time researching and considering carefully.
 
 If you do, keep using this guide. If not, bail and figure out what else you want to do with your life.
 
-# Level 2 - Step 4: Choose a primary method for developing employable skills (7 days - 14 days)
+# Level 2 - Step 4
+## Choose a primary method for developing employable skills (7 days - 14 days)
 So you’re going for it, and committing yourself to learning programming and building a career in tech. This is a serious commitment of time, energy and money, and you should put effort into figuring out a primary way to develop employable skills. Set up some coffee interviews to find out more about the industry and how to develop your skills. Read on r/cscareerquestions and r/learnprogramming.
 
 The options to consider are:
@@ -199,13 +203,15 @@ Check out one of these three web dev learning programs, and choose one to work o
 - Aalto University's [Full Stack course](https://fullstackopen.com/en/)
     * Note: This is a resource I haven't personally tested, but it looks quite good on first impression.
 
-# Level 2 - Step 5: Work through the learning program (3 months - 2 years)
+# Level 2 - Step 5
+## Work through the learning program (3 months - 2 years)
 Now is the time to start digging in deeper into the world of tech and building serious, job-worthy skills. This is when you should be advancing from the beginner stage into an intermediate stage.
 
 ## Tooling
 Time to upgrade your tools! Check out the tools section below.
 
-# Level 3 - Step 6: Self-teach while you prep and apply for jobs (1 month - 12 months)
+# Level 3 - Step 6
+## Self-teach while you prep and apply for jobs (1 month - 12 months)
 Congrats! You've finished the learning program from Level 2, and now you should be at an intermediate capability as a programmer.
 
 Understand that, as a programmer, you are a craftsperson first and foremost. Now that you have all the basics down, you need to use the knowledge base you've built up to propel yourself forward.
@@ -240,12 +246,13 @@ The roadmaps recommended above should give you a lot to work on, but in case you
 	* Express (Lightweight)
 * Compiled languages: Mess around with C, C++, C#, Java, Go, Rust, etc.
 
-# Level 3 - Step 6: Prep for the Job Search (1 month - 12 months)
+# Level 3 - Step 6
+## Prep for the Job Search (1 month - 12 months)
 Great, you've finished the program you've chosen and should now have developed employable skills. Now it's time to prep for the job search and interview process. Browse the following:
 * [Getting a Gig](https://github.com/cassidoo/getting-a-gig)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university#book-list)
 
-## Build a personal site/portfolio
+### Build a personal site/portfolio
 Build yourself a personal site or portfolio page. Add personal projects you're proud of, with clean code and documentation.
 
 ### Data Structures & Algorithms
@@ -280,16 +287,19 @@ Be careful not to spend too much time on this - no more than 30 minutes per day.
 
 At some point along this way, you should be able to get a job. Congratulations!
 
-# Level 3 - Step 7: Work and get good at your job. (1 - 3 years)
+# Level 3 - Step 7
+## Work and get good at your job. (1 - 3 years)
 Keep pushing yourself to improve. Figure out what you want to specialize in and how you can continue to educate yourself.
 
-# Level 3 - Step 8: Get a better job doing the kind of work you want to do (2 - 5 years)
+# Level 3 - Step 8
+## Get a better job doing the kind of work you want to do (2 - 5 years)
 Continue to improve.
 
 Read [Designing Your Life](http://designingyour.life/)
 
 
-# Step 8: Do good in the world; hack the planet (1 lifetime)
+# Step 8
+## Do good in the world; hack the planet (1 lifetime)
 Now that you're a successful programmer, give back! Please consider contributing to the Electric Hive's cause by:
 
 * Mentoring a new programmer
