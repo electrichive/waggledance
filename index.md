@@ -401,6 +401,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Michael0x2a's Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 
 ## Web Development
+* [Egghead.io](https://egghead.io/)
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 	- Also check out this [Udemy Course List](https://github.com/andrews1022/web-development-2020-course-list) based on a [Traversy Media video](https://www.youtube.com/watch?v=0pThnRneDjw)
 * [LearnCode.Academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
