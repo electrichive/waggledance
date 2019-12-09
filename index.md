@@ -210,7 +210,7 @@ Whether coding bootcamps are worth it is a hot-button issue. Here are some consi
 Ok, from here on in we're going to assume you're going with entirely self-directed learning.
 
 #### Learning Programs
-Check out one of these three web dev learning programs, and choose one to work on. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. (There isn't currently a strong alternative that uses Python, but Free Code Camp should be coming out with some modules for Python in 2020.)
+Check out these three web dev learning programs, and choose one to work on. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. (There isn't currently a strong alternative that uses Python, but Free Code Camp should be coming out with some modules for Python in 2020.)
 - [Free Code Camp](https://www.freecodecamp.org/)
     * FCC covers HTML, CSS and Javascript, and covers a wide range of topics.
     * FCC works primarily through interactive browser exercises.
