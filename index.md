@@ -496,6 +496,11 @@ Contributing to open source projects is a good way to gain experience and also g
 * [Contrib](https://gauger.io/contrib/#/language/javascript)
 * [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 
+## Linux/Unix
+[Linux command line for you and me!](https://lym.readthedocs.io/en/latest/)
+[Linux Journey](https://linuxjourney.com/)
+[Linux Tutorial Introduction](https://linuxsurvival.com/linux-tutorial-introduction/)
+
 ## Tools
 - [Hacker Tools](https://hacker-tools.github.io/)
 	- See also this [Hacker News post](https://news.ycombinator.com/item?id=19078281)
