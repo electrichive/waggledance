@@ -234,7 +234,10 @@ Time to upgrade your tools! Check out the tools section below.
 * HTML & CSS
 * Testing basics
 * Recursion
-* Object oriented programming: Inheritance, polymorphism, encapsulation
+* Object oriented programming
+    * Inheritance
+    * Polymorphism
+    * Encapsulation
 * Data Structures basics
 	* Linked list
 	* Stack
@@ -265,6 +268,7 @@ Congrats! You’re off and away. Now is the time to put on the big-kid pants, st
 
 ### Roadmaps
 By this point you should be able to self-direct your learning. For more guidance on what to learn, check out these roadmaps: [Roadmap.sh](https://roadmap.sh/roadmaps)
+
 Pick one roadmap and dive right in.
 
 ### Advanced Topics
@@ -322,14 +326,11 @@ You may have noticed by now that the madness of technical interviews focuses on 
 
 If you prefer video lectures:
 * [Javascript Algorithms and Data Structures](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
-This course is in JS.
-* [MIT's Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* [MIT's Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/): This course is taught with Python
 
 If you prefer reading a book:
-* [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
-This book is in Python, but does not focus on language-specific stuff.
-* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
-The authors provide a free interactive version of the book online, along with video instructions on some in-chapter exercises.
+* [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms): This book is in Python, but does not focus on language-specific stuff.
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html): The authors provide a free interactive version of the book online, along with video instructions on some in-chapter exercises.
 
 Alongside either, browse this:
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university/)
