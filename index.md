@@ -485,9 +485,6 @@ Django is a batteries-included web framework written in Python.
 * [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 * Base CS: [Website](https://medium.com/basecs) and [Podcast](https://www.codenewbie.org/basecs)
 
-## System Design
-* [System Design Primer](https://github.com/donnemartin/system-design-primer)
-
 ## Data Science
 * [DataCamp](https://www.datacamp.com/)
 
