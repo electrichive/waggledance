@@ -22,22 +22,22 @@ The [waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) is performed by t
 ## The Plan
 ### Level 1: Intro (2 - 6 weeks)
 Try programming to figure out if a programming career is right for you.
-Step 1: Pick a first programming language (1 day)
-Step 2: Work through a short intro programming course (14 - 45 days)
-Step 3: Decide if you actually want to become a professional programmer (1 - 7 days)
+* Step 1: Pick a first programming language (1 day)
+* Step 2: Work through a short intro programming course (14 - 45 days)
+* Step 3: Decide if you actually want to become a professional programmer (1 - 7 days)
 
 ### Level 2: Beginner (3 months - 2 years)
 Follow a program to learn and develop useful skills in programming.
-Step 4: Research and pick an in-depth learning program (1 - 2 weeks)
-Step 5: Work through the learning program. (3 months - 2 years)
+* Step 4: Research and pick an in-depth learning program (1 - 2 weeks)
+* Step 5: Work through the learning program. (3 months - 2 years)
 
 ### Level 3: Intermediate (3 - 5 years)
 Get a programming job, and continue to improve your skills.
-Step 6: Self-teach while you prep and apply for jobs (1 month - 12 months)
-Step 7: Use your work to improve your skills (1+ years).
+* Step 6: Self-teach while you prep and apply for jobs (1 month - 12 months)
+* Step 7: Use your work to improve your skills (1+ years).
 
 ### Level 4: Advanced (1 lifetime)
-Step 8. Do good in the world; hack the planet (1 lifetime)
+* Step 8. Do good in the world; hack the planet (1 lifetime)
 
 # Level 1 - Step 1
 ## Pick a First Programming Language (1 day)
