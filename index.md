@@ -400,6 +400,10 @@ Now that you're a successful programmer, give back! Please consider contributing
 
 ## Web Development
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+	- Also check out this [Udemy Course List](https://github.com/andrews1022/web-development-2020-course-list) based on a [Traversy Media video](https://www.youtube.com/watch?v=0pThnRneDjw)
+* [LearnCode.Academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+* [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+* [Sentdex](https://www.youtube.com/user/sentdex)
 
 ### Front-End Web Development
 * [Frontend Masters](https://frontendmasters.com/)
@@ -416,6 +420,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 ## Programming Languages, Coding Languages & Domain-Specific Languages
 ### General
 * [Learn X in Y Minutes](https://learnxinyminutes.com/): quick overview of various languages
+* [Programming Notes for Professionals](https://goalkicker.com/)
 
 ### Javascript
 * [Free Code Camp](https://www.freecodecamp.org)
@@ -458,6 +463,9 @@ Django is a batteries-included web framework written in Python.
 * [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 * Base CS: [Website](https://medium.com/basecs) and [Podcast](https://www.codenewbie.org/basecs)
 
+## System Design
+* [System Design Primer](https://github.com/donnemartin/system-design-primer)
+
 ## Data Science
 * [DataCamp](https://www.datacamp.com/)
 
@@ -469,6 +477,7 @@ Django is a batteries-included web framework written in Python.
 
 ## Practice App / Projects
 * [App Ideas](https://github.com/florinpop17/app-ideas)
+* [Project-Based Learning](https://github.com/tuvtran/project-based-learning)
 * [r/dailyprogrammer subreddit](https://www.reddit.com/r/dailyprogrammer/)
 * [r/beginnerprojects subreddit](https://www.reddit.com/r/beginnerprojects/)
 
