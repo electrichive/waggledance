@@ -446,6 +446,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 ### Python
 * [Full Stack Python](https://www.fullstackpython.com)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/): online book (free/gratis) and Udemy course (paid. although offered free/gratis from time to time)
+* [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
 * [Python Cheat Sheets](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)
 * [Socratica Youtube Channel](https://www.youtube.com/user/SocraticaStudios/)
 
