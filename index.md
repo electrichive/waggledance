@@ -3,7 +3,7 @@
 # Intro
 
 ## What is this?
-This is a highly-opinionated, curated guide to becoming a programmer. I originally wrote this to give some guidance to my friends. Now, I'm offering it up to the public in the hopes that it might help others. Feel free to share or offer suggestions for improvement.
+This is a highly-opinionated, curated guide to becoming a professional programmer, with a focus on fullstack web development. I originally wrote this to give some guidance to my friends. Now, I'm offering it up to the public in the hopes that it might help others. Feel free to share or offer suggestions for improvement.
 
 ## Who is this for?
 This is written for people who don’t have a strong background in programming and computer science, and are trying to figure out if they want to pursue a career using programming.
@@ -19,23 +19,25 @@ Pretty much everything in this guide is my own opinion. For conciseness, I will 
 ## Why the Waggle Dance?
 The [waggle dance](https://en.wikipedia.org/wiki/Waggle_dance) is performed by the honey bee to show other bees information to other foraging sites and colony nest locations. Similarly, this guide is meant to lead you on the journey to becoming a programmer.
 
-# The Plan
-1. Figure out if you want to pursue a tech career using programming.
-2. If you decide that you want to pursue a tech career, follow a path to learn and develop useful skills in programming.
-3. Use your skills to get a full-time tech job that can build your skills, career, and earn enough for you to pursue more education.
-4. Give back. Mentor new programmers. Create technology for social good. Help people and make the world a better place.
+## The Plan
+Level 1: Introductory (2 - 6 weeks)
+Try programming to figure out if a programming career is right for you.
+1. Pick a first programming language (1 day)
+2. Work through a short intro programming course (14 - 45 days)
+3. Decide if you actually want to become a professional programmer (1 - 7 days)
 
-## Step-by-step overview
-1. Pick a single programming language to mess around with (1 day)
-2. Work through a short intro programming course in your chosen language (14 - 45 days)
-3. Decide if you actually want to become a programmer (1 - 7 days)
-4. Research & pick a way to dive into hardcore learning (1-2 weeks)
-5. Learn hardcore for 3 months - 2 years
-6. Prep and apply for jobs until you get a decently-paying job (1 month - 12 months)
-7. Get a better job doing the kind of work you want to do (2-5 years)
-8. Do good in the world; hack the planet (1 lifetime)
+Level 2: Beginner
+Follow a program to learn and develop useful skills in programming.
+4. Research & pick a way to dive into hardcore learning (1 - 2 weeks)
+5. Work through the learning program. (3 months - 2 years)
 
-# Step 1: Pick a First Language (1 day)
+Level 3: Intermediate
+6. Self-teach while you prep and apply for jobs (1 month - 12 months)
+7. Work and get good at your job. (1 - 3 years)
+8. Get a better job doing the kind of work you want to do (2-5 years)
+9. Do good in the world; hack the planet (1 lifetime)
+
+# Level 1 - Step 1: Pick a First Programming Language (1 day)
 Much ado is made about picking a first language. There are many good choices but I’m going to narrow them down for you.
 
 Here is a list of languages, along with generally what kind of job(s) you would likely be able to get with competency in that language:
@@ -43,7 +45,7 @@ Here is a list of languages, along with generally what kind of job(s) you would 
 - Javascript: Front-end web dev, full-stack web dev
 - Python: Back-end web dev, data scientist, data engineer
 
-You will be sticking with this language until you finish a short programming course (14 - 30 days). Once you’ve picked, don’t switch languages until you finish the intro course. In fact, don’t switch languages unless you hate the language you’ve been learning and can pick out a language that you’re really excited to learn. When you're first starting out, gaining consistency and fluency in a single language is important.
+You will be sticking with this language until you finish a short programming course (14 - 30 days). Once you’ve picked, don’t switch languages until you finish the intro course. In fact, don’t switch languages unless you hate the language you’ve been learning and can pick out a language that you’re really excited to learn. When you're first starting out, being consistent and gaining fluency in a single language is important.
 
 You have until the end of today to pick a language.
 
@@ -54,7 +56,7 @@ Below is more information about the languages, to help you make up your mind.
 ### Javascript
 #### Pros
 - Extremely popular
-- Easiest to get a well-paying job
+- Easiest to get a decently-paying job
 
 #### Cons
 - Kind of a quirky language, even with a lot of modern improvements, so:
@@ -66,9 +68,8 @@ Below is more information about the languages, to help you make up your mind.
 - Web development
 	- Is basically the only language used for front-end web development
 	- Can be used for back-end web development
-	- Lots of startups use JS primarily, as do a fair amount of mid-size and large companies
+	- Lots of startup jobs use JS primarily, as do a fair amount of jobs at mid-size and large companies
 - Mobile & desktop apps - a small but rapidly growing area
-
 
 ### Python
 #### Pros
@@ -86,7 +87,7 @@ Below is more information about the languages, to help you make up your mind.
 - Data science
 	- Moderately difficult to get a well-paying job in data science without a college degree due the need to have other specialized skills (good knowledge of algorithms & data structures, statistics, theoretical math, etc.)
 
-# Step 2: Work through a short intro course on programming using the language you chose (14 - 45 days)
+# Level 1 - Step 2: Work through a short intro course on programming using your programming language (14 - 45 days)
 ## Instructions
 Decide whether you want to learn primarily through a video lecture series or a book/text-based course. (If you're not sure, try the video lectures first.) Start the course for your language and start working through the program as fast as possible.
 
@@ -123,13 +124,13 @@ Use this: [Dive Into Python](https://diveintopython3.net/)
 ### On completion
 Congrats, you should now have an idea if you can handle learning to be a software developer and want to dig deeper.
 
-# Step 3: Decide if you want to pursue a tech career (1 - 7 days)
-Somewhere along the road of you working on the intro course, you should have figured out if you want to seriously pursue programming as a skill and tech as a career.
+# Level 1 - Step 3: Decide if you want to pursue a tech career (1 - 7 days)
+Now that you've finished the intro course, it's time to sit down and figure out if you want to seriously pursue programming as a skill and tech as a career. Spend time researching and considering carefully.
 
 If you do, keep using this guide. If not, bail and figure out what else you want to do with your life.
 
-# Step 4: Choose a primary method for developing employable skills (7 days - 14 days)
-So you’re going for it, and committing yourself to learning programming and building a career in tech. This is a serious commitment of time, energy and money. Spend time researching and considering carefully. Set up some coffee interviews to find out more about the industry and how to develop your skills. Read on r/cscareerquestions and r/learnprogramming.
+# Level 2 - Step 4: Choose a primary method for developing employable skills (7 days - 14 days)
+So you’re going for it, and committing yourself to learning programming and building a career in tech. This is a serious commitment of time, energy and money, and you should put effort into figuring out a primary way to develop employable skills. Set up some coffee interviews to find out more about the industry and how to develop your skills. Read on r/cscareerquestions and r/learnprogramming.
 
 The options to consider are:
 
@@ -147,6 +148,7 @@ The options to consider are:
 	- Online
 
 ## Coding Bootcamps: Things to Consider
+Whether coding bootcamps are worth it is a hot-button issue. Here are some considerations if you're thinking about going to a bootcamp. I will definitely say that there is a huge variance in quality between bootcamps, so if you decide to go this route, choose carefully.
 - Cost
 	- How much is it?
 	- Do they have scholarships, grants, or fellowships you could apply for?
@@ -183,26 +185,11 @@ The options to consider are:
 	- What kind of jobs will you be prepared for?
 - How much help will they give you in getting a job afterwards?
 
-# Step 5: Learn hardcore (90 days - 365 days)
-Now is the time to start digging in deeper into the world of tech and building serious, job-worthy skills. This is when you should be advancing from the beginner stage into an intermediate stage.
-
-## Mindset
-Congrats! You’re off and away. Now is the time to put on the big-kid pants, step out into the world, and build, build, build.
-
-Understand that, as a programmer, you are a craftsperson first and foremost. Now that you have all the basics down, you need to work on making small and medium-sized projects in order to develop your craft.
-
-## Tooling
-Time to upgrade your tools! Check out the tools section below.
-
 ## Self-Directed Learning
-Ok, here we're going to assume you're going with entirely self-directed learning.
-
-### Roadmaps
-Read here about possible developer roadmaps: https://roadmap.sh/roadmaps
-Pick one roadmap and dive right in.
+Ok, from here on in we're going to assume you're going with entirely self-directed learning.
 
 #### Learning Programs
-Check out one of these three learning programs, and choose one to work on. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. (There isn't currently a strong alternative that uses Python, but Free Code Camp should be coming out with some modules for Python in 2020.)
+Check out one of these three web dev learning programs, and choose one to work on. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. (There isn't currently a strong alternative that uses Python, but Free Code Camp should be coming out with some modules for Python in 2020.)
 - [Free Code Camp](https://www.freecodecamp.org/)
     * FCC covers HTML, CSS and Javascript, and covers a wide range of topics.
     * FCC works primarily through interactive browser exercises.
@@ -212,8 +199,27 @@ Check out one of these three learning programs, and choose one to work on. I wou
 - Aalto University's [Full Stack course](https://fullstackopen.com/en/)
     * Note: This is a resource I haven't personally tested, but it looks quite good on first impression.
 
+# Level 2 - Step 5: Work through the learning program (3 months - 2 years)
+Now is the time to start digging in deeper into the world of tech and building serious, job-worthy skills. This is when you should be advancing from the beginner stage into an intermediate stage.
+
+## Tooling
+Time to upgrade your tools! Check out the tools section below.
+
+# Level 3 - Step 6: Self-teach while you prep and apply for jobs (1 month - 12 months)
+Congrats! You've finished the learning program from Level 2, and now you should be at an intermediate capability as a programmer.
+
+Understand that, as a programmer, you are a craftsperson first and foremost. Now that you have all the basics down, you need to use the knowledge base you've built up to propel yourself forward.
+
+## Mindset
+Congrats! You’re off and away. Now is the time to put on the big-kid pants, step out into the world, and build, build, build. Work on making small and medium-sized projects in order to develop your craft.
+
+### Roadmaps
+By this point you should be able to self-direct your learning. For more guidance on what to learn, check out these roadmaps: [Roadmap.sh](https://roadmap.sh/roadmaps)
+Pick one roadmap and dive right in.
+
 ### Topics
-The roadmaps recommended above should give you a lot to work on, but in case you get lost, here are some things to study:
+The roadmaps recommended above should give you a lot to work on, but in case you get lost, check the Resources section below. Additionally, check out this list:
+
 * Git and Github/Gitlab
 * Terminal/Command Line
 * HTML & CSS
@@ -227,8 +233,6 @@ The roadmaps recommended above should give you a lot to work on, but in case you
     * NoSQL databases: MongoDB
 * Python Backend Frameworks:
 	* Django (Batteries-included)
-		* [Official site](https://www.djangoproject.com/)
-		* [Awesome Django](https://github.com/wsvincent/awesome-django)
 	* Flask (Lightweight)
 * Javacript Web Frameworks:
     * React
@@ -236,18 +240,27 @@ The roadmaps recommended above should give you a lot to work on, but in case you
 	* Express (Lightweight)
 * Compiled languages: Mess around with C, C++, C#, Java, Go, Rust, etc.
 
+# Level 3 - Step 6: Prep for the Job Search (1 month - 12 months)
+Great, you've finished the program you've chosen and should now have developed employable skills. Now it's time to prep for the job search and interview process. Browse the following:
+* [Getting a Gig](https://github.com/cassidoo/getting-a-gig)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university#book-list)
+
+## Build a personal site/portfolio
+Build yourself a personal site or portfolio page. Add personal projects you're proud of, with clean code and documentation.
+
 ### Data Structures & Algorithms
 You may have noticed by now that the madness of technical interviews focuses on algorithms and data structures. On your own time, begin studying.
 
 If you prefer video lectures:
 * [Javascript Algorithms and Data Structures](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
 This course is in JS.
+* [MIT's Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
 If you prefer reading a book:
 * [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 This book is in Python, but does not focus on language-specific stuff.
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
-The authors provide a free interactive version of the book online, along with video instructions on some in-chapter exercises:
+The authors provide a free interactive version of the book online, along with video instructions on some in-chapter exercises.
 
 Alongside either, browse this:
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university/)
@@ -260,22 +273,18 @@ Reading surveys related to your field helps you understand it better. Check out 
 * [State of Javascript Survey](https://stateofjs.com/)
 * [Jetbrain’s Python Developer Survey 2018](https://www.jetbrains.com/research/python-developers-survey-2018/)
 
-# Step 6: Prep for the Job Search (1 month - 12 months)
-* [Getting a Gig](https://github.com/cassidoo/getting-a-gig)
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university#book-list)
-
-## Build a personal site/portfolio
-WIP
-
-## News and Culture
+### News and Culture
 Immerse yourself in aspects of technology culture like programming, software engineering, hacking, and tech startups through subreddits, Hacker News, Medium groups. This will generally help you understand more about what you’re getting yourself into, help you orient your priorities, and start to accumulate a general knowledge of useful resources. In addition, it will help you “talk the talk” when you get to the job application stage, so you can be in-the-know about the tech scene.
 
 Be careful not to spend too much time on this - no more than 30 minutes per day. This is not as important as studying and programming.
 
 At some point along this way, you should be able to get a job. Congratulations!
 
-# Step 7: Get a better job doing the kind of work you want to do (2 - 5 years)
-Keep pushing yourself to improve.
+# Level 3 - Step 7: Work and get good at your job. (1 - 3 years)
+Keep pushing yourself to improve. Figure out what you want to specialize in and how you can continue to educate yourself.
+
+# Level 3 - Step 8: Get a better job doing the kind of work you want to do (2 - 5 years)
+Continue to improve.
 
 Read [Designing Your Life](http://designingyour.life/)
 
@@ -288,6 +297,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 
 ***
 # Resources
+
 ### General Resources
 * [Free Code Camp](https://www.freecodecamp.org/)
 * [Rithm School](https://www.rithmschool.com/courses)
@@ -416,7 +426,8 @@ Contributing to open source projects is a good way to gain experience and also g
 		- This [Real Python post](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
 		- This [blog post](https://schneid.io/blog/my-sublime-text-setup-revisited/)
 		- [Package Control](https://packagecontrol.io/): Package Control shows all the packages you can install, go for the most popular ones you are interested in. Don’t go overboard!
-		- [Atom](https://atom.io/)
+	- [Atom](https://atom.io/)
+	- [Brackets](http://brackets.io/)
 	- [Vim](https://www.vim.org/)
 	- [Emacs](https://www.gnu.org/software/emacs/)
     - [Visual Studio Code](https://code.visualstudio.com/): popular open-source Integrated Development Environment
