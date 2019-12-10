@@ -383,7 +383,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Hacker News](https://news.ycombinator.com/)
 * [Medium](Medium.com)
 
-## General Programming Subreddits
+### General Programming Subreddits
 * [r/learnprogramming](https://www.reddit.com/r/learnprogramming)
 * [r/programming](https://www.reddit.com/r/programming/)
 * [r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/)
@@ -415,6 +415,10 @@ Now that you're a successful programmer, give back! Please consider contributing
 
 ### Front-End Web Development
 * [Frontend Masters](https://frontendmasters.com/)
+
+## DevOps, Operations & Deployment
+[Ops School](https://ops-school.readthedocs.io/)
+[DevOps Bookmarks](http://www.devopsbookmarks.com/)
 
 ## Curriculae/Roadmaps
 * [Roadmap.sh](https://roadmap.sh/)
@@ -449,6 +453,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
 * [Python Cheat Sheets](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)
 * [Socratica Youtube Channel](https://www.youtube.com/user/SocraticaStudios/)
+* [Test-Driven Development with Python](https://www.obeythetestinggoat.com/)
 
 #### Django
 Django is a batteries-included web framework written in Python.
@@ -470,6 +475,9 @@ Django is a batteries-included web framework written in Python.
 * [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/)
 * [Derek Banas' Go Programming Youtube series](https://www.youtube.com/watch?v=CF9S4QZuV30)
 * [Gophercises](https://gophercises.com/) - Coding exercises with Go
+
+### Java
+* [University of Helsinki's Java MOOC](https://moocfi.github.io/courses/2013/programming-part-1/)
 
 ### SQL
 * [The Ultimate MySQL Bootcamp](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
