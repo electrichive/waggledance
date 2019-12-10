@@ -308,10 +308,10 @@ Great, you've finished the program you've chosen and should now have developed e
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university#book-list)
 
 ### Job Sites
-[LinkedIn](linkedin.com)
-[Glassdoor](https://www.glassdoor.com/)
-[Dice](https://www.dice.com/)
-[Indeed](https://www.indeed.com/)
+* [LinkedIn](linkedin.com)
+* [Glassdoor](https://www.glassdoor.com/)
+* [Dice](https://www.dice.com/)
+* [Indeed](https://www.indeed.com/)
 
 ### Build a personal site/portfolio
 Build yourself a personal site or portfolio page. Add personal projects you're proud of, with clean code and documentation.
@@ -548,9 +548,10 @@ Contributing to open source projects is a good way to gain experience and also g
 	- [Vim](https://www.vim.org/)
 	- [Emacs](https://www.gnu.org/software/emacs/)
     - [Visual Studio Code](https://code.visualstudio.com/): popular open-source Integrated Development Environment
+- [Repl.it](https://repl.it/home): a collaborative code editor
 - Terminal
 	+ iTerm
-- Git: Learn it. You need to know it.
+- Git: Industry-standard version control. Learn it. You need to know it.
 	- [Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 	- [Resources](https://try.github.io/)
 	- [Branching](https://learngitbranching.js.org/)
