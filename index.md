@@ -417,8 +417,8 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Frontend Masters](https://frontendmasters.com/)
 
 ## DevOps, Operations & Deployment
-[Ops School](https://ops-school.readthedocs.io/)
-[DevOps Bookmarks](http://www.devopsbookmarks.com/)
+* [Ops School](https://ops-school.readthedocs.io/)
+* [DevOps Bookmarks](http://www.devopsbookmarks.com/)
 
 ## Curriculae/Roadmaps
 * [Roadmap.sh](https://roadmap.sh/)
