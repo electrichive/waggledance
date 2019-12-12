@@ -1,5 +1,5 @@
 # 🐝 The Waggle Dance 🐝
-##A Guide to Programming
+## A Guide to Programming
 
 # Intro
 
