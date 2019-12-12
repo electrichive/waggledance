@@ -558,7 +558,7 @@ Contributing to open source projects is a good way to gain experience and also g
 
 ## Tools
 - [Hacker Tools](https://hacker-tools.github.io/)
-	- See also this [Hacker News post](https://news.ycombinator.com/item?id=19078281)
+	- See also this [Hacker News post](https://news.ycombinator.com/item?id=19078281) and the [subreddit](https://www.reddit.com/r/hackertools/)
 * Browsers
 	- [Firefox](https://www.mozilla.org/firefox/new/)
 	- [Chrome](https://www.google.com/chrome/)
