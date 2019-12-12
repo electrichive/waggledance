@@ -26,10 +26,10 @@ Try programming to figure out if a programming career is right for you.
 * Step 2: Work through a short intro programming course (14 - 45 days)
 * Step 3: Decide if you actually want to become a professional programmer (1 - 7 days)
 
-### Level 2: Beginner (3 months - 2 years)
+### Level 2: Beginner (3 months - 4 years)
 Follow a program to learn and develop useful skills in programming.
 * Step 4: Research and pick an in-depth learning program (1 - 2 weeks)
-* Step 5: Work through the learning program. (3 months - 2 years)
+* Step 5: Work through the learning program. (3 months - 4 years)
 
 ### Level 3: Intermediate (3 - 5 years)
 Get a programming job, and continue to improve your skills.
@@ -140,7 +140,7 @@ Here is an incomplete list of topics that you should feel comfortable with upon 
 * Object oriented programming basics
 
 ### On completion
-Congrats, you should now have an idea if you can handle learning to be a software developer and want to dig deeper.
+Congrats, you should now have a handle on the fundamentals of programming!
 
 # Level 1 (Intro) - Step 3
 ## Decide if you want to pursue a tech career (1 - 7 days)
@@ -149,21 +149,21 @@ Now that you've finished the intro course, it's time to sit down and figure out 
 If you do, keep using this guide. If not, bail and figure out what else you want to do with your life.
 
 # Level 2 (Beginner) - Step 4
-## Choose a primary method for developing employable skills (7 days - 14 days)
-So you’re going for it, and committing yourself to learning programming and building a career in tech. This is a serious commitment of time, energy and money, and you should put effort into figuring out a primary way to develop employable skills. Set up some coffee interviews to find out more about the industry and how to develop your skills. Read on r/cscareerquestions and r/learnprogramming.
+## Choose an in-depth learning program (7 days - 14 days)
+So you’re going for it, and committing yourself to learning programming and building a career in tech. This is a serious commitment of time, energy and money, and you should put effort into figuring out a primary way to develop employable skills. Set up some coffee interviews to find out more about the industry and how to develop your skills. Read posts on r/cscareerquestions and r/learnprogramming to see what other people have to ask and say.
 
 The options to consider are:
 
 - Self-study
-- Coding bootcamp
+- Coding bootcamp (3-12 months)
 	- In-person
 	- Online
 - Courses at your local community college
-- Post-baccalaureate program at a university
-- Bachelor’s degree at a university
+- Post-baccalaureate program at a university (1-4 years)
+- Bachelor’s degree at a university (4 years)
 	- In-person
 	- Online
-- Master's degree at a university
+- Master's degree at a university (1-2 years)
 	- In-person
 	- Online
 
@@ -206,10 +206,10 @@ Whether coding bootcamps are worth it is a hot-button issue. Here are some consi
 - How much help will they give you in getting a job afterwards?
 
 ## Self-Directed Learning
-Ok, from here on in we're going to assume you're going with entirely self-directed learning.
+Ok, from here onwards we're going to assume you're going with entirely self-directed learning, although everything in this plan will still be useful to those going a more traditional route.
 
-#### Learning Programs
-Check out these three web dev learning programs, and choose one to work on. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. CS50's Web Programming is suitable for Python learners.
+#### In-Depth Learning Programs
+Check out the three web dev learning programs listed below, and choose one to work on. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. CS50's Web Programming is suitable for Python learners.
 - [Free Code Camp](https://www.freecodecamp.org/)
     * FCC covers HTML, CSS and Javascript, and covers a wide range of topics.
     * FCC works primarily through interactive browser exercises.
@@ -224,10 +224,8 @@ Check out these three web dev learning programs, and choose one to work on. I wo
 ## Work through the learning program (3 months - 2 years)
 Now is the time to start digging in deeper into the world of tech and building serious, job-worthy skills. This is when you should be advancing from the beginner stage into an intermediate stage.
 
-## Tooling
-Time to upgrade your tools! Check out the tools section below.
-
-## Intermediate Topics
+## Beginner Topics
+Here is a very incomplete list of topics you should be covering as you work through your learning program.
 * Git and Github/Gitlab
 * Terminal/Command Line
 * HTML & CSS
@@ -256,6 +254,9 @@ Time to upgrade your tools! Check out the tools section below.
 	* Breadth First Search
 	* Dijkstra's Algorithm
 
+## Tooling
+Time to upgrade your tools! Check out the tools section below in the Resources section of this document.
+
 # Level 3 (Intermediate) - Step 6
 ## Self-teach while you prep and apply for jobs (1 month - 12 months)
 Congrats! You've finished the learning program from Level 2, and now you should be at an intermediate capability as a programmer.
@@ -263,16 +264,16 @@ Congrats! You've finished the learning program from Level 2, and now you should 
 Understand that, as a programmer, you are a craftsperson first and foremost. Now that you have all the basics down, you need to use the knowledge base you've built up to propel yourself forward.
 
 ## Mindset
-Congrats! You’re off and away. Now is the time to put on the big-kid pants, step out into the world, and build, build, build. Work on making small and medium-sized projects in order to develop your craft.
+Great job! You're off and away. Now is the time to put on the big-kid pants, step out into the world, and build, build, build. Work on making small and medium-sized projects in order to develop your craft.
 
 ### Roadmaps
 By this point you should be able to self-direct your learning. For more guidance on what to learn, check out these roadmaps: [Roadmap.sh](https://roadmap.sh/roadmaps)
 
-Pick one roadmap and dive right in.
+Pick one roadmap and begin pulling out topics to learn.
 
-### Advanced Topics
+### Intermediate Topics
 The roadmaps recommended above should give you a lot to work on, but here is a brief and incomplete list of topics you may want to look into:
-* Test-Driven Development and Testing Frameworks
+* Test-driven development and testing frameworks
 	* Python: Pytest
 	* Javascript: Mocha
 * RESTful API design and use
@@ -280,27 +281,25 @@ The roadmaps recommended above should give you a lot to work on, but here is a b
 * Database usage
     * SQL and relational databases: PostgreSQL
     * NoSQL databases: MongoDB
-* Python Backend Frameworks:
+* Python backend frameworks:
 	* Django (Batteries-included)
 	* Flask (Lightweight)
 	* Pyramid
-* Javacript Web Frameworks:
+* Javacript web frameworks:
     * Angular
     * React
     * Vue
-* Javascript Backend Framework:
+* Javascript backend frameworks:
 	* Express (Lightweight)
+* Authorization & permissions
+* App/Site deployment
 * Compiled languages: Mess around with C, C++, C#, Java, Go, Rust, etc.
-* Functional languages: Haskell, Common Lisp, Scheme, Clojure
-* Operating Systems: Linux/Unix
-* Computer Architecture: Nand2Tetris
-* Discrete Math
+* Operating systems: Linux, Unix
 * Visual Design, UI & UX
-* Security & Privacy
-* Parallel Programming & Concurrency
-* Mobile Development
-* Cloud Development: Amazon Web Services
-* Free & Open Source Software
+* Security & privacy
+* Free & open-source software
+* Mobile development
+* Cloud development: Amazon Web Services
 
 ## Search for Jobs & Prep for the Job Interview Process
 Great, you've finished the program you've chosen and should now have developed employable skills. Now it's time to prep for the job interview process. Browse the following:
@@ -320,7 +319,7 @@ Build yourself a personal site or portfolio page. Add personal projects you're p
 Take a look at what [Career Cup's sample résumé](https://careercup.com/resume) looks like.
 
 ### Learn data structures & algorithms
-You may have noticed by now that the madness of technical interviews focuses on algorithms and data structures. On your own time, begin studying.
+You may have noticed by now that the madness of technical interviews focuses on algorithms and data structures. On your own time, study up with an eye out for applying this knowledge to interviews.
 
 If you prefer video lectures:
 * [Javascript Algorithms and Data Structures](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/)
@@ -356,6 +355,22 @@ Set aside some money in your monthly budget to put towards your programming educ
 
 Read [Designing Your Life](http://designingyour.life/)
 
+## Advanced Topics
+By this point, you should be very able to pick out topics on your own! Here are some topics that you can put on your list, if you need any inspiration.
+* Functional languages: Haskell, Common Lisp, Scheme, Clojure
+* Computer architecture: Nand2Tetris
+* Parallel programming & concurrency
+* Operating systems
+* Programming languages, compilers & interpreters
+* Distributed systems
+* Machine Learning, AI and Deep Learning
+* Cryptocurrencies
+* Cryptography
+* Systems Administration
+* DevOps
+* Discrete math
+* Linear algebra
+
 # Level 4 (Advanced) - Step 8
 ## Do good in the world; hack the planet (1 lifetime)
 Now that you're a successful programmer, give back! Please consider contributing to the Electric Hive's cause by:
@@ -378,6 +393,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Pluralsight](https://www.pluralsight.com/)
 * [Laracasts](https://laracasts.com/)
 * [Awesome Resources](https://github.com/georgegognadze/awesome-resources)
+* Your Local Library: Don't underestimate this one! Aside from books, many libraries have subscriptions to Lynda and other high-value educational sites.
 
 ## News & Culture
 * [Hacker News](https://news.ycombinator.com/)
@@ -452,7 +468,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 
 ### Python
 * [Full Stack Python](https://www.fullstackpython.com)
-* [Automate the Boring Stuff](https://automatetheboringstuff.com/): online book (free/gratis) and Udemy course (paid. although offered free/gratis from time to time)
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/): online book (free/gratis) and Udemy course (paid, although offered free/gratis from time to time)
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
 * [Python Cheat Sheets](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)
 * [Socratica Youtube Channel](https://www.youtube.com/user/SocraticaStudios/)
@@ -501,6 +517,7 @@ Django is a batteries-included web framework written in Python.
 * [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 * Base CS: [Website](https://medium.com/basecs) and [Podcast](https://www.codenewbie.org/basecs)
 * [mycodeschool Youtube channel](https://www.youtube.com/user/mycodeschool): focused on data structures and algorithms
+* [Four Semesters of Computer Science in Six Hours](https://btholt.github.io/four-semesters-of-cs/)
 
 ## Data Science
 * [DataCamp](https://www.datacamp.com/)
@@ -512,7 +529,8 @@ Django is a batteries-included web framework written in Python.
 ## Cloud Computing
 [ACloudGuru](https://acloud.guru/)
 
-## Competitive Programming and Coding Challenges
+## Competitive Programming, Coding Challenges & Interview Prep
+* [LeetCode](https://leetcode.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [Exercism](https://exercism.io/)
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) in Python
@@ -569,6 +587,7 @@ Contributing to open source projects is a good way to gain experience and also g
 	* Figma
 	* Adobe Suite
 	* Gimp
+	* [Sketch](https://www.sketch.com/)
 
 ## Free Resources for Students/Devs
 - [Github Student Developer Pack](https://education.github.com/pack)
