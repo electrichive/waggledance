@@ -91,9 +91,9 @@ Below is more information about the languages, to help you make up your mind.
 	- Moderately difficult to get a well-paying job in data science without a college degree due the need to have other specialized skills (good knowledge of algorithms & data structures, statistics, theoretical math, etc.)
 
 # Level 1 (Intro) - Step 2
-## Work through a short intro course on programming using your programming language (14 - 45 days)
+## Work through a short intro course on programming (14 - 45 days)
 ## Instructions
-Decide whether you want to learn primarily through a video lecture series or a book/text-based course. (If you're not sure, try the video lectures first.) Start the course for your language and start working through the program as fast as possible.
+Decide whether you want to learn primarily through a video lecture series or a book/text-based course. If you're not sure, try the video lectures first. Start the course for your language and start working through the program as fast as possible.
 
 ## Rules
 - Until further notice, you are now banned from copy-pasting any code. Every bit of code you use must be hand-typed. This will help you ingrain programming syntax into your brain.
