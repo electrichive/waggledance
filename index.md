@@ -359,7 +359,7 @@ Read [Designing Your Life](http://designingyour.life/)
 ## Advanced Topics
 By this point, you should be very able to pick out topics on your own! Here are some topics that you can put on your list, if you need any inspiration.
 * Functional languages: Haskell, Common Lisp, Scheme, Clojure
-* Computer architecture: Nand2Tetris
+* Computer architecture: [Nand2Tetris](https://www.nand2tetris.org/) and accompanying [Coursera course](https://www.coursera.org/learn/build-a-computer)
 * Parallel programming & concurrency
 * Operating systems
 * Programming languages, compilers & interpreters
