@@ -367,7 +367,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 # Resources
 
 ## General Resources
-* [Free Code Camp](https://www.freecodecamp.org/)
+* [Free Code Camp](https://www.freecodecamp.org/) and their [Youtube channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Rithm School](https://www.rithmschool.com/courses)
 * [Udemy](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 * [Udacity](https://www.udacity.com/)
@@ -382,6 +382,8 @@ Now that you're a successful programmer, give back! Please consider contributing
 ## News & Culture
 * [Hacker News](https://news.ycombinator.com/)
 * [Medium](Medium.com)
+* [Coding Horror](https://blog.codinghorror.com/)
+* [A List Apart](https://alistapart.com/)
 
 ### General Programming Subreddits
 * [r/learnprogramming](https://www.reddit.com/r/learnprogramming)
@@ -498,9 +500,11 @@ Django is a batteries-included web framework written in Python.
 * [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 * Base CS: [Website](https://medium.com/basecs) and [Podcast](https://www.codenewbie.org/basecs)
+* [mycodeschool Youtube channel](https://www.youtube.com/user/mycodeschool): focused on data structures and algorithms
 
 ## Data Science
 * [DataCamp](https://www.datacamp.com/)
+* [Data School](https://www.youtube.com/user/dataschool): Youtube channel
 
 ## Machine Learning
 * [Fast.ai](https://www.fast.ai/)
