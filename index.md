@@ -445,6 +445,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Eloquent Javascript](https://eloquentjavascript.net/)
 * [The Modern Javascript Tutorial](https://javascript.info/)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [You Don't Know JS Exercises](https://ydkjs-exercises.com/)
 * [JS tl;dr](https://js-tldr.info/about)
 
 ### Python
