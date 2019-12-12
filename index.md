@@ -1,4 +1,4 @@
-# The Waggle Dance - A Guide to Programming
+# 🐝 The Waggle Dance - A Guide to Programming
 
 # Intro
 
