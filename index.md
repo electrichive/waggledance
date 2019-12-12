@@ -256,7 +256,7 @@ Here is a very incomplete list of topics you should be covering as you work thro
 	* Dijkstra's Algorithm
 
 ## Tooling
-Time to upgrade your tools! Check out the tools section below in the Resources section of this document.
+Time to upgrade your tools! Check out the [tools section](#tools) of the [Resources](#Resources) section.
 
 # Level 3 (Intermediate) - Step 6
 ## Self-teach while you prep and apply for jobs (1 month - 12 months)
