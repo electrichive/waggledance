@@ -511,13 +511,15 @@ Django is a batteries-included web framework written in Python.
 * [Open Source Computer Science Degree](https://www.reddit.com/r/learnprogramming/comments/akbeqk/the_open_source_computer_science_degree/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org)
 * [Khan Academy CS](https://www.khanacademy.org/computing/computer-science)
-* [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
 * [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
 * [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
-* Base CS: [Website](https://medium.com/basecs) and [Podcast](https://www.codenewbie.org/basecs)
-* [mycodeschool Youtube channel](https://www.youtube.com/user/mycodeschool): focused on data structures and algorithms
 * [Four Semesters of Computer Science in Six Hours](https://btholt.github.io/four-semesters-of-cs/)
+
+### Data Structures & Algorithms
+* [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
+* Base CS: [Website](https://medium.com/basecs) and [Podcast](https://www.codenewbie.org/basecs)
+* [mycodeschool Youtube channel](https://www.youtube.com/user/mycodeschool)
 
 ## Data Science
 * [DataCamp](https://www.datacamp.com/)
