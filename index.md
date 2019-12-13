@@ -366,6 +366,7 @@ By this point, you should be very able to pick out topics on your own! Here are 
 * Operating systems
 * Programming languages, compilers & interpreters
 * Distributed systems
+* [JAMstack](https://jamstack.org/)
 * Machine Learning, AI and Deep Learning
 * Cryptocurrencies
 * Cryptography
