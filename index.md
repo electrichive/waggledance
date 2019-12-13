@@ -297,7 +297,7 @@ The roadmaps recommended above should give you a lot to work on, but here is a b
 * Compiled languages: Mess around with C, C++, C#, Java, Go, Rust, etc.
 * Operating systems: Linux, Unix
 * Visual Design, UI & UX
-* Security & privacy
+* [Security & privacy](#Security & Privacy)
 * Free & open-source software
 * Mobile development
 * Cloud development: Amazon Web Services
@@ -435,6 +435,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [NetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 * [Sentdex](https://www.youtube.com/user/sentdex)
 * [Become a Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/#learn-javascript)
+* [Wes Bos](https://wesbos.com)
 
 ### Front-End Web Development
 * [Frontend Masters](https://frontendmasters.com/)
@@ -539,6 +540,12 @@ Django is a batteries-included web framework written in Python.
 ## Cloud Computing
 [ACloudGuru](https://acloud.guru/)
 
+## Security & Privacy <a name="Security & Privacy"></a>
+* [Privacytools.io](https://privacytools.io)
+[Cybersecurity Base](https://cybersecuritybase.mooc.fi/) by University of Helsinki
+[Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest)
+[OverTheWire Wargames](http://overthewire.org/wargames/)
+
 ## Competitive Programming, Coding Challenges & Interview Prep
 * [LeetCode](https://leetcode.com/)
 * [HackerRank](https://www.hackerrank.com/)
@@ -607,7 +614,6 @@ Contributing to open source projects is a good way to gain experience and also g
 
 ## Other websites
 * [AlternativeTo](https://alternativeto.net/)
-* [Privacytools.io](https://privacytools.io)
 
 ## Career Development
 [Career Progression Reference](https://www.progression.fyi)
