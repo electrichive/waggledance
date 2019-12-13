@@ -626,9 +626,9 @@ Contributing to open source projects is a good way to gain experience and also g
 	+ Truck (rsync)
 	+ Transmission (Bittorrent)
 - Design
-	* Figma
-	* Adobe Suite
-	* Gimp
+	* [Figma](https://www.figma.com/)
+	* [Adobe Creative Cloud](https://www.adobe.com/creativecloud/plans.html?)
+	* [Gimp](https://www.gimp.org/)
 	* [Sketch](https://www.sketch.com/)
 
 ## Free Resources for Students/Devs
