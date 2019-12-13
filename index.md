@@ -396,7 +396,8 @@ Now that you're a successful programmer, give back! Please consider contributing
 * Mentoring a new programmer
 * Building technology for social good
 
-***
+---
+
 # Resources
 
 ## General Resources
