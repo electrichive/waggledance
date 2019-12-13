@@ -288,7 +288,7 @@ The roadmaps recommended above should give you a lot to work on, but here is a b
 	* Pyramid
 * Javacript web frameworks:
     * Angular
-    * React
+    * [React](#React)
     * Vue
 * Javascript backend frameworks:
 	* Express (Lightweight)
@@ -312,6 +312,8 @@ Great, you've finished the program you've chosen and should now have developed e
 * [Glassdoor](https://www.glassdoor.com/)
 * [Dice](https://www.dice.com/)
 * [Indeed](https://www.indeed.com/)
+* [Stack Overflow Jobs](https://stackoverflow.com/jobs)
+* [Github Jobs](https://jobs.github.com/)
 
 ### Build a personal site/portfolio
 Build yourself a personal site or portfolio page. Add personal projects you're proud of, with clean code and documentation.
@@ -422,6 +424,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Gitlab](Gitlab.com)
 * [Stack Overflow](https://stackoverflow.com/) / [Stack Exchange](https://stackexchange.com/)
 * [Michael0x2a's Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
+* [Rico's Cheatsheets](https://devhints.io/)
 
 ## Web Development
 * [Egghead.io](https://egghead.io/)
@@ -450,7 +453,6 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap)
 * [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
-* [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 
 ## Programming Languages, Coding Languages & Domain-Specific Languages
 ### General
@@ -467,6 +469,10 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [You Don't Know JS Exercises](https://ydkjs-exercises.com/)
 * [JS tl;dr](https://js-tldr.info/about)
 
+#### <a name="React">React</a>
+* [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
+* [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) by Colt Steele
+
 ### Python
 * [Full Stack Python](https://www.fullstackpython.com)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/): online book (free/gratis) and Udemy course (paid, although offered free/gratis from time to time)
@@ -474,6 +480,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Python Cheat Sheets](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)
 * [Socratica Youtube Channel](https://www.youtube.com/user/SocraticaStudios/)
 * [Test-Driven Development with Python](https://www.obeythetestinggoat.com/)
+* [Python Tips](https://github.com/gpetepg/python_tips/)
 
 #### Django
 Django is a batteries-included web framework written in Python.
@@ -603,6 +610,9 @@ Contributing to open source projects is a good way to gain experience and also g
 
 ## Career Development
 [Career Progression Reference](https://www.progression.fyi)
+
+## Academia
+[The Open University](https://www.open.ac.uk/)
 
 ## Non-Programming Topics
 * [Personal Finance for Engineers](https://cs007.blog/)
