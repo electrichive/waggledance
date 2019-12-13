@@ -396,7 +396,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * Mentoring a new programmer
 * Building technology for social good
 
----
+----------------------------------------
 
 # Resources
 
@@ -507,8 +507,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * [Eloquent Javascript](https://eloquentjavascript.net/)
 * [The Modern Javascript Tutorial](https://javascript.info/)
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-* [You Don't Know JS Exercises](https://ydkjs-exercises.com/)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) and [You Don't Know JS Exercises](https://ydkjs-exercises.com/)
 * [JS tl;dr](https://js-tldr.info/about)
 
 #### React <a name="React"></a>
