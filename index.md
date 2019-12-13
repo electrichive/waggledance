@@ -471,6 +471,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 ## DevOps, Operations & Deployment
 * [Ops School](https://ops-school.readthedocs.io/)
 * [DevOps Bookmarks](http://www.devopsbookmarks.com/)
+* [DevOps subreddit](https://www.reddit.com/r/devops)
 
 ### Hosting
 * Netlify
@@ -591,6 +592,7 @@ Django is a batteries-included web framework written in Python.
 * Elements of Programming Interviews
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 * [interviewing.io](https://interviewing.io/)
+* [Pramp](https://www.pramp.com/#/)
 
 ## Competitive Programming, Coding Challenges
 * [LeetCode](https://leetcode.com/)
