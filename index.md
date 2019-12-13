@@ -542,9 +542,9 @@ Django is a batteries-included web framework written in Python.
 
 ## Security & Privacy <a name="Security & Privacy"></a>
 * [Privacytools.io](https://privacytools.io)
-[Cybersecurity Base](https://cybersecuritybase.mooc.fi/) by University of Helsinki
-[Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest)
-[OverTheWire Wargames](http://overthewire.org/wargames/)
+* [Cybersecurity Base](https://cybersecuritybase.mooc.fi/) by University of Helsinki
+* [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest)
+* [OverTheWire Wargames](http://overthewire.org/wargames/)
 
 ## Competitive Programming, Coding Challenges & Interview Prep
 * [LeetCode](https://leetcode.com/)
