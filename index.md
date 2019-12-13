@@ -219,7 +219,8 @@ Check out the three web dev learning programs listed below, and choose one to wo
     * The Odin Project does a slightly better job of covering the developer tooling ecosystem, and has you work in parallel on your own PC rather than in the browser.
 - Aalto University's [Full Stack Open](https://fullstackopen.com/en/) course
     * Note: This is a resource I haven't personally tested, but it looks quite good on first impression.
-- [CS50's Web Programming with Python and JavaScript](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript)
+- [Harvard's CS50 Intro to CS](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) followed by [CS50's Web Programming with Python and JavaScript](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript)
+    + CS50 is an excellent program, and will ingrain more computer science fundamentals into your learning than the other programs. The tradeoff is that this track will take longer than the other programs to get you job-ready.
 
 # Level 2 (Beginner) - Step 5
 ## Work through the learning program (3 months - 2 years)
@@ -367,13 +368,15 @@ By this point, you should be very able to pick out topics on your own! Here are 
 * Programming languages, compilers & interpreters
 * Distributed systems
 * [JAMstack](https://jamstack.org/)
-* Machine Learning, AI and Deep Learning
-* Cryptocurrencies
+* Machine learning, AI and deep learning
+* Information theory
+* Cryptocurrencies & blockchain
 * Cryptography
 * Systems Administration
 * DevOps
 * Discrete math
 * Linear algebra
+* Firebase
 
 # Level 4 (Advanced) - Step 8
 ## Do good in the world; hack the planet (1 lifetime)
@@ -388,7 +391,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 ## General Resources
 * [Free Code Camp](https://www.freecodecamp.org/) and their [Youtube channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Rithm School](https://www.rithmschool.com/courses)
-* [Udemy](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+* [Udemy](https://udemy.com/)
 * [Udacity](https://www.udacity.com/)
 * [Coursera](https://www.coursera.org/)
 * [EdX](https://www.edx.org/)
@@ -440,9 +443,25 @@ Now that you're a successful programmer, give back! Please consider contributing
 ### Front-End Web Development
 * [Frontend Masters](https://frontendmasters.com/)
 
+### Static Site Generators
+* Hugo
+* Jekyll
+* Pelican
+* Gatsby
+
+### Blogs & Content Management Systems
+* Wordpress
+
 ## DevOps, Operations & Deployment
 * [Ops School](https://ops-school.readthedocs.io/)
 * [DevOps Bookmarks](http://www.devopsbookmarks.com/)
+
+### Hosting
+* Netlify / Github Pages
+* Heroku
+* Firebase
+* AWS
+* Cloudfront
 
 ## Curriculae/Roadmaps
 * [Roadmap.sh](https://roadmap.sh/)
@@ -455,6 +474,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap)
 * [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
+* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 
 ## Programming Languages, Coding Languages & Domain-Specific Languages
 ### General
@@ -515,7 +535,6 @@ Django is a batteries-included web framework written in Python.
 
 ## Computer Science
 * [Teach Yourself CS by Bradfield CS](http://teachyourselfcs.com/)
-* [CS50 Intro to CS](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 * [Open Source Society University](https://github.com/ossu/computer-science)
 * [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
 * [Open Source Computer Science Degree](https://www.reddit.com/r/learnprogramming/comments/akbeqk/the_open_source_computer_science_degree/)
@@ -547,7 +566,12 @@ Django is a batteries-included web framework written in Python.
 * [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest)
 * [OverTheWire Wargames](http://overthewire.org/wargames/)
 
-## Competitive Programming, Coding Challenges & Interview Prep
+## Interview Prep
+* Cracking the Coding Interview
+* Programming Interviews Exposed
+* Elements of Programming Interviews
+
+## Competitive Programming, Coding Challenges
 * [LeetCode](https://leetcode.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [Exercism](https://exercism.io/)
@@ -613,14 +637,23 @@ Contributing to open source projects is a good way to gain experience and also g
 - [Student Free Stuff](https://github.com/andykamath/student-free-stuff)
 - [Basecamp](https://basecamp.com/discounts)
 
-## Other websites
+## Identify technology stacks
+* https://www.wappalyzer.com/
+* https://stackshare.io/stacks
+* https://builtwith.com/
+
+## App Collections
 * [AlternativeTo](https://alternativeto.net/)
+* [Product Hunt](producthunt.com)
+* [Ninite](ninite.com)
+* [Get Mac Apps](http://www.getmacapps.com/)
 
 ## Career Development
 [Career Progression Reference](https://www.progression.fyi)
 
 ## Academia
 [The Open University](https://www.open.ac.uk/)
+[Papers We Love](https://github.com/papers-we-love/papers-we-love)
 
 ## Non-Programming Topics
 * [Personal Finance for Engineers](https://cs007.blog/)
