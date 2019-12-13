@@ -287,8 +287,8 @@ The roadmaps recommended above should give you a lot to work on, but here is a b
 	* Flask (Lightweight)
 	* Pyramid
 * Javacript web frameworks:
-    * Angular
     * [React](#React)
+    * Angular
     * Vue
 * Javascript backend frameworks:
 	* Express (Lightweight)
@@ -469,7 +469,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [You Don't Know JS Exercises](https://ydkjs-exercises.com/)
 * [JS tl;dr](https://js-tldr.info/about)
 
-#### <a name="React">React</a>
+#### React <a name="React"></a>
 * [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 * [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) by Colt Steele
 
