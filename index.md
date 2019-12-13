@@ -433,12 +433,14 @@ Now that you're a successful programmer, give back! Please consider contributing
 ## Mentors & Communities
 * [Coding Coach](https://mentors.codingcoach.io/)
 
-## Technical
-* [Github](Github.com)
-* [Gitlab](Gitlab.com)
+## Technical Reference
 * [Stack Overflow](https://stackoverflow.com/) / [Stack Exchange](https://stackexchange.com/)
 * [Michael0x2a's Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 * [Rico's Cheatsheets](https://devhints.io/)
+
+## Git & Repositories
+* [Github](Github.com)
+* [Gitlab](Gitlab.com)
 
 ## Web Development
 * [Egghead.io](https://egghead.io/)
@@ -468,7 +470,9 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [DevOps Bookmarks](http://www.devopsbookmarks.com/)
 
 ### Hosting
-* Netlify / Github Pages
+* Netlify
+* [Github Pages](https://pages.github.com/)
+* [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/)
 * Heroku
 * Firebase
 * AWS
