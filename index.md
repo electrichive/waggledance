@@ -129,16 +129,24 @@ Use this: [Dive Into Python](https://diveintopython3.net/)
 ### Beginner Topics
 Here is an incomplete list of topics that you should feel comfortable with upon completion of the intro course:
 * Data types
-	- Numbers
+    - Numbers
 	- Characters/Strings
+    - Booleans
+    - Complex Types (Lists, collections, multidimensional arrays, etc.)
+* Type Manipulation
 * Variables 
 * Operators
-* Decisions, control flow & loops
+* Decisions, conditions, control flow & loops
 * Arithmetic
-* File I/O
+* File Input and Output
 * Functions
-* Exceptions and error handling
+* Exceptions, error handling and logging
 * Object oriented programming basics
+    - Objects
+    - Classes
+    - Methods
+    - Properties
+    - Inheritance
 
 ### On completion
 Congrats, you should now have a handle on the fundamentals of programming!
@@ -237,6 +245,8 @@ Here is a very incomplete list of topics you should be covering as you work thro
     * Inheritance
     * Polymorphism
     * Encapsulation
+* Regular expressions and pattern matching
+* Using libraries
 * Data Structures basics
 	* Linked list
 	* Stack
@@ -580,6 +590,7 @@ Django is a batteries-included web framework written in Python.
 ## Practice App / Projects
 * [App Ideas](https://github.com/florinpop17/app-ideas)
 * [Project-Based Learning](https://github.com/tuvtran/project-based-learning)
+* [Projects](https://github.com/karan/Projects)
 * [r/dailyprogrammer subreddit](https://www.reddit.com/r/dailyprogrammer/)
 * [r/beginnerprojects subreddit](https://www.reddit.com/r/beginnerprojects/)
 
