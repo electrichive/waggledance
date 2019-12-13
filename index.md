@@ -318,13 +318,14 @@ Great, you've finished the program you've chosen and should now have developed e
 * [Getting a Gig](https://github.com/cassidoo/getting-a-gig)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university#book-list)
 
-### Job Sites
+### Job Sites & Boards
 * [LinkedIn](linkedin.com)
 * [Glassdoor](https://www.glassdoor.com/)
 * [Dice](https://www.dice.com/)
 * [Indeed](https://www.indeed.com/)
 * [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 * [Github Jobs](https://jobs.github.com/)
+* [Triplebyte](https://triplebyte.com/)
 
 ### Build a personal site/portfolio
 Build yourself a personal site or portfolio page. Add personal projects you're proud of, with clean code and documentation.
@@ -456,14 +457,16 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Frontend Masters](https://frontendmasters.com/)
 
 ### Static Site Generators
+* [StaticGen](https://www.staticgen.com/): a collection of static site generators
 * [Hugo](https://gohugo.io/)
 * [Jekyll](https://jekyllrb.com/)
-* [Pelican](https://docs.getpelican.com/en/stable/): Written in Python
+* [Pelican](https://docs.getpelican.com/en/stable/): written in Python
 * [Gatsby](https://www.gatsbyjs.org/)
 
 ### Blogs & Content Management Systems
 * [Wordpress](https://wordpress.org/)
 * [Ghost](https://ghost.org/)
+* [Lektor](https://www.getlektor.com/)
 
 ## DevOps, Operations & Deployment
 * [Ops School](https://ops-school.readthedocs.io/)
@@ -586,6 +589,8 @@ Django is a batteries-included web framework written in Python.
 * Cracking the Coding Interview
 * Programming Interviews Exposed
 * Elements of Programming Interviews
+* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+* [interviewing.io](https://interviewing.io/)
 
 ## Competitive Programming, Coding Challenges
 * [LeetCode](https://leetcode.com/)
@@ -643,7 +648,7 @@ Contributing to open source projects is a good way to gain experience and also g
 	+ Forklift (sftp)
 	+ Truck (rsync)
 	+ Transmission (Bittorrent)
-- Design
+- Visual Design
 	* [Figma](https://www.figma.com/)
 	* [Adobe Creative Cloud](https://www.adobe.com/creativecloud/plans.html?)
 	* [Gimp](https://www.gimp.org/)
