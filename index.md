@@ -454,13 +454,14 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Frontend Masters](https://frontendmasters.com/)
 
 ### Static Site Generators
-* Hugo
-* Jekyll
-* Pelican
-* Gatsby
+* [Hugo](https://gohugo.io/)
+* [Jekyll](https://jekyllrb.com/)
+* [Pelican](https://docs.getpelican.com/en/stable/): Written in Python
+* [Gatsby](https://www.gatsbyjs.org/)
 
 ### Blogs & Content Management Systems
-* Wordpress
+* [Wordpress](https://wordpress.org/)
+* [Ghost](https://ghost.org/)
 
 ## DevOps, Operations & Deployment
 * [Ops School](https://ops-school.readthedocs.io/)
@@ -575,6 +576,7 @@ Django is a batteries-included web framework written in Python.
 * [Cybersecurity Base](https://cybersecuritybase.mooc.fi/) by University of Helsinki
 * [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest)
 * [OverTheWire Wargames](http://overthewire.org/wargames/)
+* [CryptoPals](https://cryptopals.com/)
 
 ## Interview Prep
 * Cracking the Coding Interview
@@ -586,6 +588,7 @@ Django is a batteries-included web framework written in Python.
 * [HackerRank](https://www.hackerrank.com/)
 * [Exercism](https://exercism.io/)
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) in Python
+* [TechieDelight List of Problems](https://www.techiedelight.com/list-of-problems/)
 
 ## Practice App / Projects
 * [App Ideas](https://github.com/florinpop17/app-ideas)
