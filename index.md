@@ -51,7 +51,7 @@ Here is a list of languages, along with generally what kind of job(s) you would 
 
 You will be sticking with this language until you finish a short programming course (14 - 30 days). Once you’ve picked, don’t switch languages until you finish the intro course. In fact, don’t switch languages unless you hate the language you’ve been learning and can pick out a language that you’re really excited to learn. When you're first starting out, being consistent and gaining fluency in a single language is important.
 
-You have until the end of today to pick a language.
+You have until the end of today to pick a language. To help you get oriented, you may want to read a little about programming from the [r/learnprogramming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq).
 
 If you have hit the end of the day without choosing a language, I’m going to pick for you: Congratulations, you’re going to learn Javascript!
 
@@ -503,6 +503,12 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+
+## Functional Programming
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
+
+## Declarative Programming
+* [Declarative Thinking, Declarative Practice by Kevlin Henney](https://www.youtube.com/watch?v=NSzsYWckGd4)
 
 ## Programming Languages, Coding Languages & Domain-Specific Languages
 ### General
