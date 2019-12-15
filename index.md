@@ -53,7 +53,7 @@ You will be sticking with this language until you finish a short programming cou
 
 You have until the end of today to pick a language. To help you get oriented, you may want to read a little about programming from the [r/learnprogramming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq).
 
-If you have hit the end of the day without choosing a language, I’m going to pick for you: Congratulations, you’re going to learn Javascript!
+If you have hit the end of the day without choosing a language, I’m going to pick for you: Congratulations, you’re going to learn Python!
 
 ## More Info
 Below is more information about the languages, to help you make up your mind.
