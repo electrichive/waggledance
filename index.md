@@ -626,6 +626,7 @@ Django is a batteries-included web framework written in Python.
 ## Open Source Contribution Opportunities
 Contributing to open source projects is a good way to gain experience and also give back to the community.
 
+* [Code Triage](https://www.codetriage.com/)
 * [First Contributions](https://github.com/firstcontributions/first-contributions)
 * [First Timers Only](https://www.firsttimersonly.com/)
 * [Contrib](https://gauger.io/contrib/#/language/javascript)
