@@ -218,7 +218,7 @@ Whether coding bootcamps are worth it is a hot-button issue. Here are some consi
 Ok, from here onwards we're going to assume you're going with entirely self-directed learning, although everything in this plan will still be useful to those going a more traditional route.
 
 #### In-Depth Learning Programs
-Check out the four web dev learning programs listed below, and choose one to work on.
+Check out the five in-depth learning programs listed below, and choose one to work on.
 - [Free Code Camp](https://www.freecodecamp.org/)
     * FCC covers HTML, CSS and Javascript, and covers a wide range of topics.
     * FCC works primarily through interactive browser exercises.
