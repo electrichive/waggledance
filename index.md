@@ -530,10 +530,14 @@ Django is a batteries-included web framework written in Python.
 * [Awesome Django](https://github.com/wsvincent/awesome-django)
 
 ### HTML
-[MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
+* [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
 
 ### CSS
-[MDN CSS Docs](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
+* [MDN CSS Docs](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
+
+### C
+* [C_Programming subreddit](https://www.reddit.com/r/C_Programming/)
+* [Awesome C](https://github.com/kozross/awesome-c#learning-reference-and-tutorials)
 
 ### Rust
 * [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/)
@@ -568,6 +572,7 @@ Django is a batteries-included web framework written in Python.
 * [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
 * Base CS: [Website](https://medium.com/basecs) and [Podcast](https://www.codenewbie.org/basecs)
 * [mycodeschool Youtube channel](https://www.youtube.com/user/mycodeschool)
+* [Algorithm Examples](http://algorithmexamples.com/)
 
 ## Data Science
 * [DataCamp](https://www.datacamp.com/)
@@ -585,6 +590,7 @@ Django is a batteries-included web framework written in Python.
 * [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest)
 * [OverTheWire Wargames](http://overthewire.org/wargames/)
 * [CryptoPals](https://cryptopals.com/)
+* [Hack This Site](https://www.hackthissite.org/pages/index/index.php)
 
 ## Interview Prep
 * Cracking the Coding Interview
@@ -617,10 +623,10 @@ Contributing to open source projects is a good way to gain experience and also g
 * [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 
 ## Linux/Unix
-[Linux command line for you and me!](https://lym.readthedocs.io/en/latest/)
-[Linux Journey](https://linuxjourney.com/)
-[Linux Tutorial Introduction](https://linuxsurvival.com/linux-tutorial-introduction/)
-[Linux Academy](https://linuxacademy.com/)
+* [Linux command line for you and me!](https://lym.readthedocs.io/en/latest/)
+* [Linux Journey](https://linuxjourney.com/)
+* [Linux Tutorial Introduction](https://linuxsurvival.com/linux-tutorial-introduction/)
+* [Linux Academy](https://linuxacademy.com/)
 
 ## Tools
 - [Hacker Tools](https://hacker-tools.github.io/)
@@ -629,6 +635,7 @@ Contributing to open source projects is a good way to gain experience and also g
 	- [Firefox](https://www.mozilla.org/firefox/new/)
 	- [Chrome](https://www.google.com/chrome/)
 - Text Editors & IDEs
+    - [Visual Studio Code](https://code.visualstudio.com/): popular open-source Integrated Development Environment
     - [Sublime Text](https://www.sublimetext.com/)
 		- This [Real Python post](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
 		- This [blog post](https://schneid.io/blog/my-sublime-text-setup-revisited/)
@@ -637,7 +644,6 @@ Contributing to open source projects is a good way to gain experience and also g
 	- [Brackets](http://brackets.io/)
 	- [Vim](https://www.vim.org/)
 	- [Emacs](https://www.gnu.org/software/emacs/)
-    - [Visual Studio Code](https://code.visualstudio.com/): popular open-source Integrated Development Environment
 - [Repl.it](https://repl.it/home): a collaborative code editor
 - Terminal
 	+ iTerm
