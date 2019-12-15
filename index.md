@@ -218,17 +218,26 @@ Whether coding bootcamps are worth it is a hot-button issue. Here are some consi
 Ok, from here onwards we're going to assume you're going with entirely self-directed learning, although everything in this plan will still be useful to those going a more traditional route.
 
 #### In-Depth Learning Programs
-Check out the three web dev learning programs listed below, and choose one to work on. I would recommend Free Code Camp if you want to stick with Javascript, and Odin Project if you want to try out Ruby. CS50's Web Programming is suitable for Python learners.
+Check out the four web dev learning programs listed below, and choose one to work on.
 - [Free Code Camp](https://www.freecodecamp.org/)
     * FCC covers HTML, CSS and Javascript, and covers a wide range of topics.
     * FCC works primarily through interactive browser exercises.
+    * Choose Free Code Camp if you want to aim to be a fullstack Javascript developer.
+* [App Academy Open](https://open.appacademy.io/)
+    - App Academy Open covers Ruby/Rails, Javascript, and HTML/CSS.
+    - App Academy Open has a lot of material, but is potentially more difficult to navigate without a mentor.
+    - Choose App Academy Open if you want to be a Rails and Javascript developer, and you have access to a mentor/instructor.
 - [The Odin Project](https://www.theodinproject.com/)
-    * The Odin Project covers Ruby/Rails, Javascript, and HTML/CSS.
-    * The Odin Project does a slightly better job of covering the developer tooling ecosystem, and has you work in parallel on your own PC rather than in the browser.
-- Aalto University's [Full Stack Open](https://fullstackopen.com/en/) course
-    * Note: This is a resource I haven't personally tested, but it looks quite good on first impression.
+    * The Odin Project covers Ruby/Rails (optionally), Javascript, and HTML/CSS, similar to App Academy Open, but has less material and is possibly easier to navigate alone.
+    * The Odin Project does a good job of covering the developer tooling ecosystem, and has you work in parallel on your own PC rather than in the browser.
+    * Choose the Odin Project if you want to aim to be a Rails and Javascript developer, and you don't have a mentor to work with.
 - [Harvard's CS50 Intro to CS](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) followed by [CS50's Web Programming with Python and JavaScript](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript)
     + CS50 is an excellent program, and will ingrain more computer science fundamentals into your learning than the other programs. The tradeoff is that this track will take longer than the other programs to get you job-ready.
+    + CS50 uses C, Python, and Javascript.
+    + Choose CS50 if you want a solid CS base and you aren't in a rush to get a job immediately.
+* Aalto University's [Full Stack Open](https://fullstackopen.com/en/) course
+    * Full Stack Open is aimed at people with some experience with Javascript already and focuses only on Javascript.
+    * Choose this program if you feel like you have a good base in Javascript and HTML/CSS and want to be able to move quickly on to the next level.
 
 # Level 2 (Beginner) - Step 5
 ## Work through the learning program (3 months - 2 years)
@@ -293,11 +302,11 @@ The roadmaps recommended above should give you a lot to work on, but here is a b
 * Database usage
     * SQL and relational databases: PostgreSQL
     * NoSQL databases: MongoDB
-* Python backend frameworks:
+* Python backend frameworks
 	* Django (Batteries-included)
 	* Flask (Lightweight)
 	* Pyramid
-* Javacript web frameworks:
+* Javacript web frameworks
     * [React](#React)
     * Angular
     * Vue
@@ -489,7 +498,6 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Online Learning Bachelor's Level](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
 * [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 * [p1xt guides](https://github.com/P1xt/p1xt-guides)
-* [App Academy online](https://open.appacademy.io/)
 * [codeSTACKr's Web Dev Roadmap 2020](https://www.youtube.com/watch?v=iogabydg2y0)
 * [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap)
 * [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
@@ -599,6 +607,7 @@ Django is a batteries-included web framework written in Python.
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 * [interviewing.io](https://interviewing.io/)
 * [Pramp](https://www.pramp.com/#/)
+* [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges): in Python
 
 ## Competitive Programming, Coding Challenges
 * [LeetCode](https://leetcode.com/)
