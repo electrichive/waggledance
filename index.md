@@ -422,6 +422,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Laracasts](https://laracasts.com/)
 * [Awesome Resources](https://github.com/georgegognadze/awesome-resources)
 * Your Local Library: Don't underestimate this one! Aside from books, many libraries have subscriptions to Lynda and other high-value educational sites.
+* [Hackr.io](https://hackr.io/): a collection of programming courses and tutorials
 
 ## News & Culture
 * [Hacker News](https://news.ycombinator.com/)
