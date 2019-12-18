@@ -106,7 +106,7 @@ Decide whether you want to learn primarily through a video lecture series or a b
 ## Courses
 ### Javascript
 #### Video lecture series
-Do this course: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+Do this course: [The New Modern Javascript Bootcamp Bootcamp](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
 
 - It should be “on sale” for ~$12 USD. If it’s not “on sale”, don’t buy it and wait for the sale.
 
