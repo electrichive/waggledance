@@ -591,6 +591,9 @@ Django is a batteries-included web framework written in Python.
 * [mycodeschool Youtube channel](https://www.youtube.com/user/mycodeschool)
 * [Algorithm Examples](http://algorithmexamples.com/)
 
+### Computer Architecture and Assembly
+* [Programming from the Ground Up](https://savannah.nongnu.org/projects/pgubook/)
+
 ## Data Science
 * [DataCamp](https://www.datacamp.com/)
 * [Data School](https://www.youtube.com/user/dataschool): Youtube channel
