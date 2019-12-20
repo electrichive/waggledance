@@ -572,7 +572,7 @@ Django is a batteries-included web framework written in Python.
 
 ## Computer Science
 * [Teach Yourself CS by Bradfield CS](http://teachyourselfcs.com/)
-* * [Online Learning Bachelor's Level](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
+* [Online Learning Bachelor's Level](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
 * [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 * [Open Source Society University](https://github.com/ossu/computer-science)
 * [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
