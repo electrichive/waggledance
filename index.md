@@ -583,6 +583,7 @@ Django is a batteries-included web framework written in Python.
 * [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
 * [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 * [Four Semesters of Computer Science in Six Hours](https://btholt.github.io/four-semesters-of-cs/)
+* [Crash Course Computer Science](https://youtu.be/tpIctyqH29Q)
 
 ### Data Structures & Algorithms
 * [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
