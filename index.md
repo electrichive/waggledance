@@ -692,6 +692,9 @@ Contributing to open source projects is a good way to gain experience and also g
 - [Student Free Stuff](https://github.com/andykamath/student-free-stuff)
 - [Basecamp](https://basecamp.com/discounts)
 
+## APIs
+* [List of Public APIs](https://github.com/toddmotto/public-apis)
+
 ## Identify technology stacks
 * [Wappalyzer](https://www.wappalyzer.com/)
 * [Stackshare](https://stackshare.io/stacks)
