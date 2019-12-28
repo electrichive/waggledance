@@ -124,7 +124,7 @@ Check out this course: [The Modern Python Bootcamp](https://www.udemy.com/course
 If you can't/don't want to pay for the course, here is a free alternative: [Introduction to Computer Science and Programming](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 
 #### Book/Text-based course
-Use this: [How To Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
+Use this: [Think Python](https://greenteapress.com/wp/think-python-2e/)
 
 ### Beginner Topics
 Here is an incomplete list of topics that you should feel comfortable with upon completion of the intro course:
