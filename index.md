@@ -502,6 +502,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+* [Grow Your Technical Skills With Google](https://techdevguide.withgoogle.com/)
 
 ## Functional Programming
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
