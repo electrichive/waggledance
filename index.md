@@ -503,6 +503,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 * [Grow Your Technical Skills With Google](https://techdevguide.withgoogle.com/)
+* [Association for Coding Machinery's Coding Bootcamp](https://www.acmbpdc.org/)
 
 ## Functional Programming
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
@@ -565,7 +566,7 @@ Django is a batteries-included web framework written in Python.
 * [Gophercises](https://gophercises.com/) - Coding exercises with Go
 
 ### Java
-* [University of Helsinki's Java MOOC](https://moocfi.github.io/courses/2013/programming-part-1/)
+* [University of Helsinki's Java MOOC](https://java-programming.mooc.fi/)
 
 ### SQL
 * [The Ultimate MySQL Bootcamp](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
@@ -585,6 +586,7 @@ Django is a batteries-included web framework written in Python.
 * [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 * [Four Semesters of Computer Science in Six Hours](https://btholt.github.io/four-semesters-of-cs/)
 * [Crash Course Computer Science](https://youtu.be/tpIctyqH29Q)
+* [OpenLib.cs](https://github.com/acmbpdc/openlib.cs): "A Collection of Free & Open Resources for University Coursework in Computer Science"
 
 ### Data Structures & Algorithms
 * [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
@@ -654,8 +656,8 @@ Contributing to open source projects is a good way to gain experience and also g
 * [Linux Academy](https://linuxacademy.com/)
 
 ## Tools
-- [Hacker Tools](https://hacker-tools.github.io/)
-	- See also this [Hacker News post](https://news.ycombinator.com/item?id=19078281) and the [subreddit](https://www.reddit.com/r/hackertools/)
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+	- See also this [Reddit post](https://www.reddit.com/r/programming/comments/eyagcd/the_missing_semester_of_your_cs_education_mit/)
 * Browsers
 	- [Firefox](https://www.mozilla.org/firefox/new/)
 	- [Chrome](https://www.google.com/chrome/)
@@ -708,11 +710,14 @@ Contributing to open source projects is a good way to gain experience and also g
 * [Get Mac Apps](http://www.getmacapps.com/)
 
 ## Career Development
-[Career Progression Reference](https://www.progression.fyi)
+* [Career Progression Reference](https://www.progression.fyi)
 
 ## Academia
-[The Open University](https://www.open.ac.uk/)
-[Papers We Love](https://github.com/papers-we-love/papers-we-love)
+* [The Open University](https://www.open.ac.uk/)
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 
 ## Non-Programming Topics
 * [Personal Finance for Engineers](https://cs007.blog/)
+
+## Assorted
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more"
