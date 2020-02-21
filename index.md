@@ -623,6 +623,7 @@ Django is a batteries-included web framework written in Python.
 * [interviewing.io](https://interviewing.io/)
 * [Pramp](https://www.pramp.com/#/)
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges): in Python
+* [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Competitive Programming, Coding Challenges
 * [LeetCode](https://leetcode.com/)
