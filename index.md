@@ -591,12 +591,14 @@ Django is a batteries-included web framework written in Python.
 * [Four Semesters of Computer Science in Six Hours](https://btholt.github.io/four-semesters-of-cs/)
 * [Crash Course Computer Science](https://youtu.be/tpIctyqH29Q)
 * [OpenLib.cs](https://github.com/acmbpdc/openlib.cs): "A Collection of Free & Open Resources for University Coursework in Computer Science"
+* [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/): The classic textbook "Structure and Interpretation of Computer Programs" rewritten in Python
 
 ### Data Structures & Algorithms
 * [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
 * Base CS: [Website](https://medium.com/basecs) and [Podcast](https://www.codenewbie.org/basecs)
 * [mycodeschool Youtube channel](https://www.youtube.com/user/mycodeschool)
 * [Algorithm Examples](http://algorithmexamples.com/)
+* [Coding Problems](https://github.com/MTrajK/coding-problems)
 
 ### Computer Architecture and Assembly
 * [Programming from the Ground Up](https://savannah.nongnu.org/projects/pgubook/)
