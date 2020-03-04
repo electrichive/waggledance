@@ -327,7 +327,7 @@ Great, you've finished the program you've chosen and should now have developed e
 * [Getting a Gig](https://github.com/cassidoo/getting-a-gig)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university#book-list)
 
-### Job Sites & Boards
+### Job Sites, Boards & Lists
 * [LinkedIn](linkedin.com)
 * [Glassdoor](https://www.glassdoor.com/)
 * [Dice](https://www.dice.com/)
@@ -335,6 +335,7 @@ Great, you've finished the program you've chosen and should now have developed e
 * [Stack Overflow Jobs](https://stackoverflow.com/jobs)
 * [Github Jobs](https://jobs.github.com/)
 * [Triplebyte](https://triplebyte.com/)
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): List of companies that hire without whiteboarding
 
 ### Build a personal site/portfolio
 Build yourself a personal site or portfolio page. Add personal projects you're proud of, with clean code and documentation.
@@ -463,8 +464,10 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Sentdex](https://www.youtube.com/user/sentdex)
 * [Become a Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/#learn-javascript)
 * [Wes Bos](https://wesbos.com)
+* [Wakata](https://wakata.io/learn): Learn JavaScript, CSS, React and SQL
 
 ### Front-End Web Development
+* [U. Washington's INFO 340](https://info340.github.io/): A book teaching client-side web development
 * [Frontend Masters](https://frontendmasters.com/)
 
 ### Static Site Generators
@@ -531,6 +534,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) by Colt Steele
 
 ### Python
+* [Learn Python](https://www.learnpython.org/)
 * [Full Stack Python](https://www.fullstackpython.com)
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/): online book (free/gratis) and Udemy course (paid, although offered free/gratis from time to time)
 * [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
@@ -624,6 +628,7 @@ Django is a batteries-included web framework written in Python.
 * [Pramp](https://www.pramp.com/#/)
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges): in Python
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [1-on-1 Questions](https://github.com/VGraupera/1on1-questions)
 
 ## Competitive Programming, Coding Challenges
 * [LeetCode](https://leetcode.com/)
@@ -699,7 +704,7 @@ Contributing to open source projects is a good way to gain experience and also g
 ## APIs
 * [List of Public APIs](https://github.com/toddmotto/public-apis)
 
-## Identify technology stacks
+## Technology stack info
 * [Wappalyzer](https://www.wappalyzer.com/)
 * [Stackshare](https://stackshare.io/stacks)
 * [Built With](https://builtwith.com/)
@@ -709,9 +714,12 @@ Contributing to open source projects is a good way to gain experience and also g
 * [Product Hunt](producthunt.com)
 * [Ninite](ninite.com)
 * [Get Mac Apps](http://www.getmacapps.com/)
+* [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
+
 
 ## Career Development
 * [Career Progression Reference](https://www.progression.fyi)
+* [Ask A Manager](https://www.askamanager.org/)
 
 ## Academia
 * [The Open University](https://www.open.ac.uk/)
