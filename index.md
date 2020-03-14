@@ -528,6 +528,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) and [You Don't Know JS Exercises](https://ydkjs-exercises.com/)
 * [JS tl;dr](https://js-tldr.info/about)
 * [JS Vault](https://jsvault.com/): a collection of tricky JS interview questions
+* [Awesome JS Conferences](https://github.com/hangindev/awesome-javascript-confs-rewatch)
 
 #### React <a name="React"></a>
 * [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
