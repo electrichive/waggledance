@@ -684,6 +684,7 @@ Contributing to open source projects is a good way to gain experience and also g
 - Terminal
 	+ iTerm
 - Git: Industry-standard version control. Learn it. You need to know it.
+    - [Github's Git Handbook](https://guides.github.com/introduction/git-handbook/)
 	- [Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 	- [Resources](https://try.github.io/)
 	- [Branching](https://learngitbranching.js.org/)
