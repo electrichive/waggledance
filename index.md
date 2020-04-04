@@ -524,6 +524,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [sharpen.design](https://sharpen.design/): Generates practice design challenges
 * [UX Tools Survey (2019)](https://uxtools.co/survey-2019/)
 * [FrontendMentor.io](https://www.frontendmentor.io/)
+* Antony Conboy's [free design course](https://antonyconboy.com/)
 
 ### Javascript
 * [Free Code Camp](https://www.freecodecamp.org)
