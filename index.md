@@ -519,6 +519,12 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Learn X in Y Minutes](https://learnxinyminutes.com/): quick overview of various languages
 * [Programming Notes for Professionals](https://goalkicker.com/)
 
+## Design, UI and UX
+* [LearnUX.io](https://learnux.io/)
+* [sharpen.design](https://sharpen.design/): Generates practice design challenges
+* [UX Tools Survey (2019)](https://uxtools.co/survey-2019/)
+* [FrontendMentor.io](https://www.frontendmentor.io/)
+
 ### Javascript
 * [Free Code Camp](https://www.freecodecamp.org)
 * [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
