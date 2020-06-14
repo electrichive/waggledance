@@ -425,6 +425,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Awesome Resources](https://github.com/georgegognadze/awesome-resources)
 * Your Local Library: Don't underestimate this one! Aside from books, many libraries have subscriptions to Lynda and other high-value educational sites.
 * [Hackr.io](https://hackr.io/): a collection of programming courses and tutorials
+* [SoloLearn](https://www.sololearn.com/)
 
 ## News & Culture
 * [Hacker News](https://news.ycombinator.com/)
@@ -602,6 +603,10 @@ Django is a batteries-included web framework written in Python.
 ### SQL
 * [The Ultimate MySQL Bootcamp](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 * [The Complete SQL Bootcamp](https://www.udemy.com/course/the-complete-sql-bootcamp/)
+* [SQLBolt](https://sqlbolt.com/)
+
+### Regular Expressions (RegEx)
+* [RegExr](https://regexr.com/)
 
 ## Computer Science
 * [Teach Yourself CS by Bradfield CS](http://teachyourselfcs.com/)
@@ -678,6 +683,7 @@ Django is a batteries-included web framework written in Python.
 * [Exercism](https://exercism.io/)
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) in Python
 * [TechieDelight List of Problems](https://www.techiedelight.com/list-of-problems/)
+* [Codforces](https://codeforces.com/)
 
 ## Practice App / Projects
 * [App Ideas](https://github.com/florinpop17/app-ideas)
