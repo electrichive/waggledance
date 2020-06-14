@@ -465,10 +465,12 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Become a Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/#learn-javascript)
 * [Wes Bos](https://wesbos.com)
 * [Wakata](https://wakata.io/learn): Learn JavaScript, CSS, React and SQL
+* Jonas Schmedtmann's [web dev resources list](http://codingheroes.io/resources/)
 
 ### Front-End Web Development
 * [U. Washington's INFO 340](https://info340.github.io/): A book teaching client-side web development
 * [Frontend Masters](https://frontendmasters.com/)
+* [ Modern HTML & CSS From The Beginning](https://www.udemy.com/course/modern-html-css-from-the-beginning/)
 
 ### Static Site Generators
 * [StaticGen](https://www.staticgen.com/): a collection of static site generators
@@ -486,6 +488,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Ops School](https://ops-school.readthedocs.io/)
 * [DevOps Bookmarks](http://www.devopsbookmarks.com/)
 * [DevOps subreddit](https://www.reddit.com/r/devops)
+* [https://tutorialsdojo.com/](Tutorials Dojo)
 
 ### Hosting
 * Netlify
@@ -507,6 +510,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 * [Grow Your Technical Skills With Google](https://techdevguide.withgoogle.com/)
 * [Association for Coding Machinery's Coding Bootcamp](https://www.acmbpdc.org/)
+* andreasbm's [guide to web skills](https://andreasbm.github.io/web-skills/)
 
 ## Functional Programming
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
@@ -536,10 +540,19 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [JS tl;dr](https://js-tldr.info/about)
 * [JS Vault](https://jsvault.com/): a collection of tricky JS interview questions
 * [Awesome JS Conferences](https://github.com/hangindev/awesome-javascript-confs-rewatch)
+* [JavaScript - The Complete Guide 2020](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
+* [Modern Javascript From the Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
 
 #### React <a name="React"></a>
 * [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 * [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) by Colt Steele
+* [Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL) ](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
+
+#### Angular
+* [Angular - The Complete Guide (2020 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+
+#### Vue
+* [ Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex) ](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
 
 ### Python
 * [Learn Python](https://www.learnpython.org/)
@@ -600,6 +613,8 @@ Django is a batteries-included web framework written in Python.
 * [Crash Course Computer Science](https://youtu.be/tpIctyqH29Q)
 * [OpenLib.cs](https://github.com/acmbpdc/openlib.cs): "A Collection of Free & Open Resources for University Coursework in Computer Science"
 * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/): The classic textbook "Structure and Interpretation of Computer Programs" rewritten in Python
+* [SCIP in Javascript](https://sicp.comp.nus.edu.sg)
+* [No Debt Computer Science](https://no-debt-cs.netlify.app/)
 
 ### Data Structures & Algorithms
 * [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
