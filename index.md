@@ -321,6 +321,7 @@ The roadmaps recommended above should give you a lot to work on, but here is a b
 * Free & open-source software
 * Mobile development
 * Cloud development: Amazon Web Services
+* [Roadmap after the Stanford Code In Place program](https://www.reddit.com/r/learnprogramming/comments/grn4ey/finished_with_your_first_programming_course_and/)
 
 ## Search for Jobs & Prep for the Job Interview Process
 Great, you've finished the program you've chosen and should now have developed employable skills. Now it's time to prep for the job interview process. Browse the following:
@@ -466,6 +467,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Wes Bos](https://wesbos.com)
 * [Wakata](https://wakata.io/learn): Learn JavaScript, CSS, React and SQL
 * Jonas Schmedtmann's [web dev resources list](http://codingheroes.io/resources/)
+* [Progate](https://progate.com/)
 
 ### Front-End Web Development
 * [U. Washington's INFO 340](https://info340.github.io/): A book teaching client-side web development
@@ -498,6 +500,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * Firebase
 * AWS
 * Cloudfront
+* [PythonAnywhere] (https://www.pythonanywhere.com/)
 
 ## Curriculae/Roadmaps
 * [Roadmap.sh](https://roadmap.sh/)
@@ -511,6 +514,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Grow Your Technical Skills With Google](https://techdevguide.withgoogle.com/)
 * [Association for Coding Machinery's Coding Bootcamp](https://www.acmbpdc.org/)
 * andreasbm's [guide to web skills](https://andreasbm.github.io/web-skills/)
+* [Pathify](https://pathify.dev/)
 
 ## Functional Programming
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
@@ -529,6 +533,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [UX Tools Survey (2019)](https://uxtools.co/survey-2019/)
 * [FrontendMentor.io](https://www.frontendmentor.io/)
 * Antony Conboy's [free design course](https://antonyconboy.com/)
+* [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 
 ### Javascript
 * [Free Code Camp](https://www.freecodecamp.org)
@@ -542,6 +547,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Awesome JS Conferences](https://github.com/hangindev/awesome-javascript-confs-rewatch)
 * [JavaScript - The Complete Guide 2020](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 * [Modern Javascript From the Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+* [A Javascript Mindmap](https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52)
 
 #### React <a name="React"></a>
 * [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
@@ -615,6 +621,7 @@ Django is a batteries-included web framework written in Python.
 * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/): The classic textbook "Structure and Interpretation of Computer Programs" rewritten in Python
 * [SCIP in Javascript](https://sicp.comp.nus.edu.sg)
 * [No Debt Computer Science](https://no-debt-cs.netlify.app/)
+* [CMU CS Academy for High Schoolers](https://academy.cs.cmu.edu/)
 
 ### Data Structures & Algorithms
 * [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
@@ -625,6 +632,9 @@ Django is a batteries-included web framework written in Python.
 
 ### Computer Architecture and Assembly
 * [Programming from the Ground Up](https://savannah.nongnu.org/projects/pgubook/)
+
+### Operating Systems
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Data Science
 * [DataCamp](https://www.datacamp.com/)
@@ -643,6 +653,11 @@ Django is a batteries-included web framework written in Python.
 * [OverTheWire Wargames](http://overthewire.org/wargames/)
 * [CryptoPals](https://cryptopals.com/)
 * [Hack This Site](https://www.hackthissite.org/pages/index/index.php)
+* [Stanford's CS 253 - Web Security](https://web.stanford.edu/class/cs253/)
+* [The Open Web Application Security Project]( https://owasp.org/)
+
+## Cryptography
+* [Understanding Cryptography](http://www.crypto-textbook.com/)
 
 ## Interview Prep
 * Cracking the Coding Interview
@@ -654,6 +669,8 @@ Django is a batteries-included web framework written in Python.
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges): in Python
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [1-on-1 Questions](https://github.com/VGraupera/1on1-questions)
+* [Firecode](https://www.firecode.io/)
+* [Interview.io](https://interviewing.io/)
 
 ## Competitive Programming, Coding Challenges
 * [LeetCode](https://leetcode.com/)
@@ -685,6 +702,9 @@ Contributing to open source projects is a good way to gain experience and also g
 * [Linux Journey](https://linuxjourney.com/)
 * [Linux Tutorial Introduction](https://linuxsurvival.com/linux-tutorial-introduction/)
 * [Linux Academy](https://linuxacademy.com/)
+
+## Bash
+# [The Bash Guide](https://guide.bash.academy/)
 
 ## Tools
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
