@@ -337,6 +337,7 @@ Great, you've finished the program you've chosen and should now have developed e
 * [Github Jobs](https://jobs.github.com/)
 * [Triplebyte](https://triplebyte.com/)
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards): List of companies that hire without whiteboarding
+* [r/CSJobLinks](https://www.reddit.com/r/CsJobLinks/)
 
 ### Build a personal site/portfolio
 Build yourself a personal site or portfolio page. Add personal projects you're proud of, with clean code and documentation.
@@ -426,6 +427,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * Your Local Library: Don't underestimate this one! Aside from books, many libraries have subscriptions to Lynda and other high-value educational sites.
 * [Hackr.io](https://hackr.io/): a collection of programming courses and tutorials
 * [SoloLearn](https://www.sololearn.com/)
+* [HyperSkill / JetBrains Academy](https://hyperskill.org)
 
 ## News & Culture
 * [Hacker News](https://news.ycombinator.com/)
@@ -469,6 +471,7 @@ Now that you're a successful programmer, give back! Please consider contributing
 * [Wakata](https://wakata.io/learn): Learn JavaScript, CSS, React and SQL
 * Jonas Schmedtmann's [web dev resources list](http://codingheroes.io/resources/)
 * [Progate](https://progate.com/)
+* [WebDevsCom](https://webdevscom.github.io/)
 
 ### Front-End Web Development
 * [U. Washington's INFO 340](https://info340.github.io/): A book teaching client-side web development
@@ -634,6 +637,7 @@ Django is a batteries-included web framework written in Python.
 * [mycodeschool Youtube channel](https://www.youtube.com/user/mycodeschool)
 * [Algorithm Examples](http://algorithmexamples.com/)
 * [Coding Problems](https://github.com/MTrajK/coding-problems)
+* [List of Practice Problems](https://www.techiedelight.com/list-of-problems/)
 
 ### Computer Architecture and Assembly
 * [Programming from the Ground Up](https://savannah.nongnu.org/projects/pgubook/)
@@ -642,6 +646,7 @@ Django is a batteries-included web framework written in Python.
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Data Science
+* [DataQuest](dataquest.io/)
 * [DataCamp](https://www.datacamp.com/)
 * [Data School](https://www.youtube.com/user/dataschool): Youtube channel
 
@@ -660,6 +665,7 @@ Django is a batteries-included web framework written in Python.
 * [Hack This Site](https://www.hackthissite.org/pages/index/index.php)
 * [Stanford's CS 253 - Web Security](https://web.stanford.edu/class/cs253/)
 * [The Open Web Application Security Project]( https://owasp.org/)
+* [Learn Security Engineering](https://github.com/veeral-patel/learn-security-engineering)
 
 ## Cryptography
 * [Understanding Cryptography](http://www.crypto-textbook.com/)
