@@ -781,9 +781,10 @@ Django is a batteries-included web framework written in Python.
 
 ### Data Science
 
-- [DataQuest](dataquest.io/)
+- [DataQuest](https://www.dataquest.io/)
 - [DataCamp](https://www.datacamp.com/)
 - [Data School](https://www.youtube.com/user/dataschool): Youtube channel
+- [2021 Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/): by Jose Portilla
 
 #### Machine Learning
 
