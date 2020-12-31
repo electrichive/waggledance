@@ -130,7 +130,7 @@ Evaluate whether you learn better through watching videos, or through reading te
 
 ##### Javascript video course
 
-Do this course: [The New Modern Javascript Bootcamp Bootcamp](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
+Do this course: [The New Modern Javascript Bootcamp Bootcamp](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) by Colt Steele
 
 **Warning**: Please read [the note linked here about Udemy's misleading course prices](#udemy-warning) and don't buy a course if it's more than $15.
 
@@ -142,7 +142,7 @@ Do [Free Code Camp](https://www.freecodecamp.org/), starting with: "JavaScript A
 
 ##### Python video lecture series
 
-Do this course: [Complete Python Developer in 2021: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
+Do this course: [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/) by Colt Steele
 
 **Warning**: Please read [the note linked here about Udemy's misleading course prices](#udemy-warning) and don't buy a course if it's more than $15.
 
@@ -566,6 +566,9 @@ This section is separate from the learning plan detailed above. The following is
 - Jonas Schmedtmann's [web dev resources list](http://codingheroes.io/resources/)
 - [Progate](https://progate.com/)
 - [WebDevsCom](https://webdevscom.github.io/)
+- [Udemy - The Web Developer Bootcamp 2020](https://www.udemy.com/course/the-web-developer-bootcamp/) by Colt Steele
+- [Udemy - The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp/) by Colt Steele
+- [Udemy - The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Dr. Angela Yu
 
 #### Front-End Web Development
 
@@ -608,6 +611,7 @@ This section is separate from the learning plan detailed above. The following is
 
 ### Curriculae/Roadmaps
 
+- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html): Peter Norvig's advice on teaching yourself programming the slow and steady way
 - [Roadmap.sh](https://roadmap.sh/)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [p1xt guides](https://github.com/P1xt/p1xt-guides)
@@ -622,6 +626,9 @@ This section is separate from the learning plan detailed above. The following is
 - [Pathify](https://pathify.dev/)
 
 ### Programming & Coding Languages & Programming Paradigms
+
+#### General resources for programming
+- [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212): Peter Norvig's Udacity course on programming principles
 
 #### General resources for programming languages
 
@@ -682,6 +689,7 @@ This section is separate from the learning plan detailed above. The following is
 - [Socratica Youtube Channel](https://www.youtube.com/user/SocraticaStudios/)
 - [Test-Driven Development with Python](https://www.obeythetestinggoat.com/)
 - [Python Tips](https://github.com/gpetepg/python_tips/)
+- [ 100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/) by Dr. Angela Yu
 
 ##### Django
 
@@ -698,6 +706,9 @@ Django is a batteries-included web framework written in Python.
 
 - [MDN CSS Docs](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
 
+##### CSS Frameworks
+
+- [The Bootstrap 4 Bootcamp](https://www.udemy.com/course/bootstrap-4-bootcamp/) by Colt Steele
 #### C
 
 - [C_Programming subreddit](https://www.reddit.com/r/C_Programming/)
@@ -761,6 +772,7 @@ Django is a batteries-included web framework written in Python.
 - [SCIP in Javascript](https://sicp.comp.nus.edu.sg)
 - [No Debt Computer Science](https://no-debt-cs.netlify.app/)
 - [CMU CS Academy for High Schoolers](https://academy.cs.cmu.edu/)
+- [CS Textbooks Free Online](https://csgordon.github.io/books.html): A collection of CS textbooks that are freely available online
 
 #### Data Structures & Algorithms
 
@@ -770,6 +782,7 @@ Django is a batteries-included web framework written in Python.
 - [Algorithm Examples](http://algorithmexamples.com/)
 - [Coding Problems](https://github.com/MTrajK/coding-problems)
 - [List of Practice Problems](https://www.techiedelight.com/list-of-problems/)
+- [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 
 #### Computer Architecture and Assembly
 
@@ -785,6 +798,7 @@ Django is a batteries-included web framework written in Python.
 - [DataCamp](https://www.datacamp.com/)
 - [Data School](https://www.youtube.com/user/dataschool): Youtube channel
 - [2021 Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/): by Jose Portilla
+- [Complete 2020 Data Science & Machine Learning Bootcamp](https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/) by Philip Muellauer and Dr. Angela Yu
 
 #### Machine Learning
 
