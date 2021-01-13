@@ -4,11 +4,15 @@
 
 ### What is this?
 
-This is a highly-opinionated, curated guide to becoming a professional programmer, with a focus on fullstack web development. I originally wrote this to give some guidance to my friends. Now, I'm offering it up to the public in the hopes that it might help others. Feel free to share or offer suggestions for improvement.
+This is a highly-opinionated, curated guide to becoming a professional programmer, with a focus on fullstack web development. It was originally written in order for one programmer to give guidance to his friends. It is now offered up up to the public in the hopes that it might help others. Feel free to share or offer suggestions for improvement.
 
 ### Who is this for?
 
 This is written for people who don’t have a strong background in programming and computer science, and are trying to figure out if they want to pursue a career using programming.
+
+### Who made this?
+
+This guide was originally written by [opheron](https://github.com/opheron) aka [Andrew Chong](https://www.andrewhchong.com/). It is now maintained by opheron and the rest of the [Electric Hive](https://www.electrichive.org/), a free and open programmer/hacker collective focused on mentoring and producing technological solutions for public good. Please check our website out for more information about us and for information on how to join us.
 
 ### Why is it opinionated and curated?
 
