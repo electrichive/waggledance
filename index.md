@@ -744,6 +744,12 @@ Django is a batteries-included web framework written in Python.
   - **Warning**: Please read [the note linked here about Udemy's misleading course prices](#udemy-warning) and don't buy a course if it's more than $15.
 - [SQLBolt](https://sqlbolt.com/)
 
+#### R
+
+- [R for Data Science](https://r4ds.had.co.nz/): A modern take on R used widely in Data Science via the Tidyverse set of packages
+- [Mastering Shiny](https://mastering-shiny.org/): Online resource for learning and developing R Shiny applications 
+
+
 #### Regular Expressions (RegEx)
 
 - [RegExr](https://regexr.com/)
@@ -901,6 +907,7 @@ Contributing to open source projects is a good way to gain experience and also g
   - [Brackets](http://brackets.io/)
   - [Vim](https://www.vim.org/)
   - [Emacs](https://www.gnu.org/software/emacs/)
+  - [RStudio](https://rstudio.com/): Definitive IDE for R + Shiny + Markdown Development
 - [Repl.it](https://repl.it/home): a collaborative code editor
 - Terminal
   - iTerm
