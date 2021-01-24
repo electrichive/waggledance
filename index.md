@@ -745,9 +745,13 @@ Django is a batteries-included web framework written in Python.
 - [SQLBolt](https://sqlbolt.com/)
 
 #### R
+(~~Sorry~~ Thanks, Tyler!)
 
 - [R for Data Science](https://r4ds.had.co.nz/): A modern take on R used widely in Data Science via the Tidyverse set of packages
-- [Mastering Shiny](https://mastering-shiny.org/): Online resource for learning and developing R Shiny applications 
+- [Shiny](https://shiny.rstudio.com/): Shiny is an R package for creating interactive web apps
+- [Mastering Shiny](https://mastering-shiny.org/): Online resource for learning and developing R Shiny applications. R Shiny is a web application framework 
+- [R Programming - Johns Hopkins University - Coursera](https://www.coursera.org/learn/r-programming): Learn to program in R for data analysis.
+- [Swirl](https://swirlstats.com/): "swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!"
 
 #### Regular Expressions (RegEx)
 
@@ -809,6 +813,7 @@ Django is a batteries-included web framework written in Python.
 - [Data School](https://www.youtube.com/user/dataschool): Youtube channel
 - [2021 Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/): by Jose Portilla
 - [Complete 2020 Data Science & Machine Learning Bootcamp](https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/) by Philip Muellauer and Dr. Angela Yu
+- [The Analytics Edge - MIT - EdX](https://www.edx.org/course/the-analytics-edge): A course on data analyis and statics, taught using the R programming language
 
 #### Machine Learning
 
