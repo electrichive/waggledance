@@ -745,7 +745,7 @@ Django is a batteries-included web framework written in Python.
 - [SQLBolt](https://sqlbolt.com/)
 
 #### R
-(~~Sorry~~ Thanks, Tyler!)
+(Thanks, Tyler!)
 
 - [R for Data Science](https://r4ds.had.co.nz/): A modern take on R used widely in Data Science via the Tidyverse set of packages
 - [Shiny](https://shiny.rstudio.com/): Shiny is an R package for creating interactive web apps
