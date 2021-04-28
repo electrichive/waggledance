@@ -517,6 +517,7 @@ This section is separate from the learning plan detailed above. The following is
 - [Hackr.io](https://hackr.io/): a collection of programming courses and tutorials
 - [SoloLearn](https://www.sololearn.com/)
 - [HyperSkill / JetBrains Academy](https://hyperskill.org)
+- [InterviewBit](https://www.interviewbit.com/devops-interview-questions/): A Place to practice coding and prepare for interviews online.
 
 #### News & Culture
 
