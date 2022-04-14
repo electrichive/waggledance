@@ -65,7 +65,9 @@ Much ado is made about picking a first language. There are many good choices but
 Here is a list of languages, along with generally what kind of job(s) you would likely be able to get with competency in that language:
 
 - Javascript: Front-end web dev, full-stack web dev
-- Python: Back-end web dev, data scientist, data engineer
+- Python: Back-end web dev, data scientist, data engineer, data analyst
+
+There are of course other areas that you could get using these languages, such as devops-focused roles like site reliability engineering or cybersecurity, but you will need to know those domains' additional specific skills, which are beyond the scope of this guide.
 
 You will be sticking with this language until you finish a short programming course (14 - 30 days). Once you’ve picked, don’t switch languages until you finish the intro course. In fact, don’t switch languages unless you hate the language you’ve been learning and can pick out a language that you’re really excited to learn. When you're first starting out, being consistent and gaining fluency in a single language is important.
 
@@ -85,8 +87,7 @@ Below is more information about the languages, to help you make up your mind.
 ##### Javascript cons
 
 - Kind of a quirky language, even with a lot of modern improvements, so:
-  - It’s a little harder to pick up as a first language
-  - It can be a little difficult to pick up other languages
+  - Some language quirks can be frustrating "gotchas" as a beginner
 - Constant, rapid change in the ecosystem can be tiring to keep up with
 
 ##### Javascript job prospects
@@ -119,42 +120,68 @@ Below is more information about the languages, to help you make up your mind.
 
 #### Decide on a learning medium (videos or text + images)
 
-Evaluate whether you learn better through watching videos, or through reading text and looking at graphics, or if you learn equally well with either medium. Based on this, decide whether you want to learn primarily through a video lecture series or a book/text-and-images-based course. If you're not sure, try the video lectures first. Start the course for your language and start working through the program as fast as possible.
+Evaluate whether you learn better through _watching videos_, or through _reading text and looking at graphics_, or if you learn equally well with either medium. Based on this, decide whether you want to learn primarily through a video lecture series or a book/text-and-images-based course. If you're not sure, try the video lectures first. Start the course for your language and start working through the program as quickly as possible.
 
 #### Tips for learning from this course
 
-- Until further notice, you are now banned from copy-pasting any code. Every bit of code you use must be hand-typed. This will help you ingrain programming syntax into your brain.
+- Until further notice, you are now banned from copy-pasting any code. Every bit of code you use must be hand-typed. This will help you ingrain programming syntax into your brain and prevents your brain from shutting off when you copy-paste.
 - Your goal every day is to work at least 5 minutes per day EVERY DAY. Use a timer to make sure you do at least 5 minutes.
 - Use a calendar to make sure you hit your goal every day and remind yourself.
-  - It is recommended to use a paper calendar and place it in a prominent location. Otherwise, an electronic calendar with a recurring reminder will work fine.
-- If you screw up and skip a day or days, forgive yourself and then, that day, return to doing 5 minutes of work every day.
+  - I recommend you use a paper calendar and place it in a prominent location you will see every day. Otherwise, an electronic calendar with a recurring reminder will work fine.
+- If you miss or skip a day or days, forgive yourself and then, that day, return to doing 5 minutes of work every day.
 - Set up a time when you are supposed to start working on the course every day. Stick to that time.
 
 #### Intro course choices
 
 ##### Javascript video course
 
-Do this course: [The New Modern Javascript Bootcamp Bootcamp](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) by Colt Steele
+Here are two good free JS MOOC courses:
 
-**Warning**: Please read [the note linked here about Udemy's misleading course prices](#udemy-warning) and don't buy a course if it's more than $15.
+[University of California Davis's Javascript Basics course](https://www.coursera.org/learn/javascript-basics?specialization=javascript-beginner) is good.
 
 If you can't/don't want to pay for the course, here is a free alternative: [Udacity: Introduction to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
+
+If you don't mind paying for a course, there are a few good Udemy courses as well:
+
+- [The Modern Javascript Bootcamp Course (2022)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) by Colt Steele
+  - I like this course the most, and would recommend you check it out first.
+- [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/) by Andrew Mead
+- [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann
+- [JavaScript - The Complete Guide 2022 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
+
+Any of these courses are great, so just watch some of the free preview video lectures and see whose teaching style works best for you.
+
+If you can afford the course, I would recommend the Colt Steele course. I have not yet found a free Javascript video course that I think is as good as this course. (If you do find one, please let me know via comment or pull request!)
+
+**Warning**: Please read [the note linked here about Udemy's misleading course prices](#udemy-warning) and don't buy a course if it's more than $15.
 
 ##### Javascript text + images course
 
 Do [Free Code Camp](https://www.freecodecamp.org/), starting with: "JavaScript Algorithms and Data Structures Certification" -> "Basic Javascript"
+[Mozilla Document Network (MDN's) Javascript course](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is also good.
 
 ##### Python video lecture series
 
-Do this course: [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/) by Colt Steele
+Do this course: Harvard's [CS50's Introduction to Programming with Python, aka CS50p](https://www.edx.org/course/cs50s-introduction-to-programming-with-python?index=product&queryID=d50d8dd36359ab96091469c0cf256f21&position=2)
+This course is taught by the illustrious Professor David J. Malan and is part of one of the best free intro CS courses in the world, CS50.
 
-**Warning**: Please read [the note linked here about Udemy's misleading course prices](#udemy-warning) and don't buy a course if it's more than $15.
+If you want something that feels less academic, there are a few paid Udemy courses that are also good:
+
+- [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/) by Colt Steele
+  - This course is a good solid intro to programming with Python, and covers a variety of different use cases for Python programming.
+- [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/) by Dr. Angela Yu
+  - This course is also great, and is much bigger and more extensive than Colt Steele's course. It is geared more towards web dev.
+- [Complete Python Developer in 2022: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/) by Andrei Neagoie
+  - This course is good but gets into some more advanced topics later in the course.
+- [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) by Jose Portilla: Another good course, I would recommend this more for people who are heading more towards the data science/analysis route
+- **Warning**: Please read [the note linked here about Udemy's misleading course prices](#udemy-warning) and don't buy a course if it's more than $15.
 
 If you can't/don't want to pay for the course, here is a free alternative: [EdX / MIT: Introduction to Computer Science and Programming](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 
-##### Python text + images course
+##### Python text + images & video lectures course
 
-Do this: [Think Python](https://greenteapress.com/wp/think-python-2e/)
+Do the [University of Helsinki's Python Programming MOOC 2022](https://programming-22.mooc.fi/)
+If you don't like the University of Helsinki's MOOC, try this book: [Think Python](https://greenteapress.com/wp/think-python-2e/)
 
 #### Beginner topics
 
@@ -262,11 +289,13 @@ Ok, from here onwards we're going to assume you're going with entirely self-dire
 Check out the five in-depth learning programs listed below, and choose one to work on.
 
 - [Free Code Camp](https://www.freecodecamp.org/)
+
   - FCC covers HTML, CSS and Javascript, and covers a wide range of topics.
   - FCC works primarily through interactive browser exercises.
   - Choose Free Code Camp if you want to aim to be a fullstack Javascript developer.
 
 - [App Academy Open](https://open.appacademy.io/)
+
   - App Academy Open covers Ruby/Rails, Javascript, and HTML/CSS.
   - App Academy Open has a lot of material, but is potentially more difficult to navigate without a mentor.
   - Choose App Academy Open if you want to be a Rails and Javascript developer, and you have access to a mentor/instructor.
@@ -276,6 +305,7 @@ Check out the five in-depth learning programs listed below, and choose one to wo
   - The Odin Project does a good job of covering the developer tooling ecosystem, and has you work in parallel on your own PC rather than in the browser.
   - Choose the Odin Project if you want to aim to be a Rails and Javascript developer, and you don't have a mentor to work with.
 - [Harvard's CS50 Intro to CS](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) followed by [CS50's Web Programming with Python and JavaScript](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript)
+
   - CS50 is an excellent program, and will ingrain more computer science fundamentals into your learning than the other programs. The tradeoff is that this track will take longer than the other programs to get you job-ready.
   - CS50 uses C, Python, and Javascript.
   - Choose CS50 if you want a solid CS base and you aren't in a rush to get a job immediately.
@@ -283,6 +313,12 @@ Check out the five in-depth learning programs listed below, and choose one to wo
 - Aalto University's [Full Stack Open](https://fullstackopen.com/en/) course
   - Full Stack Open is aimed at people with some experience with Javascript already and focuses only on Javascript.
   - Choose this program if you feel like you have a good base in Javascript and HTML/CSS and want to be able to move quickly on to the next level.
+
+Also, if you like Udemy, you can teach yourself off of web dev Udemy courses, while supplementing with other material. Here are a few web developer Udemy courses that are good:
+
+- [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) by Colt Steele
+- [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Dr. Angela Yu
+- [The Complete Web Developer in 2022: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) by Andrei Neagoie
 
 ### Step 5: Work through the learning program (3 months - 2 years)
 
@@ -357,6 +393,7 @@ The roadmaps recommended above should give you a lot to work on, but here is a b
 - Python backend frameworks
   - Django (Batteries-included)
   - Flask (Lightweight)
+  - FastAPI
   - Pyramid
 - Javacript web frameworks
   - [React](#react)
@@ -364,8 +401,8 @@ The roadmaps recommended above should give you a lot to work on, but here is a b
   - Vue
 - Javascript backend frameworks:
   - Express (Lightweight)
-- Authorization & permissions
-- App/Site deployment
+- Security: identity management, access, authorization & permissions
+- App/Site deployment: CI/CD
 - Compiled languages: Mess around with C, C++, C#, Java, Go, Rust, etc.
 - Operating systems: Linux, Unix
 - Visual Design, UI & UX
@@ -414,7 +451,7 @@ If you prefer video lectures:
 
 If you prefer reading a book:
 
-- [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/): This is often recommended as *the* interview prep book.
+- [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/): This is often recommended as _the_ interview prep book.
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms): This book is in Python, but does not focus on language-specific stuff.
 - [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html): The authors provide a free interactive version of the book online, along with video instructions on some in-chapter exercises.
 
@@ -494,7 +531,7 @@ This section is separate from the learning plan detailed above. The following is
 - [Free Code Camp](https://www.freecodecamp.org/) and their [Youtube channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [Rithm School](https://www.rithmschool.com/courses)
 - [Udemy](https://udemy.com/)
-  - [udemy-warning][Warning about Udemy course pricing]
+  - [udemy-warning][warning about udemy course pricing]
   - <a id="udemy-warning">**Warning about Udemy course pricing!**</a> Please read this important purchasing note: Any Udemy course you buy should cost approximately $10 - $15 as an out-the-door/final price, depending on the "sale" they are currently offering, and you should absolutely not pay more than $15 for any one course. If the course is not “on sale”, do one of the following:
     - Search online for a coupon for the course.
     - Open an incognito tab on your browser and check if the Udemy course is listed at an appropriate price in that tab.
@@ -571,9 +608,10 @@ This section is separate from the learning plan detailed above. The following is
 - Jonas Schmedtmann's [web dev resources list](http://codingheroes.io/resources/)
 - [Progate](https://progate.com/)
 - [WebDevsCom](https://webdevscom.github.io/)
-- [Udemy - The Web Developer Bootcamp 2020](https://www.udemy.com/course/the-web-developer-bootcamp/) by Colt Steele
 - [Udemy - The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp/) by Colt Steele
-- [Udemy - The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Dr. Angela Yu
+- [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) by Colt Steele
+- [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Dr. Angela Yu
+- [The Complete Web Developer in 2022: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) by Andrei Neagoie
 
 #### Front-End Web Development
 
@@ -633,6 +671,7 @@ This section is separate from the learning plan detailed above. The following is
 ### Programming & Coding Languages & Programming Paradigms
 
 #### General resources for programming
+
 - [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212): Peter Norvig's Udacity course on programming principles
 
 #### General resources for programming languages
@@ -751,7 +790,7 @@ Django is a batteries-included web framework written in Python.
 
 - [R for Data Science](https://r4ds.had.co.nz/): A modern take on R used widely in Data Science via the Tidyverse set of packages
 - [Shiny](https://shiny.rstudio.com/): Shiny is an R package for creating interactive web apps
-- [Mastering Shiny](https://mastering-shiny.org/): Online resource for learning and developing R Shiny applications. R Shiny is a web application framework 
+- [Mastering Shiny](https://mastering-shiny.org/): Online resource for learning and developing R Shiny applications. R Shiny is a web application framework
 - [R Programming - Johns Hopkins University - Coursera](https://www.coursera.org/learn/r-programming): Learn to program in R for data analysis.
 - [Swirl](https://swirlstats.com/): "swirl teaches you R programming and data science interactively, at your own pace, and right in the R console!"
 
@@ -900,6 +939,7 @@ Contributing to open source projects is a good way to gain experience and also g
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
   - See also this [Reddit post](https://www.reddit.com/r/programming/comments/eyagcd/the_missing_semester_of_your_cs_education_mit/)
 - Browsers
+
   - [Firefox](https://www.mozilla.org/firefox/new/)
   - [Chrome](https://www.google.com/chrome/)
 
