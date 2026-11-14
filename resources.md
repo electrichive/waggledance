@@ -370,7 +370,7 @@ Django is a batteries-included web framework written in Python.
 * Cracking the Coding Interview
 * Programming Interviews Exposed
 * Elements of Programming Interviews
-* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+* [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 * [interviewing.io](https://interviewing.io/)
 * [Pramp](https://www.pramp.com/#/)
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges): in Python
